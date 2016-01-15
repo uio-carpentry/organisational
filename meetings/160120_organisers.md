@@ -1,5 +1,6 @@
-Date: Janaury 20
-Place (subject to change): Bio building
+Date: Janaury 20  
+Time: 9:00  
+Place (subject to change): Bio building  
 
 Agenda:
 
