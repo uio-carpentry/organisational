@@ -44,9 +44,9 @@ The Science Library has been very helpful and helped us to run UIO Software Carp
 
 The University of Oslo is not a member of the Software Carpentry foundation. As a consequence the University of Oslo does not have any priority on the Software Carpentry Instructor program which makes it difficult to get new instructors.
 
-USIT would be the most natural organization to become member of the Software Carpentry Foundation but they are not interested.
+USIT would be the most natural organization to become member of the Software Carpentry Foundation but they seem not very interested.
 
-To find another possible host for this membership, Arnstein has discussed with Knut Mørken (Computing in Science Education, Faculty of Mathematics and Natural Sciences) who showed a great interest in Software Carpentry activities; further discussions will take place to possibly include Software Carpentry lessons for bachelors. Software Carpentry may be invited for the Seminar they organized in February on reforming bachelor programs. 
+To find another possible host for this membership, Arnstein has discussed with Knut Mørken (Computing in Science Education, Faculty of Mathematics and Natural Sciences) who showed a great interest in Software Carpentry activities; further discussions will take place to possibly include Software Carpentry lessons for bachelors. Software Carpentry may be invited for the Seminar they organize in February on reforming bachelor programs. 
 
 This is clearly an opportunity for UIO to become member of the Software Carpentry Foundation. Lex mentioned that going through the Faculty of Mathematics and Natural Sciences may trigger problems as it does not cover all disciplines. We strongly agreed with him and insisted on the fact that Software Carpentry workshops should be run for all disciplines covered at UIO.
 
@@ -97,7 +97,8 @@ Ben said that we should encourage attendees to come with colleagues as recommend
 Ben mentionned recurring setup problems with attendees: several did not follow the setup instructions and did not install the necessary tools. However, we only discovered it on the second day when using git. We decided to check the availability of all the necessary tools (python, git, etc.) at the beginning of a Workshop to avoid wasting time on the second day.
 
 
-Lex also pointed an issue with the room booking system at the Science Library. It does not allow to book a room more than a month in advance which delays advertisement of Software Carpentry workshops and as a consequence the registration process. No specific action was taken to circumvent this problem. 
+Lex also pointed the difficulties to book a room for two full days at the University: the booking system does not allow to book a room more than a month in 
+advance which delays advertisement of Software Carpentry workshops and as a consequence the registration process. No specific action was taken to circumvent this problem. 
 
 ###Software Carpentry Workshop in February###
 
@@ -115,7 +116,7 @@ Helpers: Katie, Hans (and possibly more if we can recruit a few more)
 - Karin will send an email to those who are in the waiting list with a link to the registration form for the coming Software Carpentry workshop (February).
 - Karin will ask Liv to add in the registration form the possibility to name colleagues (2 or 3 maximum) wishing to attend the workshop together. 
 - Karin will modify the email sent to attendees to highlight the setup session (8:30 to 9:00 on the first day) and encourage attendees to come to the setup session if they do not manage to install the necessary software (or don't have time to do so), .
-- Anne & Hans will choose a week (no holidays, etc.) for each potential workshop  (from April) and setup a doodle for each of them.
+- Anne & Hans will choose a week (no holidays, etc.) for each potential workshop  (from April) and setup a doodle.
 
 ##March ‘Carpentry week'##
 A ‘Carpentry week' is being organized in March 2016 (14-18 March 2016). Lex gave some information about the preliminary program:
