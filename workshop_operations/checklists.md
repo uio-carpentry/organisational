@@ -16,6 +16,7 @@ FIXME send pre-workshop assessment form link
 ## After the workshop
 
 * download the registration information from `nettskjema.uio.no`, add one column for each workshop day and add an `x` for those participants that were present
+* send Software Carpentry or Data Carpentry admin the number of attendants for both days
 
 FIXME find a way to centrally, but safely, collect this information
 
