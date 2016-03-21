@@ -1,3 +1,6 @@
+Subject: XXX workshop at UiO: post-workshop issues
+
+
 Dear participant in the XXXX workshop at UiO,
 
 Once again, thank you for participating!
@@ -8,17 +11,17 @@ Here are some post-workshop issues:
 
 FIXME add link
 
-- please find attached the full contents of the etherpad we used
+- you will find attached the full contents of the etherpad we used
 - the lesson material we used can be found here: 
 
 FIXME add link
 
-- we have added you (or will do this soon) to two mailing lists: Announcements (for new workshops) and  Discussions (anything you'd like to ask related to the workshops and materials taught). Emails from these lists contain unsubscribe links should you wish to do so
+- we have added you (or will of this soon) to two mailing lists: Announcements (for new workshops at UiO and other related events) and Discussions (anything you'd like to ask related to the workshops and materials taught). Emails from these lists contain unsubscribe links should you not wish to be on them
 - get Involved! the 'Carpentry' effort at UiO is a volunteer project; if you'd like to help us, let us know by sending an email to contact-us@swcarpentry.uio.no
 
 FIXME once it is up, add the link to the to-be-made Carpentry@UiO website
 
-Hoping to see you again on another occasion, on behalf of the workshop instructors and helpers,
+We hope to see you again on another occasion. On behalf of the workshop instructors and helpers,
 
 FIXME sign
 
