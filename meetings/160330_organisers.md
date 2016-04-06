@@ -144,13 +144,13 @@ Karin will set-up this subgroup and organize a meeting to discuss it. Vincent, C
 
 Michel asks for more training on github (not only on git) and also mentioned his wish to get train and become an instructor.
 
-For github, Lex suggested to look at the [Mozilla Science Lab website](https://www.mozillascience.org).
+For github, Lex suggested to look at the [Mozilla Science Lab website](https://www.mozillascience.org/making-friends-with-github).
 
 About the necessity to train the trainers, we are looking into organizing an instructor training workshop at UIO. Both Karin and Lex are in the process of becoming certified instructors for the instructor training program.
 
 #### Actions ####
 
-Lex will send some web links for github training.
+Lex will send the web link for github training on the Mozilla Science Lab website. This action is closed because Lex sent it just after the meeting: https://www.mozillascience.org/making-friends-with-github.
 
 ## Social outing ##
 
