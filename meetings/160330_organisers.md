@@ -24,13 +24,14 @@ The agenda was adopted and a new item on github has been added at Michel's reque
 
 ### Evaluation ###
 
-We all had very positive comments on the Carpentry week. More than 100 persons attended the workshops and we recruted new helpers and instructors.
+We all had very positive comments on the Carpentry week. More than 100 persons attended the workshops and we recruited new helpers and instructors.
+
 
 A special thank to the Library who was fantastic (food, registration, coffee, stickers, etc.).
 
 A meeting is planned on Wednesday 31th of March with the Library & Arnstein for an evaluation of the Carpentry week and planning for next events. 
 
-Lex asked if an instructor from the Software Carpentry workshop and one from the Spatio-temporal Data arpentry workshop could attend it.
+Lex asked if an instructor from the Software Carpentry workshop and one from the Spatio-temporal Data arpentry workshop could attend it. Anne and Halvdan agreed to come along.
 
 
 Anne said we poorly advertised the spatio-temporal Data Carpentry workshop: we initially advertised it as a Data Carpentry workshop for Geoscientists while using spatio-temporal data is not specific to geoscientists.
@@ -42,7 +43,7 @@ As an overall comment, we agreed to be more careful when we advertise Data Carpe
 Several python issues with matplotlib were encountered during Software Carpentry workshop: several attendees could not import matplotlib even though they all installed python anaconda. Arvind has similar problems too.
 
 
-Hugues mentionned the difficulties they had to get positive and negative inputs written on stickers: they asked for feedbacks at the end of each session but got very little feedbacks. Karin said that if it does not work with stickers, it can be done orally (Greg Wilson does it very often and it works very well according someone takes notes of the comments!). 
+Hugues mentioned the difficulties they had to get positive and negative inputs written on stickers: they asked for feedbacks at the end of each session but got very little feedbacks. Lex said that if it does not work with stickers, it can be done orally (Greg Wilson does it very often and it works very well according someone takes notes of the comments!). 
 
 We also discussed how useful it would be to have the desktop machines prepared with software needed for the workshop. We will make a list of what should be installed, based on the setup page of the next workshop. The goal would be to liaise with IT-groups of each concerned departments and install all the required software on all the desktops & UIO laptops. Lex will follow-up on this at the meeting with the Library tomorrow.
 
@@ -112,11 +113,11 @@ We all agreed that it is still necessary to organise 2 days workshops few times 
 - 1/2 or 1 day introducing Python or R (could be useful for Data Carpentry follow-up workshops)
 - 1/2 or 1 day Software Carpentry workshop for professors
 
-Vincent also mentionned the interest of ForBio (http://www.forbio.uio.no) to develop a Software Carpentry workshop week. The ambition of Forbio is to train a new generation of biosystematists in the Nordic countries and as many PhDs are coming from abroad, it would be necessary to hold a full week rather than several 1/2 days or 1 day workshops. 
+Vincent also mentioned the interest of ForBio (http://www.forbio.uio.no) to develop a Software Carpentry workshop week. The ambition of Forbio is to train a new generation of biosystematists in the Nordic countries and as many PhDs are coming from abroad, it would be necessary to hold a full week rather than several 1/2 days or 1 day workshops. 
 
 We discussed the possibility to participate more actively in Research school to train younger researchers (PhDs), master Students or even undergraduates. We all agreed there is a need to adapt Software Carpentry workshop "format".
 
-The codata international Training Workshop format was discussed: they offer the possibility to build your own workshop with lessons chosen according to your needs. We all think we could use the same kind of format, with adequate information on the possible prerequisites for each session.
+The codata international Training Workshop format was discussed: they offer the possibility to build your own workshop with lessons chosen according to your needs. A good example of what codata offers can be found at [http://www.codata.org/news/105/62/CODATA-International-Training-Workshop-in-Big-Data-for-Science-Beijing-4-17-July](http://www.codata.org/news/105/62/CODATA-International-Training-Workshop-in-Big-Data-for-Science-Beijing-4-17-July).  We all think we could use the same kind of format, with adequate information on the possible prerequisites for each session.
 
 
 #### Actions ####
@@ -138,20 +139,18 @@ After some discussions, we decided to set-up a data therapy subgroup to discuss 
 
 Karin will set-up this subgroup and organize a meeting to discuss it. Vincent, Carrie and Anne already expressed their interests.
 
-## git vs github ##
 
+## Instructor training ##
 
-Michel asks for more training on github (not only on git) and also mentionned the necessity to train the trainers. 
+Michel asks for more training on github (not only on git) and also mentioned his wish to get train and become an instructor.
 
-On the github part, Lex said we could even develop a more github oriented lesson for git where the usage of command line would not be necessary.
+For github, Lex suggested to look at the [Mozilla Science Lab website](https://www.mozillascience.org).
 
-About the necessity to train the trainers, we have started to write some documents on how to organize a workshop at UIO or on who can teach what and we think we should develop more UIO-based information.
-
-The example of the Mozilla Science Lab website (http://www.mozillascience.org) was given and the idea of mentorships seems to be the way forward.
+About the necessity to train the trainers, we are looking into organizing an instructor training workshop at UIO. Both Karin and Lex are in the process of becoming certified instructors for the instructor training program.
 
 #### Actions ####
 
-Lex will send some web links for github training and will follow up on the development of a github based lesson.
+Lex will send some web links for github training.
 
 ## Social outing ##
 
