@@ -33,7 +33,7 @@ The agenda was adopted and a new item "AOB" was added at the very end when John 
 
 - Involvement of local IT-groups (to install SWC and DC software stack) has been mentioned during the Carpentry meeting with the Library. **The action is still opened** and a list of software will be defined after the next SWC workshop in June.
 
-- 10th Nay one day workshop: Carrie and Christian met and discussed the content of the course. **Action is closed**.
+- 10th May one day workshop: Carrie and Christian met and discussed the content of the course. **Action is closed**.
 
 - Lead Instructor for the 20/21th June SWC: Lex sent an email and Anne is the lead instructor. **Action is closed**.
 
@@ -56,8 +56,26 @@ For the one-day workshop on R, Christian is currently updating the materials (me
 
 So far we have 3 helpers: Unni Vik (postdoc with Carrie), Lex and Anne.
 
-27 persons have already signed up.
+Around 26 signed up from:
 
+- Cognitive Neuroscience, Psychology
+- CEES
+- FORMI, Institution for clinical medicine
+- Medical Genetics Department
+- Department of Chemistry
+- Science Library
+- CEES, IBV
+- Head Engineer, Faculty of Medicine
+- Institute for Cancer Research, Tumor Biology Department
+- Psychology department
+- Institutt for husdyr og akvakulturvitenskap
+- Biosciences
+- HF, ILOS
+- Faculty of Education, Department of Teacher Education and School 
+- Research
+- Natural History Museum
+- Teknisk-administrativt ansatt, Det samfunnsvitenskapelige fakultet
+- Department of Oral Biology
 
 ###SWC Workshop (20/21st June): 
 
@@ -83,7 +101,7 @@ So far we have 3 helpers: Unni Vik (postdoc with Carrie), Lex and Anne.
 
 ##post-workshop evaluation form for non-SWC/DC workshops##
 
-The R workshop in May is a non-SWC workshop.
+The R workshop in May is a non-SWC workshop. This issue was not really discussed but having a simple evaluation form would be helpful. 
 
 ##improving the [workshop operations checklists](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/checklists.md)##
 
@@ -129,7 +147,7 @@ Some important figures to take into account for the discussions:
 - What is the best way to exchange and discuss: discussion list or facebook, twitter, forum, etc.
 
 - we have about 30 instructors (organizers mailing list) that can potentially participate/teach/help to these Data Therapy.
-- We 242 people registered to our discussion mailing list.
+- We have about 242 people registered to our discussion mailing list.
 - So in total we have about 292 persons (attendees workshop + instructors)
 
 #### Actions ####
