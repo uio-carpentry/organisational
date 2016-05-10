@@ -13,6 +13,10 @@ FIXME generating the workshop website at https://github.com/uio-carpentry using 
 
 FIXME send pre-workshop assessment form link
 
+## The Day Before
+
+If you can, set up the room (tables, chairs), try out the projector, check the network, etc.
+
 ## After the workshop
 
 * download the registration information from `nettskjema.uio.no`, add one column for each workshop day and add an `x` for those participants that were present
