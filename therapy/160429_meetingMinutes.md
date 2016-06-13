@@ -25,7 +25,7 @@ Let people practice what they have learned…
 …bringing their own data
 Tip of the week (in max 5-10 min)
 
-## Exampels of tips ##
+## Examples of tips ##
 
  - reproduceblity, work flow (reproduce the work of someone)
  - numpy, matplotlib
