@@ -57,5 +57,8 @@ Sugested topics:
 
 SWC-bug-barbeque (to fix bunch of issues)
 
+###Action
+LEX: Find a way to share documents that we dont want to put on the internet
+ -Github for university (uio.github.no) Can only share with uio not with the world.
 
 
