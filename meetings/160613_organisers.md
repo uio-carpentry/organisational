@@ -12,7 +12,7 @@
 # Meeting minutes #
 
 ## Attendees ##
-Lex Nederbragt, Carrie Andrew, Christian Wilhelm Mohr, Axel Rosén, Anne Fouilloux, ???, Pål Marius Bjørnstad, Halfdan Rydbeck, ??? 
+Lex Nederbragt, Carrie Andrew, Christian Wilhelm Mohr, Axel Rosén, Anne Fouilloux, Dan Michael Heggø, Pål Marius Bjørnstad, Halfdan Rydbeck, Aderito-Luis Monjane, On Skype (from Univ. in Tromsø) Elena Malkin
 
 ##Adoption of Agenda##
 ##Minutes and action points from last meeting##
