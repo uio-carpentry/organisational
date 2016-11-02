@@ -24,11 +24,11 @@ The agenda was adopted
 
 ##Minutes and action points from last meetings##
 
-	**Still pending**: Lex to find a way to share documents that we don't want to put on the internet (github.uio.no can only share with uio not with the world).
+**Still pending**: Lex to find a way to share documents that we don't want to put on the internet (github.uio.no can only share with uio not with the world).
 	
-	**Sill pending.** Follow-up with ForBio: again, Vincent was not present. 
+**Sill pending.** Follow-up with ForBio: again, Vincent was not present. 
 	
-	**Still opened** Involvement of local IT-groups (to install SWC and DC software stack). A list of software needs to be defined and given to local IT-groups.
+**Still opened** Involvement of local IT-groups (to install SWC and DC software stack). A list of software needs to be defined and given to local IT-groups.
 
 
 ## Fall schedule for workshops##
