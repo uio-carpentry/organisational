@@ -14,6 +14,7 @@
 
 * if needed, find date(s) and ask University Library to book a room
 * generate the workshop website at uio-carpentry dot github dot com using template from https://github.com/swcarpentry/workshop-template
+* inform the helpers of the subject, room, etc
 * organise pre-workshop meeting with the other instructors and the helpers
 
 ## A Week Before
@@ -24,11 +25,18 @@
 ## The Day Before
 
 * if you can, set up the room (tables, chairs), try out the projector, check the network, etc.
+* check whether you have or need a adapter to connect your laptop to the monitor in the workshop room
+
+## At/during the workshop
+
+* send around sign-up sheet and collect it afterwards
+* collect feedback from sticky notes
+* optionally, at the end, send post-workshop questionnaire to attendants to increase response rate
 
 ## After the workshop
 
 * download the registration information from `nettskjema.uio.no`, add one column for each workshop day and add an `x` for those participants that were present; send this excel sheet to the 'admin at swcarpentry.uio.no' list
-* send post-workshop questionnaire to attendants
+* send post-workshop questionnaire to attendants (even though you may have sent it already at the workshop, to reach those that had to leave early)
 * for official SWC/DC workshops, send Software Carpentry or Data Carpentry admin the number of attendants for both days
 * for obtain the post-workshop assessment form link from the workshop uio-carpentry.github.io pages, or from SWC/DC admin
 * download the workshop etherpad in text format; take out any information that should not be sent around
@@ -41,8 +49,7 @@
 
 ## At/during the workshop
 
-* if coffee runs out contact library contact and see if morw can be arranged
-
+* if coffee runs out contact library contact and see if more can be arranged
 
 # University Library
 
@@ -67,10 +74,21 @@
 ## At/during the workshop
 
 * prepare signs directing learners to the workshop room, these can (soon) be found in this repository
-* take the coffee and tea to the workshop room, add some pitchers of tapwater
+* take the coffee and tea to the workshop room
 * take the second monitor + laptop to the workshop room (if needed)
-
+* bring other essentials to the workshop
+   * extension cables
+   * pitchers with water
+   * SWC/DC laptop stickers
+   * sticky notes
+   * non-permanent markers and/or chalk
+   
 ## After the workshop
 
 * ask for the excel sheet with registration data and store it in the common disk area (probably UiO OneDrive)
+* collect the second monitor + laptop
+* collect essentials from the workshop room and make sure the room looks OK for the next user
+   * check whether tables need a quick wipe, especially the table having the coffee cans
+   * empty tables
+
 
