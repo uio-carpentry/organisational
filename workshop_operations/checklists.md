@@ -56,7 +56,7 @@
 ## Initial Preparation
 
 * book a room and inform lead instructor on which room is booked
-* set up a registration form (nettskjema) and add appropriate people have access to it (at least the lead instructor)
+* set up a registration form (nettskjema) and give appropriate people access to it (at least the lead instructor)
 * ask lead instructor for URL of workshop information page (usually uio-carpentry.github.uio/YYYY-DD-MM-topic)
 * set up an event at uio.no
 
