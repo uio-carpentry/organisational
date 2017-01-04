@@ -13,7 +13,7 @@
 ## Initial Preparation
 
 * if needed, find date(s) and ask University Library to book a room
-* generate the workshop website at uio-carpentry dot github dot com using template from https://github.com/swcarpentry/workshop-template
+* generate the workshop website at uio-carpentry dot github dot com using the template from https://github.com/swcarpentry/workshop-template. NOTE make sure you are a member of the [uio-carpentry github organisation](https://github.com/orgs/uio-carpentry/people), and *choose this organisation as owner* for the workshop repository when you import the template
 * inform the helpers of the subject, room, etc
 * organise pre-workshop meeting with the other instructors and the helpers
 
