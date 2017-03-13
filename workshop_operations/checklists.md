@@ -3,7 +3,7 @@
 * these checklists are in addition to the ones [provided by SWC and DC](http://software-carpentry.org/workshops/operations/) for their official workshops - note that not all workshops at UiO are official SWC/DC workshops
 * It is preferred to use the `Bcc` field for sending email to participants - that we way we protect their privacy by not displaying their email address to all recipients.
 * email lists:
-  * admin @ swcarpentry dot uio dot no --> University Library and some instructors
+  * carpadmin @ swcarpentry dot uio dot no --> University Library and some instructors
   * organizers @ swcarpentry dot uio dot no --> all instructors and helpers, plus those on the admin list
   * announce @ swcarpentry dot uio dot no --> all people that have shown interest or have attended workshops + those on the organisers list
   * discuss @ swcarpentry dot uio dot no --> all people that have attended workshops + those on the organisers list
