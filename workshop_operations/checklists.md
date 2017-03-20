@@ -8,6 +8,25 @@
   * announce @ swcarpentry dot uio dot no --> all people that have shown interest or have attended workshops + those on the organisers list
   * discuss @ swcarpentry dot uio dot no --> all people that have attended workshops + those on the organisers list
 
+Table of Contents
+=================
+
+  * [Lead instructor](#lead-instructor)
+    * [Initial Preparation](#initial-preparation)
+    * [A Week Before](#a-week-before)
+    * [The Day Before](#the-day-before)
+    * [At/during the workshop](#atduring-the-workshop)
+    * [After the workshop](#after-the-workshop)
+  * [Helpers](#helpers)
+    * [At/during the workshop](#atduring-the-workshop-1)
+  * [University Library](#university-library)
+    * [Initial Preparation](#initial-preparation-1)
+    * [Several Weeks Before](#several-weeks-before)
+    * [One week before](#one-week-before)
+    * [At/during the workshop](#atduring-the-workshop-2)
+    * [After the workshop](#after-the-workshop-1)
+
+
 # Lead instructor
 
 ## Initial Preparation
