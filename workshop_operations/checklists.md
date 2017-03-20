@@ -35,7 +35,7 @@
 
 ## After the workshop
 
-* download the registration information from `nettskjema.uio.no`, add one column for each workshop day and add an `x` for those participants that were present; send this excel sheet to the 'admin at swcarpentry.uio.no' list
+* download the registration information from `nettskjema.uio.no`, add one column for each workshop day and add an `x` for those participants that were present; send this excel sheet to the 'carpadmin at swcarpentry.uio.no' list
 * send post-workshop questionnaire to attendants (even though you may have sent it already at the workshop, to reach those that had to leave early)
 * for official SWC/DC workshops, send Software Carpentry or Data Carpentry admin the number of attendants for both days
 * for obtain the post-workshop assessment form link from the workshop uio-carpentry.github.io pages, or from SWC/DC admin
