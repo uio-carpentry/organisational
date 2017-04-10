@@ -7,6 +7,6 @@ but that I use every day as a struggling science-noob.
 Looking forward to many more (FREE!!) workshops, and will recommend you to the entire
 department if I can.
 
-** Learner 2: ** 
+**Learner 2:** 
 
-Thank you for slowing down and be incredible patience with slow learners like me. Your ennounsiation and pronunciation was just perfect for hard to hear people and the instructor really infused me enthusiasm in the end even if we should had an extra 30 minutes to finish. Perfect in every aspect. From 1 to 10 this was 9 in my opinion. When you take it slow you open this for everyone, and that is crucial to build interdiciplinary and collaborative strong culture.
+Thank you for slowing down and be incredible patience with slow learners like me. Your ennounsiation and pronunciation was just perfect for hard of hearing people and the instructor really infused me enthusiasm in the end even if we should had an extra 30 minutes to finish. Perfect in every aspect. From 1 to 10 this was 9 in my opinion. When you take it slow you open this for everyone, and that is crucial to build interdiciplinary and collaborative strong culture.
