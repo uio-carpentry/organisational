@@ -16,7 +16,7 @@
 	- A schedule for the fall will be sketched next meeting
 	- Suggested: Data therapy sessions (bring your problem - get help and coffee)
 		- There seems to be a demand for such a service
-	- Rooms in the ground floor of Nils Henrik Available might be booked for SWC every Wednesday, allows for more courses (with less people)
+	- Rooms in the ground floor of Nils Henrik Abels hus might be booked for SWC every Wednesday, allows for more courses (with less people)
 
 - Yearly report 2016
 	- Need data from all workshops (who registered, who attended)
