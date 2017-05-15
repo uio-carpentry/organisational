@@ -2,7 +2,7 @@
 **Time**: 14:30  
 **Place**: Biology building
 
-#Agenda
+# Agenda
 
 - Carpentry week and Research Bazaar
 - Spring schedule for workshops
@@ -11,22 +11,22 @@
 - Next meeting
 
 
-#Meeting Minutes
+# Meeting Minutes
 
-##Attendees
+## Attendees
 **Present:** Michael Heeremans, Elin Stangeland, Christian Mohr, Halfdan Rydbeck, Raoul Wolf, Annika Rockenberger, Dmytro Perepølkin, Lex Nederbragt, Fatima Heinicke  
 **Google-hangouts**  Joey Zhong 
 
-#Carpentry week and Research Bazaar
+# Carpentry week and Research Bazaar
 
-##Feedback from this years event
+## Feedback from this years event
 
 - Merged UiO carpentry Week and Research Bazaar event
 - Almost 250 registered people
 - We are still missing the number of (real) attendees -> the library is working on the evaluation form -> workshop leaders need to send attendance sheets
 - Only few people visited the stands -> maybe because it was in parallel with the workshops
 
-##Carpentry week/RezBas 2018
+## Carpentry week/RezBas 2018
 
 - Start planning for 2018 event in August 2017
 - Date ResBaz 2018: January/February 2018 
@@ -38,7 +38,7 @@
 - Have the information stands at the same time and place as the lunch or to get even greater attention to the stands have a designated day only for stands without workshops to help people and get them informed
 
 
-#Spring Schedule for workshops
+# Spring Schedule for workshops
 
 **1-day Unix workshop: March 15th**  
 
@@ -109,7 +109,7 @@
 
 
 # Instructor training and recruitment
-##Instructor training
+## Instructor training
 
 - Next instructor workshop in Oslo is planned for early August 2017 
 - No pre-requirements needed to participate but it is advisable to be familiar with software/data carpentry and their teaching philosophy
@@ -117,7 +117,7 @@
 	- Finish workshop tasks within 90 days after finishing the course
 	- Teach a SWC or DC course within a year after finishing the instructor workshop 
 
-##Instructor recruitment
+## Instructor recruitment
 
 - Suggesting for recruiting new instructors:
 	- "Headhunt" people directly
