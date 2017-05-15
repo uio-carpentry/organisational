@@ -6,7 +6,7 @@
 
 - Carpentry week and Research Bazaar
 - Spring schedule for workshops
-- Instructor trainig and recruitment
+- Instructor training and recruitment
 - SWC Oslo future plans
 - Next meeting
 
@@ -28,8 +28,8 @@
 
 ##Carpentry week/RezBas 2018
 
-- Start planning for 2018 event in June/July 2017
-- Date Carpentry Week/ResBaz 2018: January 2018 
+- Start planning for 2018 event in August 2017
+- Date ResBaz 2018: January/February 2018 
 - More people need to get aware of us (all faculties at UiO + externals)
 - If we have a program early enough we can get into different newsletters at UiO 
 - We can create posters 
@@ -88,7 +88,7 @@
 
 **1-day Open Refine (Library Carpentry) workshop: June 14th**
 
-- Lead instructors: Elin Stangeland, Hugo ???
+- Lead instructors: Elin Stangeland, Hugo Fontenelle
 - Room: TBD
 
 **2-day Instructor workshop: early August** 
