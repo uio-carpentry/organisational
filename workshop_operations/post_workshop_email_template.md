@@ -16,7 +16,7 @@ FIXME add link
 
 FIXME add link
 
-- we have added you (or will of this soon) to two mailing lists: Announcements (for new workshops at UiO and other related events) and Discussions (anything you'd like to ask related to the workshops and materials taught). Emails from these lists contain unsubscribe links should you not wish to be on them
+- if you were not already on them, we have added you (or will of this soon) to two mailing lists: Announcements (for new workshops at UiO and other related events) and Discussions (anything you'd like to ask related to the workshops and materials taught). Emails from these lists contain unsubscribe links should you not wish to be on them
 - get involved! The 'Carpentry' effort at UiO is a volunteer project; if you'd like to help us, let us know by sending an email to contact-us@swcarpentry.uio.no
 
 Note that information about upcoming workshops can be found at uio.no/carpentry.
