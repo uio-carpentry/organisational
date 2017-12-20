@@ -53,4 +53,4 @@ Lex Nederbragt, Michel Heeremans and Maryia Khomich are in the committee, as wel
 
 - Funding: How can we expand beyond UiO? Lex has had mixed results with Sigma2 and the HPC groups.
 Libraries are running workshops in different places.
-NSD (Norsk Senter for Forskningsdata)[nsd.no] is getting new funding for Data management.
+NSD [Norsk Senter for Forskningsdata](nsd.no) is getting new funding for Data management.
