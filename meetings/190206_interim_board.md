@@ -69,20 +69,25 @@ Important to keep the link with the Science Library for Data management, Library
     - Reward could be traveling to CarpentryCon or other RSE, Data management conferences (FAIR data, FAIR software)
 
 
-AOB:
+# AOB:
 - https://iris.ai/ --> different way to navigate compared to google search
 - AI hub ?
 - FAIR data workshop
 - Nordic Data Management Workshop & Rucio workshop
 
 
-Actions: 
+# Actions
 
 - all: decide on a **name**. Send your proposals and we will decide at the next meeting.
 - live: contact University of Florida Club (char + code of conduct)
 - Elin: Website (one entry point): move the content of https://uio-carpentry.github.io/ for past workshops
 - Anne: draft the chart
 - Lex: send an email to fill our 12 seats 
+
+# Next meeting
+
+**7th March 2019** 
+
 
 
 
