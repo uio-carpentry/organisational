@@ -35,7 +35,17 @@ Anne Fouilloux, Viviane Girardin, Live Rasmussen, Elin Stangeland, Saby Razick, 
 
 Andrea Gasparini from the [AI hub](https://www.uio.no/tjenester/it/forskning/kompetansehuber/uio-ai-hub-node-project/) joined for this item.
 
-The course [JUS5671](https://www.uio.no/studier/emner/jus/jus/JUS5671/) has asked the AI hub for support. They would like 3 Fridays, (i) bootcamp on Programming with Python, (ii) Git(Hub) and Jupyter Notebooks, (iii) AI. Involved from AI: Hub Thomas Roeblitz, Anne Bergsaker and Andrea Gasparini; from JUS5671: Malcom Langford. Want to use this as a pilot towards workshops/courses to be offered to other institutes. Will reuse some of the material from the AI workshop during Research Bazaar. Suggestions from us: difficult to teach enough Python, can use Jupyter Notebook with AI relevant code that students study and modify; make sure what is in notebook is very relevant for students; skip git(hub); use tensor libraries available on Google (e.g. [Google collab](https://colab.research.google.com/)).
+The course [JUS5671](https://www.uio.no/studier/emner/jus/jus/JUS5671/) has asked the AI hub for support. They would like 3 Fridays, 
+
+- bootcamp on Programming with Python, 
+- Git(Hub) and Jupyter Notebooks, 
+- AI. 
+
+**Involved from AI**: Hub Thomas Roeblitz, Anne Bergsaker and Andrea Gasparini; **from JUS5671**: Malcom Langford. 
+
+Want to use this as a pilot towards workshops/courses to be offered to other institutes. Will reuse some of the material from the AI workshop during Research Bazaar. 
+
+**Suggestions from us**: difficult to teach enough Python, can use Jupyter Notebook with AI relevant code that students study and modify; make sure what is in notebook is very relevant for students; skip git(hub); use tensor libraries available on Google (e.g. [Google collab](https://colab.research.google.com/)).
 
 # Name
 
