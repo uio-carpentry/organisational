@@ -8,7 +8,7 @@ Send out agenda for Carpentry meeting latest Wednesday, 14 Aug to mailing list
 
 ## TOP 3: Update worksheet organisation on GitHub
 
-* [here](../organisational/workshop_operations)
+* [here](../organisational/tree/master/workshop_operations)
 
 ## TOP 4: Present Study Group
 
