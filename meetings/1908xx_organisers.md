@@ -1,4 +1,6 @@
-Send out agenda for Carpentry meeting latest Wednesday, 14 Aug to mailing list
+# AGENDA
+
+*Send out agenda for Carpentry meeting latest Wednesday, 14 Aug to mailing list*
 
 ## TOP 1: Schedule autumn 2019
 
