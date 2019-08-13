@@ -1,7 +1,7 @@
-Date: Aug 21, 2019
-Time: 3-5 pm
-Place: Niels Henrik Abels hus, Moltke Moes vei 35, 0851 Oslo
-Room: 209 (2nd floor, access through the Science Library)
+* Date: Aug 21, 2019
+* Time: 3-5 pm
+* Place: Niels Henrik Abels hus, Moltke Moes vei 35, 0851 Oslo
+* Room: 209 (2nd floor, access through the Science Library)
 
 # AGENDA
 
