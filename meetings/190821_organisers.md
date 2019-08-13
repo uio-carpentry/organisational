@@ -1,6 +1,9 @@
-# AGENDA
+Date: Aug 21, 2019
+Time: 3-5 pm
+Place: Niels Henrik Abels hus, Moltke Moes vei 35, 0851 Oslo
+Room: 209 (2nd floor, access through the Science Library)
 
-*Send out agenda for Carpentry meeting latest Wednesday, 14 Aug to mailing list*
+# AGENDA
 
 ## TOP 1: Schedule autumn 2019
 
