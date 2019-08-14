@@ -26,3 +26,5 @@
 
 
 ## TOP 6: Other
+
+* Q: Should we create an overview of who can teach / assist with what? If so: Where should it be located?
