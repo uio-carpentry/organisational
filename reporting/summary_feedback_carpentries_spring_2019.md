@@ -36,7 +36,7 @@ We got feedback for 6 workshops.
 The Majority of our learners are Phds - and researchers on various levels.
 We have a few students, mainly on masters' level, and a couple of engineers with various backgrounds.
 
-![Who are our learners - academic background](https://github.com/uio-carpentry/organisational/upload/master/reporting/images/carpentry_report_2019_01_chart_role_learner.png)
+![Who are our learners - academic background](https://github.com/uio-carpentry/organisational/blob/master/reporting/images/carpentry_report_2019_01_chart_role_learner.png)
 
 *There seems to be confusion about what to choose as "role"; perhaps we could add an explanation to the Nettskjema or add more fields to choose from?*
 
@@ -84,7 +84,7 @@ are note able to teach the entire Python module in one day; of 10 lessons we man
 
 YES. We reach them fully -- or at least somewhat.
 
-![Are We Reaching Our Goals?](https://github.com/uio-carpentry/organisational/upload/master/reporting/images/carpentry_report_2019_01_chart_goals.png)
+![Are We Reaching Our Goals?](https://github.com/uio-carpentry/organisational/blob/master/reporting/images/carpentry_report_2019_01_chart_goals.png)
 
 ### Should We Have Other And More Workshops at UiO?
 
@@ -92,25 +92,25 @@ Overwhelmingly YES.
 
 ### Would You Recommend This Workshop To A Friend Or Colleague?
 
-![Would You Recommend Us?](https://github.com/uio-carpentry/organisational/upload/master/reporting/images/carpentry_report_2019_01_chart_recommendation.png)
+![Would You Recommend Us?](https://github.com/uio-carpentry/organisational/blob/master/reporting/images/carpentry_report_2019_01_chart_recommendation.png)
 
 Overwhelmingly, learners strongly agree or agree that they would recommend our workshops.
 Only a tiny number is either neutral, or disagrees.
 
 ### Have You, After The Course, Used What You Learned?
 
-![Have You Used What You Have Learned?](https://github.com/uio-carpentry/organisational/upload/master/reporting/images/carpentry_report_2019_01_chart_usefulness.png)
+![Have You Used What You Have Learned?](https://github.com/uio-carpentry/organisational/blob/master/reporting/images/carpentry_report_2019_01_chart_usefulness.png)
 
 Half answered that they haven't yet used what they've learned but might in the future, while roughly a third answered that they have used some of it. A little less than a quarter of learners said they've used most or all of it. Only one person had not used anything at all.
 
 ### Was This Workshop Worth My Time?
 
-![Was It Worth Your Time?](https://github.com/uio-carpentry/organisational/upload/master/reporting/images/carpentry_report_2019_01_chart_worth_time.png)
+![Was It Worth Your Time?](https://github.com/uio-carpentry/organisational/blob/master/reporting/images/carpentry_report_2019_01_chart_worth_time.png)
 
 Overwhelmingly, learners answered that they strongly agreed or agreed that the workshop was worth their time. A few were neutral as to whether it was worth their time, while 3 disagreed or strongly disagreed.
 
 ### How Much Practical Knowledge Did You Gain From The Workshop?
 
-![Practical Knowledge?](https://github.com/uio-carpentry/organisational/upload/master/reporting/images/carpentry_report_2019_01_chart_practical_knowledge.png)
+![Practical Knowledge?](https://github.com/uio-carpentry/organisational/blob/master/reporting/images/carpentry_report_2019_01_chart_practical_knowledge.png)
 
 Much more than half of the learners answered that they learned a great deal, while roughly a third answered that they gained some practical knowledge. One answered that they gained none.
