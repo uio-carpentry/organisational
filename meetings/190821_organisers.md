@@ -22,7 +22,9 @@
 * past activities
 * how to participate and get in contact
 
-## TOP 5: Eval spring 2019 (tentative)
+## TOP 5: Evaluation spring 2019
+
+* [here](../organisational/blob/master/reporting/summary_feedback_carpentries_spring_2019.md)
 
 
 ## TOP 6: Other
