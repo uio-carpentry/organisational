@@ -13,7 +13,7 @@
 
 ## TOP 3: Update worksheet organisation on GitHub
 
-* [here](../organisational/tree/master/workshop_operations)
+* [here](https://github.com/uio-carpentry/organisational/tree/master/workshop_operations)
 
 ## TOP 4: Present Study Group
 
@@ -24,7 +24,7 @@
 
 ## TOP 5: Evaluation spring 2019
 
-* [here](../organisational/blob/master/reporting/summary_feedback_carpentries_spring_2019.md)
+* [here](https://github.com/uio-carpentry/organisational/blob/master/reporting/summary_feedback_carpentries_spring_2019.md)
 
 
 ## TOP 6: Other
