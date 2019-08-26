@@ -1,1 +1,1 @@
-#Yearly reports and other such documents for the Carpentry effort at UiO
+# Yearly reports and related documents for the Carpentry@UiO initiative
