@@ -41,7 +41,7 @@ Table of Contents
 ## A Week Before
 
 * obtain and send pre-workshop questionnaire to attendants
-* download the sign-up sheet from [workshop_operations]() <! -- create sheet, upload to folder, insert link when done -->
+* download the sign-up sheet from [workshop_operations]() <!-- create sheet, upload to folder, insert link when done -->
 
 ## The Day Before
 
