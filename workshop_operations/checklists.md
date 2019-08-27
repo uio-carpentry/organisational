@@ -3,10 +3,9 @@
 * these checklists are in addition to the ones [provided by The Carpentries](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) for their official workshops - note that not all workshops at UiO are official The Carpentries workshops
 * It is preferred to use the `Bcc` field for sending email to participants - that way we protect participants' privacy by not displaying  email addresses to all recipients.
 * email lists:
-  * carpadmin @ swcarpentry dot uio dot no --> University Library and some instructors
-  * organizers @ swcarpentry dot uio dot no --> all instructors and helpers, plus those on the admin list
-  * announce @ swcarpentry dot uio dot no --> all people that have shown interest or have attended workshops + those on the organisers list
-  * discuss @ swcarpentry dot uio dot no --> all people that have attended workshops + those on the organisers list
+  * ``carpadmin @ swcarpentry dot uio dot no`` --> University Library and some instructors
+  * ``organizers @ swcarpentry dot uio dot no`` --> all instructors and helpers, plus those on the admin list
+  * ``announcements @ swcarpentry dot uio dot no`` --> all people that have shown interest or have attended workshops + those on the organisers list
 
 Table of Contents
 =================
@@ -31,11 +30,12 @@ Table of Contents
 
 ## Initial Preparation
 
-* check the [spreadsheet](https://docs.google.com/spreadsheets/d/1VwTIFt6Tce4ncJ_x8m4ygzHldF6tYDbAfLLNX5ae8Qg/edit?usp=sharing) for available dates and fill in your name in the column "Lead instructor / responsible"
-* add your name to the instructor list under "List values - instructors" below the schedule
-* send a call for co-instructors and helpers to the organizers @ swcarpentry dot uio dot no list and ask them to sign up in the spreadsheet
-* NOTE: a workshop can only be confirmed if at least two instructors have signed up in the spreadsheet
+* contact ``organizers @ swcarpentry dot uio dot no`` to get the link for the planning spreadsheet and fill in your name in the column "Lead instructor / responsible" for the available dates that fit you
+* add your name to the instructor list under "List values - instructors" below the planning schedule and fill check the appropriate boxes in the Instructors sheet
+* send a call for co-instructors and helpers to the ``organizers @ swcarpentry dot uio dot no`` list and ask them to sign up in the spreadsheet
+* NOTE: a full-day workshop can only be confirmed if at least two instructors have signed up in the spreadsheet
 * generate the workshop website at uio-carpentry dot github dot com using the template from https://github.com/swcarpentry/workshop-template. NOTE: make sure that you are a member of the [uio-carpentry github organisation](https://github.com/orgs/uio-carpentry/people), and *choose this organisation as owner* for the workshop repository when you import the template
+* if you are not yet a member of [uio-carpentry on github](https://github.com/orgs/uio-carpentry/people), create a GitHub profile and send an email to ``organizers @ swcarpentry dot uio dot no`` with your GitHub username and ask to be added.
 * organise pre-workshop meeting with the other instructors and the helpers to go through lesson materials etc.
 
 ## A Week Before
@@ -58,9 +58,9 @@ Table of Contents
 
 ## After the workshop
 
-* download the registration information from `nettskjema.uio.no`, add one column for each workshop day and add an `x` for those participants that were present; send this excel sheet to the 'carpadmin at swcarpentry.uio.no' list
+* download the registration information from `nettskjema.uio.no`, add one column for each workshop day and add an `x` for those participants that were present; send this excel sheet to the ``carpadmin at swcarpentry dot uio dot no`` list. Please make sure that you send this email from your University of Oslo account (incl. University Hospital, Veterinarian Institute) to ensure privacy regulations are met. If you do not have this type of account, please get in contact with ``carpadmin at swcarpentry dot uio dot no`` and ask for advice
 * send post-workshop questionnaire to attendants (even though you may have sent it already at the workshop, to reach those that had to leave early)
-* for official The Carpentries workshops, send Software Carpentry or Data Carpentry admin the number of attendants for both days
+* for official The Carpentries workshops, send an email to the Carpentries admin at ``team @ carpentries dot org`` the number of attendants for both days
 * obtain the post-workshop assessment form link from the workshop's uio-carpentry.github.io pages, or from SWC/DC admin
 * download the workshop etherpad in text format; take out any information that should not be sent around
 * for all those that participated on at least one of the days
