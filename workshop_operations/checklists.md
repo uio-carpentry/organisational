@@ -116,4 +116,4 @@ Table of Contents
 * collect essentials from the workshop room and make sure the room looks OK for the next user
    * check whether tables need a quick wipe, especially the table having the coffee cans
    * empty tables
-* ask for the excel sheet with registration data and store it in the common disk area (use UiO G-Suite)
+* ask for the excel sheet with registration data and store it in the common disk area (use [Google Drive from UiO G-Suite](https://www.uio.no/tjenester/it/lagring-samarbeid/gsuite/))
