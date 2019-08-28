@@ -91,3 +91,17 @@
 
 * The Carpentries offer a variety of [programs](https://docs.carpentries.org/topic_folders/instructor_development/index.html) to continuously develop one's teaching skills and materials
 * The Carpentry@UiO community has a [StudyGroup](https://uio-carpentry.github.io/studyGroup/) which provides space for developing lesson material, teaching skills, discussing workshop experiences, peer evaluation and feedback
+
+## Running a Workshop
+
+### Instructors
+
+* here's what The Carpentries have as a [checklist for instructors](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
+* Carpentry@UiO has its [adapted checklist](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/checklists.md)
+
+### Helpers
+
+* here's what The Carpentries have as a [checklist for helpers](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist)
+* consult Carpentry@UiO's [adapted checklist](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/checklists.md)
+
+### 
