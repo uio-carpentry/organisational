@@ -10,22 +10,22 @@ If you think something is missing, please feel free to file an Issue!
 
 Everything you need to know about how we run workshops
 
-* https://github.com/uio-carpentry/organisational/tree/master/workshop_operations
-  * https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/README.md
-  * https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/checklists.md
-  * https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/onboarding-checklist.md
-  * https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/onboarding.md
-  * https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/Carpentry%40UiO_sign-up-sheet.pdf
-  * https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/post_workshop_email_template.md
+* [Workshop Operations Folder](https://github.com/uio-carpentry/organisational/tree/master/workshop_operations)
+  * [README](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/README.md)
+  * [Checklist for Instructors, Helpers, Library](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/checklists.md)
+  * [Onboarding Checklist for new Instructors and Helpers](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/onboarding-checklist.md)
+  * [Onboarding Session Schedule](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/onboarding.md)
+  * [Sign-Up Sheet for Workshops(]https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/Carpentry%40UiO_sign-up-sheet.pdf)
+  * [Sign-Up Email for announcements mailinglist](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/post_workshop_email_template.md)
 
 ## Community Meetings
 
-* https://github.com/uio-carpentry/organisational/tree/master/meetings
+* [Meetings Folder](https://github.com/uio-carpentry/organisational/tree/master/meetings)
 
 ## Reports
 
-* https://github.com/uio-carpentry/organisational/tree/master/reporting
+* [Reports Folder](https://github.com/uio-carpentry/organisational/tree/master/reporting)
 
 ## Logo
 
-* https://github.com/uio-carpentry/organisational/tree/master/uio-carpentry-logofiler
+* [Carpentry@UiO Logos](https://github.com/uio-carpentry/organisational/tree/master/uio-carpentry-logofiler)
