@@ -15,7 +15,7 @@ Everything you need to know about how we run workshops
   * [Checklist for Instructors, Helpers, Library](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/checklists.md)
   * [Onboarding Checklist for new Instructors and Helpers](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/onboarding-checklist.md)
   * [Onboarding Session Schedule](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/onboarding.md)
-  * [Sign-Up Sheet for Workshops(]https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/Carpentry%40UiO_sign-up-sheet.pdf)
+  * [Sign-Up Sheet for Workshops](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/Carpentry%40UiO_sign-up-sheet.pdf)
   * [Sign-Up Email for announcements mailinglist](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/post_workshop_email_template.md)
 
 ## Community Meetings
