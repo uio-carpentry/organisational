@@ -46,7 +46,7 @@ We approved the charter, https://carpentry-uio-docs.readthedocs.io/en/latest/cha
 
 # Regional coordinator Carpentries Nordics/Baltics
 * Naoe Tatara has been offered this position
-* 50% position for 2.5 years
+* 50% position for 2 years
 * UiO hosts the position
 * NeIc pays
 * starts October 15
