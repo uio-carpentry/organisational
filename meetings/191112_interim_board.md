@@ -11,7 +11,7 @@
 * The Instructor Status Survey has been sent out to organizers mailing list (on Oct 10, Oct 16 and Nov 6)
 * 19 replies (68 on mailing list)
 * see summary (will be added here)
-* The Carpentries website still shows the same incorrect information as in September, i.e. no one has updated their AMY-profiles
+* The Carpentries website still shows the same information as in September, i.e. no one has (seen the need to) updated their AMY-profiles
 * AR has made a list of all instructors and helpers at Carpentry@UiO-workshops in Oslo in 2018 and 2019 - crossref w/ replies to survey
 * UiO does not run "official" Carpentries workshops - if our instructors do not get invited to teach other places, their certificates expire
 * **ACTION POINT**: run at least 1 official SWC/DC/LC workshop per year
