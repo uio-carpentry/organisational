@@ -7,7 +7,7 @@
 
 ### Data Collection
 
-An online survey was created using Nettskjema (University of Oslo web-tool for surveys). The questions asked can be found in survey_instructor-status_2019-09-26.txt [repeat here?]. The survey was then send to the organizers@swcarpentry.uio.no mailing list on Oct 10. A reminder to participate in the survey was sent out to the same list on Oct 16 and Nov 06. On Nov 07, 20 submissions were registered. Assuming that of the 68 subscribers to the mailing list at least 5 are staff support, the participation in the survey was ca. 1/3.
+An online survey was created using Nettskjema (University of Oslo web-tool for surveys). The questions asked can be found in [the survey document](survey_instructor-status_2019-09-26.txt). The survey was then send to the organizers mailing list on Oct 10. A reminder to participate in the survey was sent out to the same list on Oct 16 and Nov 06. On Nov 07, 20 submissions were registered. Assuming that of the 68 subscribers to the mailing list at least 5 are staff support, the participation in the survey was ca. 1/3.
 
 ### Overall Impression
 
