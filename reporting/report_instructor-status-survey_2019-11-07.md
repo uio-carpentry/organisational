@@ -41,7 +41,7 @@ Even though the survey was mainly targeted at instructors, it was open for helpe
 ### Software Carpentry
 
 Our staple lessons are Unix Shell, Git, and Python; a good amount of instructors are versed in R, too. We have far less people feeling comfortable teaching SQL and Make.
-![](/image_instructor-status-survey_lessons.png)
+![Our Instructors' Software Carpentry Lessons Portfolio](/image_instructor-status-survey_lessons.png)
 
 ### Data Carpentry
 
