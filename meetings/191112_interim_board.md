@@ -42,6 +42,8 @@
 
 #### Other
 
+* SINTEF has asked us to run a one-day workshop for Python (for novices) for their staff here in Oslo. We should consider charging them for it (at the very least they should be paying something to The Carpentries)
+
 ## Present
 
 ## Regrets
