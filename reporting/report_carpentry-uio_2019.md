@@ -1,29 +1,59 @@
-Carpentry@UiO Annual Report - 2019
+# Carpentry@UiO 2019 Annual Report
 
-# Activities in the Spring Term
-- See report for spring term 2019 [Report Spring 2019](https://github.com/uio-carpentry/organisational/blob/master/reporting/summary_feedback_carpentries_spring_2019.md)
-# Activities in the Fall Term
-- Create report based on spring term 2019
+## Activities in the Spring Term 2019
+
+- See the detailed report for the spring term 2019 [Report Spring 2019](https://github.com/uio-carpentry/organisational/blob/master/reporting/summary_feedback_carpentries_spring_2019.md)
+
+## Activities in the Fall Term 2019
+
+- TO-DO: Create report based on spring term 2019
 - include separate evaluation forms for Databases and SQL and GitHub
-## Workshops
-- GitHub
-- Plotting and Programming with Python
-- Databases and SQL
-- R for Reproducible Research
+
+### Workshops
+
+- Programming with Python (novices) - Feb 8, 2019
+- Introduction to Version Control with Git (novices) - Feb 15, 2019
+- Git in Practice (intermediate) - Feb 27, 2019
+- Data Analysis and Visualisation in R for Ecologists - Mar 8, 2019
+- Unix Shell (novices) - Apr 24, 2019
+- Data Analysis and Visualisation in R for Ecologists - May 15, 2019
+- Introduction to R with Tidyverse (pt. 1) - May 22, 2019
+- Introduction to R with Tidyverse (pt. 2) - May 29, 2019
+- Getting your hands on climate data (novices) - Jun 7, 2019
+- Writing and Publishing on the Web Together Using GitHub - Sep 11, 2019
+- Plotting and Programming with Python - Sep 16, 2019
+- Databases and SQL - Oct 28, 2019
+- R for Reproducible Scientific Analysis - Nov 19, 2019
+
+#### Carpentry workshops during Research Bazaar 2019
+
+- Learn Deep-Learning with Python (2 days)
+- Get (even) smarter with the Unix Shell
+- Publication Ready Scientific Reports with Jupyter Notebook (1/2 day)
+- Getting Started with Open Science Framework (1/2 day)
+
 ## Community Building & Social Events
-- Christmas Party Dec 12
-- Onboarding sessions on Sep 2
-- coordination w/ NT (CodeRefinery/Carpentries Hub) and w/ MG (Digital Scholarship Centre)
-## StudyGroup
+
+- two onboarding sessions for new instructors and helpers were held on Sep 2
+- a Call for Helpers was sent to former workshop participants, new helpers and instructors were recruited (see [## Recruiting])
+- coordination with the newly appointed Regional Coordinator for the Nordic and Baltic Countries was established, with Oslo becoming a CodeRefinery and Carpentries Hub
+- coordination with the Digital Scholarship Centre (University Library) was established to serve as a virtual "home" for Carpentry@UiO workshops and activities
+- End-of-the-Year Party on Dec 12
+
+### StudyGroup
+- the Carpentry@UiO community has taken initaitive for a StudyGroup in 2018. The aim was to create a forum for instructors, helpers, and other interested parties to meet and share expertise, inforamtion and experience related to teaching workshops. Since then, the StudyGroup has served as a forum for knowledge exchange and social interaction with meetings ca. every other week and an average of 5 active participants.
 - overview events and topics, participants (number)
-- documentation on website
-- announcements of activities on mailing lists, social media
+- documentation on website (StudyGroup)[https://uio-carpentry.github.io/studyGroup/]
+- announcements of activities via @swcarpentry mailing lists and official website
 - Gitter
-## Recruiting
+
+### Recruiting
+- 2019 has been a record year in terms of recruitment and instructor trainees. In May 2019, an online Instructor Training event was held with 12 members of the Carpentry@UiO community participating. All participants were followed up by a local Instructor Trainer, their contacts were added to the organizers mailinglist for communications about upcoming workshops and community news
 - new helpers
 - new instructors
 - new potential instructors (not certified)
-- results Instructor Status Survey
+- results of the (Instructor Status Survey)[report_instructor-status-survey_2019-11-07.md]. It is planned to re-run the survey in September 2020. Instructors who answered the survey will be followed up.
+
 ## Organisation
 ### Coordinator at UB
 - AR and her role
