@@ -43,17 +43,10 @@ We got feedback for 10 workshops.
 ### Which Institutions Are Our Learners Affiliated With?
 
 
-### What Workshop or Topics Are Our Learners Missing?
-
-
-### Comments and Constructive Criticism
-
-
 ### Are We Reaching Our Goals With Software Carpentry?
 
 ![Are we reaching our goals with Software Carpentry](images/uio-carpentry_eval_2019_chart_goals-reached.png)
 
-### Should We Have Other And More Workshops at UiO?
 
 
 ### Would You Recommend This Workshop To A Friend Or Colleague?
@@ -71,3 +64,11 @@ We got feedback for 10 workshops.
 ### How Much Practical Knowledge Did You Gain From The Workshop?
 
 ![How much practical knowledge did you gain?](images/uio-carpentry_eval_2019_chart_practical-knowledge.png)
+
+### Should We Have Other And More Workshops at UiO?
+
+
+### What Workshop or Topics Are Our Learners Missing?
+
+
+### Comments and Constructive Criticism
