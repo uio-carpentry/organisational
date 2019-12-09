@@ -38,6 +38,7 @@ We got feedback for 10 workshops.
 
 ### Who Are Our Learners?
 
+![Who are our learners - academic background](images/uio-carpentry_eval_2019_chart_role.png)
 
 ### Which Institutions Are Our Learners Affiliated With?
 
@@ -50,17 +51,23 @@ We got feedback for 10 workshops.
 
 ### Are We Reaching Our Goals With Software Carpentry?
 
+![Are we reaching our goals with Software Carpentry](images/uio-carpentry_eval_2019_chart_goals-reached.png)
 
 ### Should We Have Other And More Workshops at UiO?
 
 
 ### Would You Recommend This Workshop To A Friend Or Colleague?
 
+![Would you recommend this workshop to a friend or colleague?](images/uio-carpentry_eval_2019_chart_recommendation.png)
 
 ### Have You, After The Course, Used What You Learned?
 
+![Have you used what you have learned?](images/uio-carpentry_eval_2019_chart_used-it.png)
 
 ### Was This Workshop Worth My Time?
 
+![Was this workshop worth my time?](images/uio-carpentry_eval_2019_chart_worth-it.png)
 
 ### How Much Practical Knowledge Did You Gain From The Workshop?
+
+![How much practical knowledge did you gain?](images/uio-carpentry_eval_2019_chart_practical-knowledge.png)
