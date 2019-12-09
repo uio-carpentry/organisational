@@ -64,7 +64,7 @@ We got feedback for 10 workshops from 103 participants.
 
 ![How much practical knowledge did you gain?](images/uio-carpentry_eval_2019_chart_practical-knowledge.png)
 
-### Should We Have Other And More Workshops at UiO?
+### Should We Have Other And More Workshops at UiO? - What Workshop or Topics Are Our Learners Missing?
 
 Most participants' request that we offer more - and different - workshops.
 
@@ -84,7 +84,6 @@ At this point, it is difficult for the Carpentry@UiO community to meet the reque
 
 As a general take-away for the workshop planning for spring 2020 should not only the number of workshops on Python and R for novices be increased, but also complementary workshops on both Python and R be offered to our learners. This issue has been considered in the workshop planning.
 
-### What Workshop or Topics Are Our Learners Missing?
-
-
 ### Comments and Constructive Criticism
+
+Comments usually are generous and positive feedback. Some participants point out the lack of enough helpers, or comment on speed, previous knowledge, level of the workshop etc. A more frequent comment is that people get stuck and fall behind - and do not ask the helpers or instructors. This should be anticipated and accommodated for with more – and shorter – breaks. Another issue is the delay in the beginning of some workshops. This has been reduced significantly (anecdotal evidence) by explicitly stating in the course description on the uio.no course catalogue that participants need to come prepared in order to participate.
