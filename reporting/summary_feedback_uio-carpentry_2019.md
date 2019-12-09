@@ -66,6 +66,23 @@ We got feedback for 10 workshops from 103 participants.
 
 ### Should We Have Other And More Workshops at UiO?
 
+Most participants' request that we offer more - and different - workshops.
+
+The main request is for courses that built on the Python and R for novices workshops.
+
+There is a strong need expressed for more advanced R, especially in combination with statistical methods. This is perhaps something that other units at UiO, e.g. USIT, as well as the individual departments can address.
+
+Some participants ask for more workshops for Unix Shell / Bash and Git.
+
+There are more requests for machine learning workshops.
+
+In addition, participants request workshops for research data management, workflow management, unit tests, data preparation and cleaning, information security, GitHub, Internet of Things (IoT), programming with Fortran and Julia, and GIS.
+
+There is a significant amount of participants requesting data visualisation workshops.
+
+At this point, it is difficult for the Carpentry@UiO community to meet the requests that go beyond the lessons that The Carpentries offer, e.g. statistics, machine learning, other programming languages than Python and R, information security, IoT etc. Perhaps, some of these requests could be met by CodeRefinery workshops (e.g. the "advanced" versions of Carpentry lessons). Another course of action could be to share the more specific requests of some participants with USIT which has resources to offer tailored workshops and courses beyond Carpentry. Tapping into our Carpentry@UiO members' knowledge and expertise might, in addition, prove useful in developing new workshops - or episodes to existing workshops - that meet our participants' needs.
+
+As a general take-away for the workshop planning for spring 2020 should not only the number of workshops on Python and R for novices be increased, but also complementary workshops on both Python and R be offered to our learners. This issue has been considered in the workshop planning.
 
 ### What Workshop or Topics Are Our Learners Missing?
 
