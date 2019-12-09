@@ -38,9 +38,9 @@ The original data (anonymised) is stored on a UiO G-Suite directory and can be a
 *The workshop and course registry on the Carpentry@UiO website is continuously updated [https://uio-carpentry.github.io/](https://uio-carpentry.github.io/)*
 *The [course catalogue of Carpentry workshops taught at UiO](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/CarpentryWorkshops/) is keeping a backlog ("Previous"), too*
 
-### Utilization
+### Utilisation
 
-We had booked rooms for 34 full-day workshops, we held 13 workshops and two onboarding sessions (both on the same day).
+We had booked rooms for 34 full-day workshops, we held 13 workshops and two on-boarding sessions (both on the same day).
 
 ## Feedback From Our Learners
 
