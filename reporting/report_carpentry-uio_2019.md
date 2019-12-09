@@ -7,8 +7,7 @@
 
 ### Fall Term 2019
 
-- TO-DO: Create report based on spring term 2019
-- include separate evaluation forms for Databases and SQL and GitHub
+- See the [detailed report for 2019 incl. the feedback for the fall term 2019](summary_feedback_uio-carpentry_2019.md)
 
 ## Workshops
 
