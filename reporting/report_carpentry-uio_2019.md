@@ -37,7 +37,10 @@
 
 - Two Onboarding Sessions for new instructors and helpers were held on Sep 2, 2019
 - A Call for Helpers was sent to former workshop participants; new helpers and instructors were recruited (see Recruiting)
-- Coordination with the newly appointed Regional Coordinator for the Nordic and Baltic Countries, Naoe Tatara, was established, with Oslo becoming a CodeRefinery and Carpentries Hub
+- Coordination with the newly appointed Regional Coordinator for the Nordic and Baltic Countries, Naoe Tatara, was established, with Oslo becoming a CodeRefinery and Carpentries Hub. 
+  - Carpentry workshops at UiO are now more visible on [Carpentries.org](https://carpentries.org/), for both upcoming and past workshops.
+  - Better communication with the Carpentry central by monthly meetings.
+  - Record of instructors for non-standard Carpentry workshops for better acknowledgement of their works.
 - End-of-the-Year Social Get-Together for the community on Dec 12, 2019
 
 ### StudyGroup
