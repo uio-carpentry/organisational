@@ -1,5 +1,15 @@
 # Carpentries-Workshops 2019 -- Summary Of Learners' Feedback
 
+## Data and Data Analysis
+
+After every workshop taught by Carpentry@UiO, a post-workshop feedback survey is sent out to participants, circa one-two weeks after the workshop. The responses are collected in Nettskjema. For this report, I have downloaded the data from the main Nettkjema survey as well as the data from two survey forms that were created for the GitHub workshop in September 2019 and the Databases and SQL workshop in October 2019. The questions in all survey forms were identical.
+
+After downloading the survey data (tabular data) as an Excel spreadsheet, I have combined the data from all three spreadsheets into one single spreadsheet. Due to the nature of some of the questions, the values in the columns "Professional Role" and "Institutional Affiliation" vary greatly. I have normalised the values for both columns manually. I.e. the different spelling variations of "University of Oslo" have been normalised to "UiO", while all departmental affiliations were omitted, since they were not stated in more than 50% of responses. For the values in "Professional Role" I have looked at the free text option for "Other" and normalised the responses to either fit the pre-set values (e.g. "researcher", "PhD", "PostDoc") or made the role more explicit (e.g. "database administrator").
+
+For the simple analyses, I have used the Pivot-table function in MS Excel and created bar charts.
+
+The original data (anonymised) is stored on a UiO G-Suite directory and can be accessed upon request.
+
 ## Workshops
 
 ### Workshops We Taught
