@@ -34,7 +34,7 @@ We had booked rooms for 34 full-day workshops, we held 13 workshops and two onbo
 
 ## Feedback From Our Learners
 
-We got feedback for 10 workshops.
+We got feedback for 10 workshops from 103 participants.
 
 ### Who Are Our Learners?
 
@@ -42,12 +42,11 @@ We got feedback for 10 workshops.
 
 ### Which Institutions Are Our Learners Affiliated With?
 
+![Participants' institutional affiliation](images/uio-carpentry_eval_2019_chart_institution.png)
 
 ### Are We Reaching Our Goals With Software Carpentry?
 
 ![Are we reaching our goals with Software Carpentry](images/uio-carpentry_eval_2019_chart_goals-reached.png)
-
-
 
 ### Would You Recommend This Workshop To A Friend Or Colleague?
 
