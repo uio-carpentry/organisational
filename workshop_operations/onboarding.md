@@ -1,5 +1,5 @@
 # Carpentry@UiO Onboarding Session
-*Preliminary version - notes*
+*Notes for the person(s) holding the Onboarding Session*
 
 ## Schedule
 
@@ -19,7 +19,7 @@
 
 * Where do I get help with developing my instructing and discuss my teaching with others?
 
-* Visit of rooms for Carpentries workshops in Niels Henrik Abels hus and Kristine Bonnevies hus.
+* Visit of rooms for Carpentries workshops in Vilhelm Bjerknes' hus and Niels Henrik Abels hus.
 
 * Time for questions
 
@@ -30,7 +30,7 @@
 * Our host and partner is the [University Library](https://www.ub.uio.no/)
 * Our workshops are announced on the English version of the [events and courses website](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/index.html)
 * Role of the Library
-* Role of the Coordinator
+* Role of the Coordinators
 * Role of the Instructors
 * Role of the Helpers
 * Role of the Carpentry@UiO Board (atm Interim Board)
@@ -59,15 +59,15 @@
   * Astronomy 
 * full descriptions [here](https://datacarpentry.org/lessons/)
 
-### Inofficial Carpentries Workshops
+### Non-Standard Carpentries Workshops
 
 * usually one full day or half day, occasionally more than one day
-* workshops that teach only one lesson from the Carpentries curriculum
+* workshops that teach only one lesson or a mix of episodes from different lessons from the Carpentries curriculum
 * workshops that use some lesson material from the Carpentries together with other materials or lessons, e.g. CodeRefinery
 
 ### Other Workshops
 
-* our instructors teach in addition material from:
+* our instructors teach, in addition, material from:
   * [The Programming Historian](https://programminghistorian.org/en/lessons/)
   * [CodeRefinery](https://coderefinery.org/lessons/)
   * Self-developed lessons
@@ -77,13 +77,14 @@
 
 ### Teaching Principles
 
-* our instructors have successfully taken the [Carpentries Instructor Training](https://docs.carpentries.org/topic_folders/instructor_training/index.html)
+* most of our instructors have successfully taken the [Carpentries Instructor Training](https://docs.carpentries.org/topic_folders/instructor_training/index.html)
 * we teach according to the teaching principles developed by Greg Wilson and The Carpentries community
 * a good guide to teaching the Carpentries way is Wilson's book [Teaching Tech Together](https://teachtogether.tech/)
+* the Science Library will make a class room set of Wilson's book available
 
 ### Code of Conduct
 
-* with our workshops - official, inofficial, and others - we agree to abide to the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) developed by the Carpentries community
+* with our workshops - official, non-standard, and others - we agree to abide to the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) developed by the Carpentries community
 * instructors and helpers must familiarize themselves with the Code of Conduct
 * instructors must inform the workshop participants about the Code of Conduct and that they have to abide by it in order to participate
 
@@ -104,4 +105,7 @@
 * here's what The Carpentries have as a [checklist for helpers](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist)
 * consult Carpentry@UiO's [adapted checklist](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/checklists.md)
 
-### 
+### Coordinators
+
+* Carpentry@UiO has a local coordinator and supporting staff at the University Library
+* Carpentry@UiO is part of the Nordic and Baltic region which is coordinated by the [Regional Coordinator](https://carpentries.org/regions_nordic/)
