@@ -19,10 +19,9 @@
 - [ ] You must have a GitHub profile
 - [ ] Ask organizer @ swcarpentry dot uio dot no to invite you as a member
 - [ ] Go to Carpentry@UiO on GitHub https://github.com/uio-carpentry
-- [ ] Find an old repository that matches what you want to teach
-- [ ] Import that repository
-- [ ] Edit the name of the repository YYYY-MM-DD-lesson
-- [ ] Edit the necessary parts
+- [ ] Open https://github.com/carpentries/workshop-template in another tab of the web browser, and click "Use this template" button in green
+- [ ] Choose "uio-carpentry" as a owner, set the name of the repository YYYY-MM-DD-lesson, make sure that "Public" is chosen and click "Create repository from template" button in green. 
+- [ ] Edit the necessary parts by following README.md "Customizing Your Website"
 - [ ] The website will be automatically created
 - [ ] Paste the link into the planning spreadsheet
 ---
