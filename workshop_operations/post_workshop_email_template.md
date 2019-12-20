@@ -1,9 +1,10 @@
-Subject: XXX workshop at UiO: post-workshop issues
+This template is to be used by the coordinators corresponding with workshop participants via the registration platform Pindena. If workshop instructors want to use a different or additional text, then that text needs to be sent to the coordinatores directly.
 
+Copy the text below the line!
 
-Dear participant in the XXXX workshop at UiO,
+-------------------
 
-Once again, thank you for participating!
+Thank you for participating in our workshop!
 
 Here are some post-workshop issues:
 
@@ -16,13 +17,13 @@ FIXME add link
 
 FIXME add link
 
-- if you were not already on them, we have added you (or will do this soon) to two mailing lists: Announcements (for new workshops at UiO and other related events) and Discussions (anything you'd like to ask related to the workshops and materials taught). Emails from these lists contain unsubscribe links should you not wish to be on them
-- get involved! The 'Carpentry' effort at UiO is a volunteer project; if you'd like to help us, let us know by sending an email to contact-us@swcarpentry.uio.no
+- get involved! The Carpentry effort at UiO is a volunteer project; if you'd like to help us, let us know by sending an email to contact-us@swcarpentry.uio.no
 
-Note that information about upcoming workshops can be found at uio.no/carpentry.
+Note that information about upcoming workshops can be found on our [website](uio.no/carpentry) and the [University of Oslo Library's course catalogue](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/index.html).
 
 We hope to see you again on another occasion. On behalf of the workshop instructors and helpers,
 
-FIXME sign
+Annika Rockenberger (Local Coordinator Carpentry@UiO)
+Naoe Tatara (The Carpentries Regional Coordinator for the Nordic and Baltic Countries)
 
 
