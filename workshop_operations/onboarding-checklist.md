@@ -4,62 +4,85 @@
 
 ## How do I get started with teaching a Carpentries workshop at UiO?
 
-* **Where do I sign up for teaching?**
-- [ ] Contact the library coordinator OR
-- [ ] Send an email to organizers @ swcarpentry dot uio dot no
-- [ ] Add your name to the planning spreadsheet
+### **I want to teach a workshop!**
+- [ ] Several times per semester, a call for co-instructors will be sent out to organizers @ swcarpentry dot uio dot no mailing list. Reply to the call if you are interested!
+- [ ] You can also contact the local or the regional coordinator and propose a workshop by sending an email to carpadmin @ swcarpentry dot uio dot no
 ---
 
-* **How do I find co-instructors and helpers?**
-- [ ] Ask the community via organizers @ swcarpentry dot uio dot no
-- [ ] For helpers: ask also for new helpers via announcements @ swcarpentry dot uio dot no
+### **I am looking for co-instructors and helpers!**
+- [ ] Ask the community by sending an email to organizers @ swcarpentry dot uio dot no
+- [ ] Tip: ask for new helpers via announcements @ swcarpentry dot uio dot no
 ---
 
-* **How do I create a workshop website?**
-- [ ] You must have a GitHub profile
-- [ ] Ask organizer @ swcarpentry dot uio dot no to invite you as a member
-- [ ] Go to Carpentry@UiO on GitHub https://github.com/uio-carpentry
-- [ ] Open https://github.com/carpentries/workshop-template in another tab of the web browser, and click "Use this template" button in green
-- [ ] Choose "uio-carpentry" as a owner, set the name of the repository YYYY-MM-DD-lesson, make sure that "Public" is chosen and click "Create repository from template" button in green. 
+### **I want to create a workshop website. How do I go about it?**
+- [ ] Create a GitHub profile for yourself
+- [ ] Ask carpadmin @ swcarpentry dot uio dot no to invite you as a member of uio-carpentry https://github.com/uio-carpentry
+- [ ] Open https://github.com/carpentries/workshop-template and click the ```Use this template``` button in green
+- [ ] Check that the website is created properly, i.e. that "uio-carpentry" as chosen as owner, the name of the repository is YYYY-MM-DD-site, and that "Public" is chosen
+- [ ] Write the lesson type in the description
 - [ ] Edit the necessary parts by following README.md "Customizing Your Website"
 - [ ] The website will be automatically created
-- [ ] Paste the link into the planning spreadsheet
+- [ ] Send the link to the website to carpadmin @ swcarpentry dot uio dot no – the coordinators will create an event on the University Library's course catalogue and create a registration form
+- [ ] Submit your workshop to the Carpentries database by following the instructions on this website https://amy.carpentries.org/forms/self-organised/
 ---
 
-* **How do I get in contact with workshop participants?**
-- [ ] Download registration list from Nettskjema
-- [ ] Send email to those who registered, using BCC
-- [ ] Send reminder before workshop
+### **How do I get in contact with workshop participants?**
+- [ ] If you want to get in contact with participants, the local coordinator will send you the participants contacts
+- *Registration for workshops is handled by the local coordinator. By default, registration is closed two weeks prior to the workshop date. Automatic reminders for workshop participants are sent out via the registration system one week and again three days before the workshop.*
+- Workshop participants can ask for a Certificate of Attendance after the workshop:
+- [ ] For non-official workshops, a certificate is generated automatically – ask your local coordinator about it
+- [ ] For official workshops, learner certificates can be obtained by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/certificates.html)
 ---
 
-* **Which room(s) will I be teaching in?**
+### **Which room(s) will I be teaching in?**
 <!-- Update this list for each new onboarding session -->
+- [ ] Seminar room 123 in Vilhelm Bjerknes' hus (the Science Library, ground floor)
 - [ ] Teaching room 209 in the Science Library - Science Fiction Section
-- [ ] Abels Utsikt on the top floor of the Mathematics Building - Niels Henrik Abels hus
+- [ ] Want a different room? You can ask the local coordinator to book a room for you
+
+<!-- - [ ] Abels Utsikt on the top floor of the Mathematics Building - Niels Henrik Abels hus
 - [ ] Seminar room 3508 in the Biosciences Building - Kristine Bonnevies hus
-- [ ] Group room 4436 in the Biosciences Building - Kristine Bonnevies hus
-- [ ] You can ask the library contact to book a room for you
+- [ ] Group room 4436 in the Biosciences Building - Kristine Bonnevies hus -->
 ---
 
-* **Where do I find the Carpentries equipment (cables, extension cords, sticky notes)?**
+### **Where do I find the Carpentries equipment (cables, extension cords, sticky notes)?**
 ---
 
-* **What do I have to do before, during, and after a workshop?**
+### **What do I have to do before, during, and after a workshop?**
+
+- [ ] Familiarize yourself with the [Carpentries Guidelines for running workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
+- Additionally, we ask you kindly to
+- *Co-instructor*
+  - [ ] Coordinate with your co-instructors and helpers
+  - [ ] Coordinate with the local or regional coordinator
+  - [ ] Make sure the equipment you are planning to use works in the seminar room
+  - [ ] Explain the Code of Conduct in the beginning of the workshop
+  - [ ] Do a short security briefing in the beginning of the workshop
+  - [ ] Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed and lights are off
+
+- *Helpers*
+  - [ ] Get in contact with the co-instructors, familiarize yourself with the teaching materials and exercises. It is usually in the very beginning and during exercises that helpers are needed most
+  - [ ] Make sure that the coffee station looks tidy
+  - [ ] Be attentive: look actively for sticky notes coming up – and if participants look lost during lessons
+  - [ ] If you see that a lot of sticky notes come up or many participants get lost, gently interrupt the co-instructor, so that everyone can catch up
 ---
 
-* **How is the workshop de-briefing done?**
+### **How is the workshop de-briefing done?**
+- [ ] Collect the sticky-note feedback after the workshop
+- [ ] Right after the workshop, do a brief feedback round with your co-instructors and helpers
+- [ ] A few days after the workshop, one of the co-instructors writes up a short summary of the feedback and general impressions from the workshop and sends these to the co-instructors and helpers
+- [ ] One week after the workshop, the local coordinator will send out a workshop evalulation form to all participants. A summary of all feedback is provided after each term in the form of a presentation or a written report by the coordinator. Ask the local coordinator for the feedback for your workshop at any time.
 ---
 
-* **Who do I contact in case something happens?**
+### **Who do I contact in case something happens?**
 - [ ] In case of fire call **110**
-- [ ] The UiO security can be reached in an emergency under 228 56666
-- [ ] The UiO security can be reached if one gets locked into or out of a building under 228 55007
-- [ ] The contact person at the library is ___________________ and can be reached under _____________________
-- [ ] Lost and Found: contact the library staff at Realfagsbiblioteket / The Science Library personally at the information desk 
+- [ ] In an emergency, the UiO security can be reached under 228 56666
+- [ ] If one gets locked into or out of a building , the UiO facility management can be reached under 228 55007
+- [ ] Your contacts at the library are ___________________ and can be reached under _____________________
+- [ ] Lost and Found: Contact the library staff at Realfagsbiblioteket / The Science Library personally at the information desk on the 1st floor
 ---
 
-* **Where do I get help with developing my instructing and discuss my teaching with others?**
-- [ ] The Carpentries Handbook
-- [ ] The Carpentries Mentoring Groups
+### **Where do I get help with developing my instructing and discuss my teaching with others?**
+- [ ] The Carpentries Handbook https://docs.carpentries.org/index.html 
 - [ ] Carpentry@UiO StudyGroup
 ---
