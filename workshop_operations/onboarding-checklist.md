@@ -77,7 +77,7 @@
 ### **Who do I contact in case something happens?**
 - [ ] In case of fire call **110**
 - [ ] In an emergency, the UiO security can be reached under 228 56666
-- [ ] If one gets lochttps://docs.carpentries.org/index.htmlked into or out of a building , the UiO facility management can be reached under 228 55007
+- [ ] If one gets locked into or out of a building , the UiO facility management can be reached under 228 55007
 - [ ] Your contacts at the library are ___________________ and can be reached under _____________________
 - [ ] Lost and Found: Contact the library staff at Realfagsbiblioteket / The Science Library personally at the information desk on the 1st floor
 ---
