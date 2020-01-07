@@ -31,14 +31,14 @@
 - *Registration for workshops is handled by the local coordinator. By default, registration is closed two weeks prior to the workshop date. Automatic reminders for workshop participants are sent out via the registration system one week and again three days before the workshop.*
 - Workshop participants can ask for a Certificate of Attendance after the workshop:
 - [ ] For non-official workshops, a certificate is generated automatically – ask your local coordinator about it
-- [ ] For official workshops, 
+- [ ] For official workshops, learner certificates can be obtained by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/certificates.html)
 ---
 
 ### **Which room(s) will I be teaching in?**
 <!-- Update this list for each new onboarding session -->
 - [ ] Seminar room 123 in Vilhelm Bjerknes' hus (the Science Library, ground floor)
 - [ ] Teaching room 209 in the Science Library - Science Fiction Section
-- [ ] You can ask the local coordinator to book a room for you
+- [ ] Want a different room? You can ask the local coordinator to book a room for you
 
 <!-- - [ ] Abels Utsikt on the top floor of the Mathematics Building - Niels Henrik Abels hus
 - [ ] Seminar room 3508 in the Biosciences Building - Kristine Bonnevies hus
@@ -49,12 +49,14 @@
 ---
 
 ### **What do I have to do before, during, and after a workshop?**
+
+- [ ] Familiarize yourself with the [Carpentries Guidelines for running workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
+- Additionally, we ask you kindly to
 - *Co-instructor*
-  - [ ] Prepare the workshop
   - [ ] Coordinate with your co-instructors and helpers
   - [ ] Coordinate with the local or regional coordinator
   - [ ] Make sure the equipment you are planning to use works in the seminar room
-  - [ ] Explain the Code of Conduct
+  - [ ] Explain the Code of Conduct in the beginning of the workshop
   - [ ] Do a short security briefing in the beginning of the workshop
   - [ ] Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed and lights are off
 
@@ -75,13 +77,12 @@
 ### **Who do I contact in case something happens?**
 - [ ] In case of fire call **110**
 - [ ] In an emergency, the UiO security can be reached under 228 56666
-- [ ] If one gets locked into or out of a building , the UiO facility management can be reached under 228 55007
+- [ ] If one gets lochttps://docs.carpentries.org/index.htmlked into or out of a building , the UiO facility management can be reached under 228 55007
 - [ ] Your contacts at the library are ___________________ and can be reached under _____________________
 - [ ] Lost and Found: Contact the library staff at Realfagsbiblioteket / The Science Library personally at the information desk on the 1st floor
 ---
 
 ### **Where do I get help with developing my instructing and discuss my teaching with others?**
-- [ ] The Carpentries Handbook
-- [ ] The Carpentries Mentoring Groups
+- [ ] The Carpentries Handbook https://docs.carpentries.org/index.html 
 - [ ] Carpentry@UiO StudyGroup
 ---
