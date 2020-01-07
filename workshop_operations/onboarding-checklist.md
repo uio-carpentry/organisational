@@ -6,9 +6,7 @@
 
 ### **I want to teach a workshop!**
 - [ ] Several times per semester, a call for co-instructors will be sent out to organizers @ swcarpentry dot uio dot no mailing list. Reply to the call if you are interested!
-- [ ] You can also contact the local or the regional coordinator and propose a workshop
-- [ ] Send an email to organizers @ swcarpentry dot uio dot no and tell the community about your plans
-- [ ] The coordinators will get back to you about available dates and other workshop logistics
+- [ ] You can also contact the local or the regional coordinator and propose a workshop by sending an email to carpadmin @ swcarpentry dot uio dot no
 ---
 
 ### **I am looking for co-instructors and helpers!**
@@ -20,7 +18,8 @@
 - [ ] Create a GitHub profile for yourself
 - [ ] Ask carpadmin @ swcarpentry dot uio dot no to invite you as a member of uio-carpentry https://github.com/uio-carpentry
 - [ ] Open https://github.com/carpentries/workshop-template and click the ```Use this template``` button in green
-- [ ] Choose "uio-carpentry" as owner, set the name of the repository YYYY-MM-DD-lesson, make sure that "Public" is chosen and click "Create repository from template" button in green.
+- [ ] Check that the website is created properly, i.e. that "uio-carpentry" as chosen as owner, the name of the repository is YYYY-MM-DD-site, and that "Public" is chosen
+- [ ] Write the lesson type in the description
 - [ ] Edit the necessary parts by following README.md "Customizing Your Website"
 - [ ] The website will be automatically created
 - [ ] Send the link to the website to carpadmin @ swcarpentry dot uio dot no – the coordinators will create an event on the University Library's course catalogue and create a registration form
@@ -28,11 +27,11 @@
 ---
 
 ### **How do I get in contact with workshop participants?**
-- [ ] Registration for workshops is handled by the local coordinator
-- [ ] By default, registration is closed two weeks prior to the workshop date
-- [ ] Automatic reminders for workshop participants are sent out via the registration system one week and again three days before the workshop
 - [ ] If you want to get in contact with participants, the local coordinator will send you the participants contacts
-- [ ] Workshop participants can ask for a Certificate of Attendance after the workshop; the certificate is generated automatically
+- *Registration for workshops is handled by the local coordinator. By default, registration is closed two weeks prior to the workshop date. Automatic reminders for workshop participants are sent out via the registration system one week and again three days before the workshop.*
+- Workshop participants can ask for a Certificate of Attendance after the workshop:
+- [ ] For non-official workshops, a certificate is generated automatically – ask your local coordinator about it
+- [ ] For official workshops, 
 ---
 
 ### **Which room(s) will I be teaching in?**
