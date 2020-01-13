@@ -34,9 +34,11 @@ Table of Contents
 * add your name to the instructor list under "List values - instructors" below the planning schedule and fill check the appropriate boxes in the Instructors sheet
 * send a call for co-instructors and helpers to the ``organizers @ swcarpentry dot uio dot no`` list and ask them to sign up in the spreadsheet
 * NOTE: a full-day workshop can only be confirmed if at least two instructors have signed up in the spreadsheet
-* generate the workshop website at uio-carpentry dot github dot com using the template from https://github.com/swcarpentry/workshop-template. NOTE: make sure that you are a member of the [uio-carpentry github organisation](https://github.com/orgs/uio-carpentry/people), and *choose this organisation as owner* for the workshop repository when you import the template
-* Submit a self-organized workshop to Carpentry central from [this form](https://amy.carpentries.org/forms/self-organised/). The Regional Coordinator will then register instructor information at the Carpentry's sytem as well as make workshop information visible on Carpentry website.  
-* if you are not yet a member of [uio-carpentry on github](https://github.com/orgs/uio-carpentry/people), create a GitHub profile and send an email to ``organizers @ swcarpentry dot uio dot no`` with your GitHub username and ask to be added.
+* To generate the workshop website at uio-carpentry dot github dot com:
+  1) make sure you are a member of uio-carpentry, the [uio-carpentry github organisation](https://github.com/orgs/uio-carpentry/people). If you aren't, send an email to carpadmin @ swcarpentry.uio.no with your GitHub username to invite you.
+  2) create the webpage using the template from https://github.com/swcarpentry/workshop-template. NOTE: as the repository name, *use YYYY-MM-DD-uio* (using the correct date) and not python/R/oslo... or any other text, and *choose the organisation uio-carpentry as owner* for the workshop repository when you import the template. (If needed, ownership can be transferred later)
+* Submit a self-organized workshop to Carpentry central from [this form](https://amy.carpentries.org/forms/self-organised/).     Note: If you're running a one-day workshop, choose *Short session (less than two days)*, and UiO workshops are usually public, so please choose *This event is open to the public*. You may add your co-instructors'/helpers' email addresses in the last field where you are asked about communication.
+  The Regional Coordinator will then register instructor information at the Carpentry's sytem as well as make workshop information visible on Carpentry website. 
 * organise pre-workshop meeting with the other instructors and the helpers to go through lesson materials etc.
 
 ## A Week Before
