@@ -7,7 +7,13 @@
 ### **I want to teach a workshop!**
 - [ ] Several times per semester, a call for co-instructors will be sent out to organizers @ swcarpentry dot uio dot no mailing list. Reply to the call if you are interested!
 - [ ] You can also contact the local or the regional coordinator and propose a workshop by sending an email to carpadmin @ swcarpentry dot uio dot no
+- We try to have at least one certified The Carpentries co-instructor. Not yet certified? Contact us by email to carpadmin @ swcarpentry dot uio dot no
 ---
+
+### **What lessons can I teach?**
+- You can teach any of the core lessons from [Software](http://software-carpentry.org/lessons/), [Data](http://datacarpentry.org/lessons/), or [Library Carpentry](https://librarycarpentry.org/lessons/)!
+- You can also teach any of the additional lessons from the Carpentries curriculum.
+- You have developed lesson material and want to teach your own workshops? Ask us by email to carpadmin @ swcarpentry dot uio dot no
 
 ### **I am looking for co-instructors and helpers!**
 - [ ] Ask the community by sending an email to organizers @ swcarpentry dot uio dot no
@@ -23,7 +29,7 @@
 - [ ] Edit the necessary parts by following README.md "Customizing Your Website"
 - [ ] The website will be automatically created
 - [ ] Send the link to the website to carpadmin @ swcarpentry dot uio dot no – the coordinators will create an event on the University Library's course catalogue and create a registration form
-- [ ] Submit your workshop to the Carpentries database by following the instructions on this website https://amy.carpentries.org/forms/self-organised/
+- [ ] Submit your workshop to the Carpentries database by following the instructions on this website https://amy.carpentries.org/forms/self-organised/ – the Regional Coordinator will check if everything is correct.
 ---
 
 ### **How do I get in contact with workshop participants?**
