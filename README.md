@@ -6,10 +6,6 @@ It contains reports on our activities and serves as an archive for our community
 
 If you are an instructor or co-instructor for a workshop, please consult the [onboarding checklist](workshop-operations/onboarding-checklist.md)!
 
-## Contribute
-
-If you think something is missing, there's a mistake somewhere or you want a clarification, please feel free to create an [Issue](https://github.com/uio-carpentry/organisational/issues)!
-
 ## Workshop Operations
 
 Everything you need to know about how we run workshops
@@ -31,3 +27,7 @@ Everything you need to know about how we run workshops
 ## Logo
 
 * [Carpentry@UiO Logos](https://github.com/uio-carpentry/organisational/tree/master/uio-carpentry-logofiler)
+
+## Contribute
+
+If you think something is missing, there's a mistake somewhere or you want a clarification, please feel free to create an [Issue](https://github.com/uio-carpentry/organisational/issues)!
