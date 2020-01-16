@@ -102,7 +102,7 @@ Table of Contents
 
 ## At/during the workshop
 
-* prepare signs directing learners to the workshop room, these can be found in this repositorys
+* prepare signs directing learners to the workshop room, these can be found in this repository
 * take the second monitor + laptop to the workshop room (if needed)
 * bring box with other essentials to the workshop room (if not NHA room 209)
    * the box is in the small cupboard in room 209 in NHA (Science library) and contains:
