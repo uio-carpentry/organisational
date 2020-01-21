@@ -5,7 +5,7 @@
 
 ## Til stede
 
-* Naoe, Solveig, Matthew, Erik, Dan Michael, Kyrre, Fredrik, Hilde, Line, Annika
+* Naoe, Solveig, Matthew, Erik, Dan Michael, Kyrre, Fredrik, Hilde, Karoline, Annika
 
 ## 1 Intro-runde
 
@@ -22,4 +22,4 @@
 * ikke nødvendighvis at man lærer programmering selv, men lærer å forstå hvordan en programmerer jobber
 * 8-12, juni 2020, 2-dagers workshop, ved UiO, max. 40 stykker, Domus Juridica
 * på norsk, tilpassete problemstillinger til bibliotekverden
-* Teams, GitHub
+* Kommunikasjon: [Teams](https://teams.microsoft.com/l/team/19%3aec3cafee61c14a19ab62459ad152de92%40thread.skype/conversations?groupId=b74bb78f-ff95-4897-988d-7bef4efd3c08&tenantId=463b6811-b0a4-4b2a-b932-72c4c970c5d2), GitHub
