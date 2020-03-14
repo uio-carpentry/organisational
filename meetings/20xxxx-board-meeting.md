@@ -73,6 +73,9 @@
 
 ### GitHub Issues in organisational/
 - review current Issues
+  - https://github.com/uio-carpentry/organisational/issues/33
+  - https://github.com/uio-carpentry/organisational/issues/41
+  - https://github.com/uio-carpentry/organisational/issues/47
 - Q1: who is responsible for reviewing/acting on Issues?
 
 ## Discussion
