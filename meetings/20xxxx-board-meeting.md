@@ -3,10 +3,24 @@
 ## The new Board of Carpentry@UiO
 
 ### The new Board members present themselves
+- AR
+- AB
+- LN
+- NT
+- TB
+- VG
 
 ### Thanks & farewell to the Interim Board
+- AF
+- AG
+- ES
+- LR
+- SR
 
 ## Dates for (remote) meetings in 2020
+- meet 4x per year?
+- default (?): remote meeting via Zoom
+- decide on dates
 
 ## Tasks
 
@@ -52,5 +66,16 @@
 - UB has discontinued ResBaz
 - proposal: delete mailing list
 
+### Communications
+- how do we want to communicate with each other?
+- where do we want to share/store documents (GitHub, G-Suite, others)?
+- how do we want to communicate with/reach out to the community?
 
 ## Discussion
+
+### Social event before summer
+- ideas welcome
+
+### CarpentryConnect 2021
+- instead of ResBaz, a CarpentryConnect event could be held
+- ideas/comments/experiences welcome
