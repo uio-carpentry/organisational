@@ -71,6 +71,10 @@
 - where do we want to share/store documents (GitHub, G-Suite, others)?
 - how do we want to communicate with/reach out to the community?
 
+### GitHub Issues in organisational/
+- review current Issues
+- Q1: who is responsible for reviewing/acting on Issues?
+
 ## Discussion
 
 ### Social event before summer
