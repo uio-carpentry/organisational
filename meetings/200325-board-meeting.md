@@ -24,6 +24,14 @@
 
 ## Tasks
 
+### Instructor Training
+
+#### Status on Instructors trained in 2019
+- UiO is Silver Member, 6 instructor training spots per year
+- 12 instructors were trained in 2019
+
+#### Instructor Training 2020
+
 ### Carpentry@UiO mailing lists
 
 - organizers @ swcarpentry
