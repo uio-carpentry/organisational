@@ -17,6 +17,9 @@
 - LR
 - SR
 
+## Introduction to Carpentry@UiO and Governance Documents
+- https://github.com/uio-carpentry/governance
+
 ## Dates for (remote) meetings in 2020
 - meet 4x per year?
 - default (?): remote meeting via Zoom
@@ -85,6 +88,10 @@
   - https://github.com/uio-carpentry/organisational/issues/41
   - https://github.com/uio-carpentry/organisational/issues/47
 - Q1: who is responsible for reviewing/acting on Issues?
+
+### Remote Teaching Carpentries Workshops
+- do we want to teach workshops or smaller modules remotely during the Covid-19 period?
+- watch this [video](https://youtu.be/MzsJyOkxqv8) by Jason Bell about teaching virtual Carpentries workshops.
 
 ## Discussion
 
