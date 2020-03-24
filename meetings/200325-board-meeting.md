@@ -20,6 +20,9 @@
 ## Introduction to Carpentry@UiO and Governance Documents
 - https://github.com/uio-carpentry/governance
 
+## Officer roles
+- should we have a board Chair, Vice Chair, Secretary, ...?
+
 ## Dates for (remote) meetings in 2020
 - meet 4x per year?
 - default (?): remote meeting via Zoom
