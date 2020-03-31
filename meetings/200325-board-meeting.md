@@ -223,9 +223,9 @@ Right now, we have many mailing lists and their usage is out of scope for this m
 Mathworks (matlab) --> we all get this email. Should we offer matlab Carpentry workshop. Follow up with him.
 
 **Actions**: 
-- the new board will go through the governance documents and will update it accordingly.
-- The new board needs to check access to **uio-carpentry** github organization. Contact Annika if you needs to have write access to uio-carpentry github organization.
-- New board will organize appointment. Chair, vice-chair and communication officer;
-- Annika: doodle for setting up the next meeting.
-- Annika will write an on-boarding document for new board members.
-- Elin will follow up with Mathworks and see if they are willing to teach Carpentry matlab workshops at UiO.
+- [ ] The new board will go through the governance documents and will update it accordingly.
+- [x] The new board needs to check access to **uio-carpentry** github organization. Contact Annika if you needs to have write access to uio-carpentry github organization.
+- [ ] New board will organize appointment. Chair, vice-chair and communication officer;
+- [ ] Annika: doodle for setting up the next meeting.
+- [x] Annika will write an on-boarding document for new board members.
+- [x] Elin will follow up with Mathworks and see if they are willing to teach Carpentry matlab workshops at UiO.
