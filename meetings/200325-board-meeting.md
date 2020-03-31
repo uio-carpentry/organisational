@@ -139,7 +139,7 @@ Everyone gave a short presentation (interim board and then new board).
 
 # Introduction to Carpentry@UiO and Governance Documents
 
-- The interim board explained the rational behind these documents.
+- The interim board explained the rationale behind these documents.
 - Interim board has finished writing governance documents however, some errors need to be corrected:
      * Carpentry@UiO is not registered as an official organization. It is more like a "club".
 - Abide to the Carpentry Code of Conduct
@@ -148,7 +148,7 @@ Everyone gave a short presentation (interim board and then new board).
 
 ## Officer roles
 
-The new board needs to be organized and appoint officers (secretatry, etc.). 
+The [officer roles for the Carpentries Executive Council](https://github.com/carpentries/executive-council-info/blob/master/process/roles_responsibilities.md#officers) can be taken as reference even if the board decides to adapt it. The new board needs to be organized and appoint officers (secretatry, etc.). 
 
 - the board secretary is in charge of the meeting minutes but does not have to write minutes all the time; Secretary is in charge of making sure there is a notetaker and that minutes are pushed to github.
 
@@ -158,7 +158,7 @@ The new board needs to be organized and appoint officers (secretatry, etc.).
       --> how to do it?  
       --> will be discussed later to decide how to do with the re-election of 2 members.
 
-The board agreed on the fact that the chair and vice-chair should have some experience. However, this will be re-discussed in a separate meeting.
+The board agreed on the fact that the chair and vice-chair should have some experience. However, this will be re-discussed in a separate meeting. 
 
 
 ## Dates for (remote) meetings in 2020
@@ -228,4 +228,4 @@ Mathworks (matlab) --> we all get this email. Should we offer matlab Carpentry w
 - New board will organize appointment. Chair, vice-chair and communication officer;
 - Annika: doodle for setting up the next meeting.
 - Annika will write an on-boarding document for new board members.
-- Annika will follow up with Mathworks and see if they are willing to teach Carpentry matlab workshops at UiO.
+- Elin will follow up with Mathworks and see if they are willing to teach Carpentry matlab workshops at UiO.
