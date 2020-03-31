@@ -8,6 +8,8 @@ This document serves as a catch-it-all for information, workflows, and routines 
 
 ## Communication
 
+This part is currently under review by the Board. Expect changes.
+
 ### Carpentry@UiO mailing lists
 
 - organizers @ swcarpentry
