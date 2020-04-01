@@ -1,9 +1,9 @@
-# Workflow for Carpentry@UiO Board Maintained GitHub Repositories [organisational](/organisational), [board](/board), [governance](/governance)
+# Workflow for Carpentry@UiO Board Maintained GitHub Repositories [organisational](https://github.com/uio-carpentry/organisational), [board](https://github.com/uio-carpentry/organisational/board), [governance](https://github.com/uio-carpentry/governance)
 
 ## Issues
 
 - Carpentry@UiO has three repositories dedicated to organisation and coordination of the local community, the work of the Board, and the governance documents
-- everyone can comment, ask questions, make suggestions, etc. to all repositories. Read [CONTRIBUTING](/contributing) to familiarize yourself with how to do that
+- everyone can comment, ask questions, make suggestions, etc. to all repositories. Read [CONTRIBUTING](../CONTRIBUTING.md) to familiarize yourself with how to do that
 - We use Issues for our workflow
   - Actions Points from meeting minutes and other organisational documents get turned into Issues
   - each new Issue is assigened to one or more Board members
@@ -14,5 +14,5 @@
 
 ## Contributing
 
-- general guide on how to contribute to Carpentry@UiO repositories can be read in [CONTRIBUTING](/CONTRIBUTING)
+- general guide on how to contribute to Carpentry@UiO repositories can be read in [CONTRIBUTING](../CONTRIBUTING.md)
 
