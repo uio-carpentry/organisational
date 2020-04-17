@@ -52,11 +52,11 @@ In brief:
     3. Please do *not* work directly in your fork's `master` branch,
     since that will make it difficult for you to work on other contributions
 
-The Carpentry@UiO coordinators as well as some community volunteers
+Staff from the UiO library as well as some of the Carpentry@UiO volunteers
 will review issues and pull requests
 or encourage others to do so.
 The people are community volunteers,
-and have a final say over what gets merged into the lesson.
+and have final say over what gets merged into the lesson.
 
 
 This document is modified from the
