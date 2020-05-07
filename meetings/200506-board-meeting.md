@@ -8,7 +8,7 @@ Decisions:
 - change rotation of roles from once per half year to once per year (together with the board elections)
 - The suggested assignment of officer roles have been accepted and approved. 
     - chair: Lex
-    - vice chair: ...
+    - vice chair: Viviane
     - communication officer: Naoe
     - secretary: Tobias
 
