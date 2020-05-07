@@ -9,7 +9,7 @@ Decisions:
 - The suggested assignment of officer roles have been accepted and approved. 
     - chair: Lex
     - vice chair: ...
-    - communication officer: ...
+    - communication officer: Naoe
     - secretary: Tobias
 
 **@action** Lex merges the changes regarding role rotation
