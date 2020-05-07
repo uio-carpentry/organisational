@@ -83,9 +83,9 @@ Is only used for admin .behind the scenes things. Who should be on it? Only a fe
 - Yes, if possible, but requirement: Adresses posted on old websites etc. should not become invalid. forwarding the old addresses to the newaddress
 - we can combine resignup with creating the new mailing list.
 
-@action Lex will try to find out if that is possible.
+**@action** Lex will try to find out if that is possible.
 
-### Instructor training spots for th next year
+### Instructor training spots for next year
 
 - we have 6 spots, who should get them?
 - We should make sure that the people who get the spot know what they are getting into and that they will actually be teaching later.
