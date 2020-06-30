@@ -12,7 +12,7 @@ Everything you need to know about how we run workshops
 
 * [Workshop Operations Folder](https://github.com/uio-carpentry/organisational/tree/master/workshop_operations)
   * [README](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/README.md)
-  * [Checklist for Instructors, Helpers, Library](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/checklists.md)
+  * [Checklist for Instructors, Helpers, Library](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/workshop-guide.md)
   * [Onboarding Checklist for new Instructors and Helpers](https://github.com/uio-carpentry/organisational/blob/master/workshop_operations/onboarding-checklist.md)
   * [Signs for Workshops](https://github.com/uio-carpentry/organisational/tree/master/workshop_operations/signs)
 
