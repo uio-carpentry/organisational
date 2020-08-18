@@ -64,6 +64,7 @@
   - [ ] Make sure the equipment you are planning to use works in the seminar room
   - [ ] Explain the Code of Conduct in the beginning of the workshop
   - [ ] Do a short security briefing in the beginning of the workshop
+  - [ ] Ask the participants to answer post-workshop survey linked from the workshop website at the end of the workshop
   - [ ] Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed and lights are off
 
 - *Helpers*
