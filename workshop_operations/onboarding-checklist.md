@@ -36,8 +36,8 @@
 - [ ] If you want to get in contact with participants, the local coordinator will send you the participants contacts
 - *Registration for workshops is handled by the local coordinator. By default, registration is closed two weeks prior to the workshop date. Automatic reminders for workshop participants are sent out via the registration system one week and again three days before the workshop.*
 - Workshop participants can ask for a Certificate of Attendance after the workshop:
-- [ ] For non-official workshops, a certificate is generated automatically – ask your local coordinator about it
-- [ ] For official workshops, learner certificates can be obtained by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/certificates.html)
+- [ ] For non-standard workshops (e.g. when only a part of core lessons are covered), a certificate is generated automatically – ask your local coordinator about it
+- [ ] For standard workshops (i.e., 2-day full program covering all [core lessons](https://carpentries.org/workshops/#workshop-core)), learner certificates can be obtained by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/certificates.html)
 ---
 
 ### **Which room(s) will I be teaching in?**
