@@ -57,7 +57,11 @@
 ### **What do I have to do before, during, and after a workshop?**
 
 - [ ] Familiarize yourself with the [Carpentries Guidelines for running workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
-- Additionally, we ask you kindly to
+- [ ] Read carefully the [latest version of infection prevention guideline at UiO](https://www.uio.no/english/about/hse/corona/guidelines/infection-prevention-guide.html)
+ 
+ **Important: If you cannot come to UiO according to the guideline [2.1.7 When should students and staff not come to UiO?](https://www.uio.no/english/about/hse/corona/guidelines/infection-prevention-guide.html#2-1-7), please let co-instructor(s), helper(s), and carpadmin @ swcarpentry dot uio dot no, as soon as possible**
+ 
+ Additionally, we ask you kindly to
 - *Co-instructor*
   - [ ] Coordinate with your co-instructors and helpers
   - [ ] Coordinate with the local or regional coordinator
