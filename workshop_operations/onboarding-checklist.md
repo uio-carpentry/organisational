@@ -33,8 +33,8 @@
 ---
 
 ### **How do I get in contact with workshop participants?**
-- [ ] If you want to get in contact with participants, the local coordinator will send you the participants contacts
-- *Registration for workshops is handled by the local coordinator. By default, registration is closed two weeks prior to the workshop date. Automatic reminders for workshop participants are sent out via the registration system one week and again three days before the workshop.*
+- [ ] If you want to get in contact with participants, please send an email to carpadmin @ swcarpentry dot uio dot no so that the local coordinator will send the email on behalf of you from the registration system
+- *Registration for workshops is handled by the local coordinator. By default, registration is closed two weeks prior to the workshop date. Automatic reminders for workshop participants are sent out via the registration system one week and again three days before the workshop. Any additional information that were sent to workshop participants from instructors can be set in the registration system so that is is automatically sent when one in the waiting list is offered a seat due to cancellation of someone else.*
 - Workshop participants can ask for a Certificate of Attendance after the workshop:
 - [ ] For non-official workshops, a certificate is generated automatically – ask your local coordinator about it
 - [ ] For official workshops, learner certificates can be obtained by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/certificates.html)
