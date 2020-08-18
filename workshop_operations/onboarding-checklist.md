@@ -68,7 +68,7 @@
 
 - *Helpers*
   - [ ] Get in contact with the co-instructors, familiarize yourself with the teaching materials and exercises. It is usually in the very beginning and during exercises that helpers are needed most
-  - [ ] Make sure that the coffee station looks tidy
+  - [ ] (For 2 full-day standard workshop) Make sure that the coffee station looks tidy
   - [ ] Be attentive: look actively for sticky notes coming up – and if participants look lost during lessons
   - [ ] If you see that a lot of sticky notes come up or many participants get lost, gently interrupt the co-instructor, so that everyone can catch up
 ---
