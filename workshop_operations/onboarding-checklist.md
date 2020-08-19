@@ -57,6 +57,8 @@ Please make sure that you and the learners wipe facilities and areas they used w
 ---
 
 ### **Where do I find the Carpentries equipment (cables, extension cords, sticky notes)?**
+<!-- Check if any change is needed before each onboarding session -->
+- [ ] It is found in a white cupboard in the lecture room 209, Niels Henrik Abels hus. 
 ---
 
 ### **What do I have to do before, during, and after a workshop?**
