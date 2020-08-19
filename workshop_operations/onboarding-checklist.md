@@ -75,6 +75,7 @@ Please make sure that you and the learners wipe facilities and areas they used w
   - [ ] Make sure the equipment you are planning to use works in the seminar room
   - [ ] Explain the Code of Conduct in the beginning of the workshop
   - [ ] Do a short security briefing in the beginning of the workshop
+  - [ ] Take attendance using the [workshops attendance list](/workshops_attendance_list.pdf) provided in the equipment box
   - [ ] Ask the participants to answer post-workshop survey linked from the workshop website at the end of the workshop
   - [ ] Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed and lights are off
 
