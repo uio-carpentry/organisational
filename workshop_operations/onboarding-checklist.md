@@ -43,10 +43,14 @@
 
 ### **Which room(s) will I be teaching in?**
 <!-- Update this list for each new onboarding session -->
+In Autumn semester 2020, only a lecture room 209 in Niels Henrik Abels hus is to be used. 
+Due to very limited capacity and availability of any lecture/seminar rooms in general, we cannot use any other room.
+Please make sure that you and the learners wipe facilities and areas they used with surface disinfectant wipes available right outside of the room.
+<!-- 
 - [ ] Seminar room 123 in Vilhelm Bjerknes' hus (the Science Library, ground floor)
 - [ ] Teaching room 209 in the Science Library - Science Fiction Section
 - [ ] Want a different room? You can ask the local coordinator to book a room for you
-
+-->
 <!-- - [ ] Abels Utsikt on the top floor of the Mathematics Building - Niels Henrik Abels hus
 - [ ] Seminar room 3508 in the Biosciences Building - Kristine Bonnevies hus
 - [ ] Group room 4436 in the Biosciences Building - Kristine Bonnevies hus -->
