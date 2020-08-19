@@ -5,9 +5,9 @@
 ## How do I get started with teaching a Carpentries workshop at UiO?
 
 ### **I want to teach a workshop!**
-- [ ] Several times per semester, a call for co-instructors will be sent out to organizers @ swcarpentry dot uio dot no mailing list. Reply to the call if you are interested!
-- [ ] You can also contact the local or the regional coordinator and propose a workshop by sending an email to carpadmin @ swcarpentry dot uio dot no
-- We try to have at least one certified The Carpentries co-instructor. Not yet certified? Contact us by email to carpadmin @ swcarpentry dot uio dot no
+- [ ] Several times per semester, a call for co-instructors will be sent out to organizers @ carpentry dot uio dot no mailing list. Reply to the call if you are interested!
+- [ ] You can also contact the local or the regional coordinator and propose a workshop by sending an email to carpadmin @ carpentry dot uio dot no
+- We try to have at least one certified The Carpentries co-instructor. Not yet certified? Contact us by email to carpadmin @ carpentry dot uio dot no
 ---
 
 ### **What lessons can I teach?**
@@ -16,25 +16,25 @@
 - You have developed lesson material and want to teach your own workshops? Ask us by email to digitalscholarship at ub dot uio dot no
 
 ### **I am looking for co-instructors and helpers!**
-- [ ] Ask the community by sending an email to organizers @ swcarpentry dot uio dot no
-- [ ] Tip: ask for new helpers via announcements @ swcarpentry dot uio dot no
+- [ ] Ask the community by sending an email to organizers @ carpentry dot uio dot no
+- [ ] Tip: ask for new helpers via announcements @ carpentry dot uio dot no
 ---
 
 ### **I want to create a workshop website. How do I go about it?**
 - [ ] Create a GitHub profile for yourself
-- [ ] Ask carpadmin @ swcarpentry dot uio dot no to invite you as a member of uio-carpentry https://github.com/uio-carpentry
+- [ ] Ask carpadmin @ carpentry dot uio dot no to invite you as a member of uio-carpentry https://github.com/uio-carpentry
 - [ ] Open https://github.com/carpentries/workshop-template and click the ```Use this template``` button in green
 - [ ] Check that the website is created properly, i.e. that "uio-carpentry" as chosen as owner, the name of the repository is `YYYY-MM-DD-site`, and that "Public" is chosen
 - <b> Note</b>: Although a repository is created under uio-carpentry GitHub account, the slug naming convention should be followed and ` uio` needs to be used for `site`. For example, if the first date of the workshop is 25th August 2020 and to be held in any campus of UiO, it should be `2020-08-25-uio`.
 - [ ] Write the lesson type in the description
 - [ ] Edit the necessary parts by following README.md "Customizing Your Website"
 - [ ] The website will be automatically created
-- [ ] Send the link to the website to carpadmin @ swcarpentry dot uio dot no – the coordinators will create an event on the University Library's course catalogue and create a registration form
+- [ ] Send the link to the website to carpadmin @ carpentry dot uio dot no – the coordinators will create an event on the University Library's course catalogue and create a registration form
 - [ ] Submit your workshop to the Carpentries database by following the instructions on this website https://amy.carpentries.org/forms/self-organised/ – the Regional Coordinator will check if everything is correct.
 ---
 
 ### **How do I get in contact with workshop participants?**
-- [ ] If you want to get in contact with participants, please send an email to carpadmin @ swcarpentry dot uio dot no so that the local coordinator will send the email on behalf of you from the registration system
+- [ ] If you want to get in contact with participants, please send an email to carpadmin @ carpentry dot uio dot no so that the local coordinator will send the email on behalf of you from the registration system
 - *Registration for workshops is handled by the local coordinator. By default, registration is closed two weeks prior to the workshop date. Automatic reminders for workshop participants are sent out via the registration system one week and again three days before the workshop. Any additional information that were sent to workshop participants from instructors can be set in the registration system so that is is automatically sent when one in the waiting list is offered a seat due to cancellation of someone else.*
 - Workshop participants can ask for a Certificate of Attendance after the workshop:
 - [ ] For non-standard workshops (e.g. when only a part of core lessons are covered), a certificate is generated automatically – ask your local coordinator about it
@@ -66,7 +66,7 @@ Please make sure that you and the learners wipe facilities and areas they used w
 - [ ] Familiarize yourself with the [Carpentries Guidelines for running workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
 - [ ] Read carefully the [latest version of infection prevention guideline at UiO](https://www.uio.no/english/about/hse/corona/guidelines/infection-prevention-guide.html)
  
- **Important: If you cannot come to UiO according to the guideline [2.1.7 When should students and staff not come to UiO?](https://www.uio.no/english/about/hse/corona/guidelines/infection-prevention-guide.html#2-1-7), please let co-instructor(s), helper(s), and carpadmin @ swcarpentry dot uio dot no, as soon as possible**
+ **Important: If you cannot come to UiO according to the guideline [2.1.7 When should students and staff not come to UiO?](https://www.uio.no/english/about/hse/corona/guidelines/infection-prevention-guide.html#2-1-7), please let co-instructor(s), helper(s), and carpadmin @ carpentry dot uio dot no, as soon as possible**
  
  Additionally, we ask you kindly to
 - *Co-instructor*
