@@ -24,8 +24,9 @@
 - [ ] Create a GitHub profile for yourself
 - [ ] Ask carpadmin @ swcarpentry dot uio dot no to invite you as a member of uio-carpentry https://github.com/uio-carpentry
 - [ ] Open https://github.com/carpentries/workshop-template and click the ```Use this template``` button in green
-- [ ] Check that the website is created properly, i.e. that "uio-carpentry" as chosen as owner, the name of the repository is YYYY-MM-DD-site, and that "Public" is chosen
-- [ ] Write the lesson type in the description
+- [ ] Check that the website is created properly, i.e. that "uio-carpentry" as chosen as owner, the name of the repository is `YYYY-MM-DD-site`, and that "Public" is chosen
+- <b> Note</b>: Although a repository is created under uio-carpentry GitHub account, the slug naming convention should be followed and ` uio` needs to be used for `site`. For example, if the first date of the workshop is 25th August 2020 and to be held in any campus of UiO, it should be `2020-08-25-uio`.
+- [ ] Write the lesson type in the description
 - [ ] Edit the necessary parts by following README.md "Customizing Your Website"
 - [ ] The website will be automatically created
 - [ ] Send the link to the website to carpadmin @ swcarpentry dot uio dot no – the coordinators will create an event on the University Library's course catalogue and create a registration form
