@@ -13,7 +13,7 @@
 ### **What lessons can I teach?**
 - You can teach any of the core lessons from [Software](http://software-carpentry.org/lessons/), [Data](http://datacarpentry.org/lessons/), or [Library Carpentry](https://librarycarpentry.org/lessons/)!
 - You can also teach any of the additional lessons from the Carpentries curriculum.
-- You have developed lesson material and want to teach your own workshops? Ask us by email to carpadmin @ swcarpentry dot uio dot no
+- You have developed lesson material and want to teach your own workshops? Ask us by email to digitalscholarship at ub dot uio dot no
 
 ### **I am looking for co-instructors and helpers!**
 - [ ] Ask the community by sending an email to organizers @ swcarpentry dot uio dot no
