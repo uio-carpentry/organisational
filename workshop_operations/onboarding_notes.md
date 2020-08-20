@@ -33,12 +33,11 @@
 * Role of the Coordinators
 * Role of the Instructors
 * Role of the Helpers
-* Role of the Carpentry@UiO Board (atm Interim Board)
-
+* Role of the Carpentry@UiO Board
 
 ## What Do We Teach?
 
-### Official Carpentries Workshops
+### Standard Carpentries Workshops
 
 1. Software Carpentry - 2 full days
 * incl. core lessons on **Unix Shell**, **Version Control With Git**, **Python** or **R**
@@ -63,15 +62,15 @@
 
 * usually one full day or half day, occasionally more than one day
 * workshops that teach only one lesson or a mix of episodes from different lessons from the Carpentries curriculum
-* workshops that use some lesson material from the Carpentries together with other materials or lessons, e.g. CodeRefinery
+* workshops that use some lesson material from the Carpentries together with other materials or lessons, e.g. [CodeRefinery](https://coderefinery.org/lessons/)
 
 ### Other Workshops
 
-* our instructors teach, in addition, material from:
+* our instructors also teach materials from:
   * [The Programming Historian](https://programminghistorian.org/en/lessons/)
   * [CodeRefinery](https://coderefinery.org/lessons/)
-  * Self-developed lessons
-* they all have in common that the approach to teaching technical subjects is based on The Carpentries
+  * Self-developed lessons, like [GitHub](https://github.com/arockenberger/github_collab_workshop)
+* they all have in common that the approach to teaching technical subjects is based on The Carpentries ideals and values
 
 ## How Do We Teach
 
@@ -80,11 +79,12 @@
 * most of our instructors have successfully taken the [Carpentries Instructor Training](https://docs.carpentries.org/topic_folders/instructor_training/index.html)
 * we teach according to the teaching principles developed by Greg Wilson and The Carpentries community
 * a good guide to teaching the Carpentries way is Wilson's book [Teaching Tech Together](https://teachtogether.tech/)
-* the Science Library will make a class room set of Wilson's book available
+* the Science Library has a class-room set of Wilson's book in physical form available
+* the community offers teaching development sessions and informal mentoring by experiences instructors and instructor trainers
 
 ### Code of Conduct
 
-* with our workshops - official, non-standard, and others - we agree to abide to the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) developed by the Carpentries community
+* with our workshops - standard, non-standard, and others - we agree to abide by the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) developed by the Carpentries community
 * instructors and helpers must familiarize themselves with the Code of Conduct
 * instructors must inform the workshop participants about the Code of Conduct and that they have to abide by it in order to participate
 
