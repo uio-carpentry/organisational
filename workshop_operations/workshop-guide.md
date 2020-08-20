@@ -43,7 +43,7 @@ Table of Contents
 
 ## A Week Before
 
-* obtain and send pre-workshop questionnaire to attendants
+* ask local coordinator to obtain and send pre-workshop questionnaire to attendants
 
 ## The Day Before
 
@@ -54,15 +54,14 @@ Table of Contents
 
 * send a list with registered participants' names around and let those present check off their names (send this list to ``carpadmin @ swcarpentry dot uio dot no`` or hand it to one of the local coordinators)
 * collect feedback from sticky notes
-* if there is time at the end of the workshop send the post-workshop questionnaire to attendants to increase response rate
+* if there is time at the end of the workshop make attendants aware of the post-workshop questionnaire to increase response rate
 * collect workshop equipment after the workshop
 * set the room
 * leave the crate with coffee thermos and other dishes outside the room
 
 ## After the workshop
 
-* send post-workshop questionnaire to attendants (even though you may have sent it already at the workshop, to reach those that had to leave early)
-* for official The Carpentries workshops, send an email to the Carpentries admin at ``team @ carpentries dot org`` with the number of attendants for both days
+* for standard Carpentries workshops, send an email to the Carpentries admin at ``team @ carpentries dot org`` with the number of attendants for both days
 * obtain the post-workshop assessment form link from the workshop's uio-carpentry.github.io pages, or from SWC/DC admin
 * download the workshop etherpad in text format; take out any information that should not be sent around and send it to the participants
 * organise a post-workshop debriefing with the other instructors and the helper
@@ -119,3 +118,5 @@ Table of Contents
 * collect essentials from the workshop room and make sure the room looks OK for the next user
    * check whether tables need a quick wipe, especially the table having the coffee cans on
    * empty tables
+* collect attendance list and transfer attendance to Pindena
+* send an email via Pindena with follow-up info and the post-workshop questionnaire to attendants, using this [template](/post_workshop_email_template.md)
