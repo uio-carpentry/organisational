@@ -12,33 +12,30 @@ This part is currently under review by the Board. Expect changes.
 
 ### Carpentry@UiO mailing lists
 
-- organizers @ carpentry
-- carpadmin @ carpentry
-- contact-us @ carpentry
-- board @ carpentry
-- announcements @ carpentry
+- organizers @ carpentry.uio.no
+- carpadmin @ carpentry.uio.no
+- contact-us @ carpentry.uio.no
+- board @ carpentry.uio.no
+- announcements @ carpentry.uio.no
 
 #### announcements @ carpentry 
 - is kept as it is
 - new subscribers are added on rolling basis if they have given consent
 - done by NT or AR as part of local Carpentry@UiO coordination
 - Q1: what about those who did not consent? (prior to GDPR)
+- A: all will be unsubscribed with the message to resubscribe after consenting
 
 #### board @ carpentry
 - is kept for current Board members only
-- Q1: who should be owner(s)?
-- O2: who is responsible for adding/removing subscribers?
 
 #### carpadmin @ carpentry
 - is to be used for admin-related communication
-- should have few subscribers
 - Carpentry@UiO local coordinators (atm NT and AR and MG)
-- Q1: should anyone else be on this list? why?
 
 #### contact-us @ carpentry
-- has same subscribers as organizers @ swcarpentry (automatically signed up)
-- atm to many people, creates spam, unclear who's responsible for answering
-- proposal: actively add/remove subscribers to be only instructors who teach current workshops (i.e. per semester), to be maintained by local coordinators; remove automatic signup
+- maintained by local coordinators
+- for workshop communications from/to workshop participants
+- for forwarding communications from/to workshop participants to instructors
 
 #### organizers @ carpentry
 - has all instructors, helpers, local coordinators, some library staff
