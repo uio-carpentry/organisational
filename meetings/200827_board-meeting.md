@@ -17,6 +17,7 @@
   - criteria - as per https://github.com/uio-carpentry/organisational/issues/
 - meeting board and UiO Library, suggestion of discussion points
 - how to go about getting acceptance for using "pliktarbeids"-hours for teaching Carpentry@UiO and credit for learners
+- Coodination of instructor training for NeIC (Carpentries Platinum member) where UiO can also join 
 
 From last meeting: https://github.com/uio-carpentry/organisational/issues/56
 
