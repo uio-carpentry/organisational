@@ -22,4 +22,6 @@
 From last meeting: https://github.com/uio-carpentry/organisational/issues/56
 
 - do we want to ask permission from all Carpentry@UiO instructor's to publish their names somewhere, i.e. website
+  - as a suggestion for how our website could look, see [Akademisk Skrivesenter](https://www.ub.uio.no/skrive-publisere/skrivesenter/)
+  - Annika will show a draft of the content
 - what constitutes an 'official' UiO@Carpentry workshop?
