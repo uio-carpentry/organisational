@@ -2,10 +2,21 @@
 
 ## Agenda
 
+### Status of UiO-Carpentry fall 2020
+
+- status of Board members: How is everyone?
+- update from Annika about mailing lists
+- update from Naoe about UiO-Carpentry's contribution to CarpentryCon@Home
+- update from Annika and Naoe about workshops planned for fall term 2020
+- update from Annika about UiO-Carpentry website (draft)
+- update from Naoe about membership status of UiO
+
+### Discussion / Decision items
+
 - can we start finding people for instructor training?
-- criteria - as per https://github.com/uio-carpentry/organisational/issues/
+  - criteria - as per https://github.com/uio-carpentry/organisational/issues/
 - meeting board and UiO Library, suggestion of discussion points
-- how to go about getting acceptance for using pliktarbeids hours for teaching Carpentry@UiO and credit for learners
+- how to go about getting acceptance for using "pliktarbeids"-hours for teaching Carpentry@UiO and credit for learners
 
 From last meeting: https://github.com/uio-carpentry/organisational/issues/56
 
