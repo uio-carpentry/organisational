@@ -8,7 +8,6 @@
 - update from Annika about mailing lists
 - update from Naoe about UiO-Carpentry's contribution to CarpentryCon@Home
 - update from Annika and Naoe about workshops planned for fall term 2020
-- update from Annika about UiO-Carpentry website (draft)
 - update from Naoe about membership status of UiO
 
 ### Discussion / Decision items
