@@ -14,7 +14,7 @@
 ### Discussion / Decision items
 
 - can we start finding people for instructor training? (Annika, 5 min.)
-  - criteria - as per https://github.com/uio-carpentry/organisational/issues/
+  - criteria - as per https://github.com/uio-carpentry/organisational/issues/60
 - meeting board and UiO Library, suggestion of discussion points (Lex, 5 min.)
 - taking Carpentry@UiO to the next level (Lex, 10 min.)
   - room booking part of the scheduling of all the other (credited) courses at UiO
