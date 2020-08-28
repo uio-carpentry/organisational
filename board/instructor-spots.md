@@ -51,19 +51,29 @@ The Board should know about and help address the challenges. This could be done 
 - UiO-Carpentry has a strong footing in STEM-fields. We welcome new instructors from STEM-fields, however, we would like to extend our instructor base with new instructors based in the Humanities, Social Sciences and related fields.
   - as a 'soft' criterion, when applicants are otherwise equally strongly qualified
 
-### 5 Motivation
+### 5 Familiarity with Carpentries Content
+- How frequently does the applicant work with the tools that The Carpentries teach, such as:
+   - R
+   - Python
+   - SQL
+   - Git
+   - OpenRefine
+   - Unix Shell
+   - MATLAB
+   - Regular Expressions
+
+### 6 Motivation
 - Has expressed the wish to become an instructor/better at teaching workshops
   - request a motivational statement when applying
   
 ## Criteria Catalogue and Weighing
 
 |Nr.|Criterion|Weight|
-||||
+|---|---|---|
 |1|Past Contribution to UiO-Carpentry Workshops - and Related Workshops|+2 when actively teaching, otherwise +1|
 |2|Are you willing to teach at least 2 Carpentry Workshops per year after this training?|+1 for yes, -1 for no|
 |3|Being/Becoming Part of the Community|+1 when on organizers list, or StudyGroup, Social Events, GitHub contributions, Board|
 |4|Affiliation (university, department, center or other units)|+1 for departments/units that are not yet, or poorly represented in UiO-Carpentry|
-|5|Why do you want to attend this training course?|+1 if there went noticeable effort in writing a proper motivation; -1 when motivation shows wrong expectations for the training|
-|?|Extra: has been offered a spot on this training earlier, but training was canceled|+2|
-|?|Please briefly describe your previous experience in teaching|+1 when relevant for teaching Carpentries workshops|
-||How frequently do you work with the tools that The Carpentries teach, such as R, Python, MATLAB, Perl, SQL, Git, OpenRefine, and the Unix Shell?|+1 for Every day or A few times a week|
+|5|How frequently do you work with the tools that The Carpentries teach, such as R, Python, MATLAB, Perl, SQL, Git, OpenRefine, and the Unix Shell?|+1 for Every day or A few times a week|
+|6|Why do you want to attend this training course?|+1 if there went noticeable effort in writing a proper motivation; -1 when motivation shows wrong expectations for the training|
+|Extra|Have you been offered a spot on a training earlier, but the training was canceled|+2|
