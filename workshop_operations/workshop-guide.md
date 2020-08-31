@@ -43,7 +43,7 @@ Table of Contents
 
 ## A Week Before
 
-* obtain and send pre-workshop questionnaire to attendants
+* ask local coordinator to send the link to the pre-workshop questionnaire to attendants
 
 ## The Day Before
 
@@ -54,7 +54,7 @@ Table of Contents
 
 * send the workshop attendance list around or check of attendance yourself. Hand the list to one of the local coordinators
 * collect feedback from sticky notes
-* if there is time at the end of the workshop send the post-workshop questionnaire to attendants to increase response rate
+* if there is time at the end of the workshop make attendants aware of the post-workshop questionnaire to increase response rate
 * collect workshop equipment after the workshop
 * set the room
 * if catering was provided for the workshop, leave the crate with coffee thermos and other dishes outside the room
@@ -93,11 +93,12 @@ Table of Contents
 
 * send out a welcome message to the participants reminding them of installation requirements etc. (in coordination with lead-instructor)
 
-## One week before
+## One week to a couple of days before
 
 * ask lead instructor for equipment requirements (e.g., second monitor + laptop, microphone)
 * arrange for workshop room visit with (lead) instructor(s) and optionally helpers
 * arrange for a workshop-contact person for the day(s) of the workshop and give contact information to lead instructor
+* send link to pre-workshop survey to participants
 
 ## At/during the workshop
 
@@ -119,3 +120,5 @@ Table of Contents
 * collect essentials from the workshop room and make sure the room looks OK for the next user
    * check whether tables need a quick wipe, especially the table having the coffee cans on
    * empty tables
+* collect attendance list and transfer attendance to Pindena
+* send an email via Pindena with follow-up info and the post-workshop questionnaire to attendants, using this [template](/post_workshop_email_template.md)
