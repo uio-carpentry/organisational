@@ -22,8 +22,8 @@ Table of Contents
     * [At/during the workshop](#atduring-the-workshop-1)
   * [University Library](#university-library)
     * [Initial Preparation](#initial-preparation-1)
-    * [Several Weeks Before](#several-weeks-before)
-    * [One week before](#one-week-before)
+    * [Several Weeks Before](#two-weeks-before)
+    * [One week before](#one-week-to-a-couple-of-days-before)
     * [At/during the workshop](#atduring-the-workshop-2)
     * [After the workshop](#after-the-workshop-1)
 
