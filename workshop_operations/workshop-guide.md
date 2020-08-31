@@ -43,7 +43,7 @@ Table of Contents
 
 ## A Week Before
 
-* ask local coordinator to obtain and send pre-workshop questionnaire to attendants
+* ask local coordinator to send the link to the pre-workshop questionnaire to attendants
 
 ## The Day Before
 
@@ -92,11 +92,12 @@ Table of Contents
 
 * send out a welcome message to the participants reminding them of installation requirements etc. (in coordination with lead-instructor)
 
-## One week before
+## One week to a couple of days before
 
 * ask lead instructor for equipment requirements (e.g., second monitor + laptop, microphone)
 * arrange for workshop room visit with (lead) instructor(s) and optionally helpers
 * arrange for a workshop-contact person for the day(s) of the workshop and give contact information to lead instructor
+* send link to pre-workshop survey to participants
 
 ## At/during the workshop
 
