@@ -1,13 +1,13 @@
 # General
 
-* these checklists are in addition to the ones [provided by The Carpentries](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) for their official workshops - note that not all workshops at UiO are official The Carpentries workshops
+* these checklists are in addition to the ones [provided by The Carpentries](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) for their official workshops - note that not all workshops at UiO are standard Carpentries workshops
 * It is mandatory to use the `Bcc` field for sending emails to participants - that way we protect participants' privacy by not displaying email addresses to all recipients.
 * email lists:
-  * ``carpadmin @ swcarpentry dot uio dot no`` --> coordinators at the University Library and the chair person of the Carpentry@UiO Board
-  * ``organizers @ swcarpentry dot uio dot no`` --> all instructors and helpers, plus those on the carpadmin list
-  * ``announcements @ swcarpentry dot uio dot no`` --> all people that have shown interest or have attended workshops + those on the organisers list
-  * ``contact-us @ swcarpentry dot uio dot no``--> coordinators at the University Library. To be used for workshop communications
-  * ``board @ swcarpentry dot uio dot no``--> the members of the Carpentry@UiO Board
+  * ``carpadmin @ carpentry dot uio dot no`` --> coordinators at the University Library and the chair person of the Carpentry@UiO Board
+  * ``organizers @ carpentry dot uio dot no`` --> all instructors and helpers, plus those on the carpadmin list
+  * ``announcements @ carpentry dot uio dot no`` --> all people that have shown interest or have attended workshops + those on the organizers list
+  * ``contact-us @ carpentry dot uio dot no``--> coordinators at the University Library. To be used for workshop communications
+  * ``board @ carpentry dot uio dot no``--> the members of the Carpentry@UiO Board
 
 Table of Contents
 =================
@@ -32,10 +32,10 @@ Table of Contents
 
 ## Initial Preparation
 
-* the coordinators will send out calls for workshops regularly during the academic year to ``organizers @ swcarpentry dot uio dot no``
-* you can always also propose to teach a workshop by sending an email to ``carpadmin @ swcarpentry dot uio dot no``
+* the coordinators will send out calls for workshops regularly during the academic year to ``organizers @ carpentry dot uio dot no``
+* you can always also propose to teach a workshop by sending an email to ``carpadmin @ carpentry dot uio dot no``
 * To generate the workshop website at uio-carpentry.github.com:
-  1) make sure you are a member of uio-carpentry, the [uio-carpentry github organisation](https://github.com/orgs/uio-carpentry/people). If you aren't, send an email to carpadmin @ swcarpentry.uio.no with your GitHub username to invite you.
+  1) make sure you are a member of uio-carpentry, the [uio-carpentry github organisation](https://github.com/orgs/uio-carpentry/people). If you aren't, send an email to ``carpadmin @ carpentry.uio.no`` with your GitHub username to invite you.
   2) create the webpage using the template from https://github.com/swcarpentry/workshop-template. NOTE: as the repository name, *use YYYY-MM-DD-uio* (using the correct date) and not python/R/oslo... or any other text, and *choose the organisation uio-carpentry as owner* for the workshop repository when you import the template. (If needed, ownership can be transferred later)
 * Submit a self-organized workshop to Carpentry central from [this form](https://amy.carpentries.org/forms/self-organised/).     Note: If you're running a one-day workshop, choose *Short session (less than two days)*, and UiO workshops are usually public, so please choose *This event is open to the public*. You may add your co-instructors'/helpers' email addresses in the last field where you are asked about communication.
   The Regional Coordinator will then register instructor information at the Carpentry's sytem as well as make workshop information visible on Carpentry website. 
@@ -52,26 +52,27 @@ Table of Contents
 
 ## At/during the workshop
 
-* send a list with registered participants' names around and let those present check off their names (send this list to ``carpadmin @ swcarpentry dot uio dot no`` or hand it to one of the local coordinators)
+* send the workshop attendance list around or check of attendance yourself. Hand the list to one of the local coordinators
 * collect feedback from sticky notes
 * if there is time at the end of the workshop make attendants aware of the post-workshop questionnaire to increase response rate
 * collect workshop equipment after the workshop
 * set the room
-* leave the crate with coffee thermos and other dishes outside the room
+* if catering was provided for the workshop, leave the crate with coffee thermos and other dishes outside the room
 
 ## After the workshop
 
+* send post-workshop questionnaire to attendants (even though you may have sent it already at the workshop, to reach those that had to leave early)
 * for standard Carpentries workshops, send an email to the Carpentries admin at ``team @ carpentries dot org`` with the number of attendants for both days
 * obtain the post-workshop assessment form link from the workshop's uio-carpentry.github.io pages, or from SWC/DC admin
 * download the workshop etherpad in text format; take out any information that should not be sent around and send it to the participants
 * organise a post-workshop debriefing with the other instructors and the helper
-* optionally, deliver sticky note feedback to the Carpentries@UiO-coordinator's office for archiving
+* optionally, deliver sticky note feedback to the local coordinator's office for archiving
 
 # Helpers
 
 ## At/during the workshop
 
-* if coffee, tea, or water runs out contact Carpentries@UiO coordinator or the library contact and see if more can be arranged
+* if there is catering for the workshop: if coffee, tea, or water runs out contact local coordinator or the library contact and see if more can be arranged
 * help collecting workshop equipment after the workshop
 * help setting the room
 * be attentive: you likely notice participants' challenges and problems much better than the instructors
@@ -86,7 +87,7 @@ Table of Contents
 * set up a registration form (Pindena)
 * ask lead instructor for the URL of the workshop information page (usually uio-carpentry.github.uio/YYYY-DD-MM-uio)
 * set up an event on uio.no course catalogue
-* advertise event by sending an email to ``announcements @ swcarpentry dot uio dot no`` and other relevant lists and via the official social media channels of the University Library
+* advertise event by sending an email to ``announcements @ carpentry dot uio dot no`` and other relevant lists and via the official social media channels of the University Library
 
 ## Two Weeks Before
 
@@ -101,7 +102,7 @@ Table of Contents
 
 ## At/during the workshop
 
-* if previously agreed on: prepare coffee and hot water for tea and deliver to the workshop room
+* if catering is provided locally for the workshop: prepare coffee and hot water for tea and deliver to the workshop room
 * prepare signs directing learners to the workshop room, these can be found in this repository
 * take the second monitor + laptop to the workshop room (if needed)
 * bring box with other essentials to the workshop room (if the workshop is not held in NHA room 209)
@@ -114,7 +115,7 @@ Table of Contents
    
 ## After the workshop
 
-* if used, colled coffee and hot water thermos
+* if catering was provided locally, collect coffee and hot water thermos
 * collect the second monitor + laptop
 * collect essentials from the workshop room and make sure the room looks OK for the next user
    * check whether tables need a quick wipe, especially the table having the coffee cans on

@@ -13,7 +13,7 @@ This is a good way to introduce yourself
 and to meet some of our community members.
 
 1.  If you do not have a [GitHub](https://github.com) account,
-    you can [send us comments by email](mailto:contact-us@swcarpentry.uio.no).
+    you can [send us comments by email](mailto:carpadmin@carpentry.uio.no).
     However,
     we will be able to respond more quickly if you use one of the other methods described below.
 
