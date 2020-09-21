@@ -45,7 +45,6 @@ The Board should know about and help address the challenges. This could be done 
   - e.g. is on organizers mailing list
   - and/or participates in the StudyGroup
   - and/or takes part in Social Events
-  - and/or contributes to Carpentry@UiO’s GitHub repositories
   
 ### 4 Disciplinary Background (Diversity + Extension of Target Audience)
 - UiO-Carpentry has a strong footing in STEM-fields. We welcome new instructors from STEM-fields, however, we would like to extend our instructor base with new instructors based in the Humanities, Social Sciences and related fields.
