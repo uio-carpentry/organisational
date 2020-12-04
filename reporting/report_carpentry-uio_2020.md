@@ -89,7 +89,7 @@ In March 2020, the UiO-Carpentry Board was successfully constituted. The electio
 * Annika Rockenberger (appointed by UiO library)
 * Anne Bergsaker
 
-The Board can be contacted via board@carpentry.uio.no. The Board had 4 meetings during 2020, minutes for the meetings can be found in (/meetings), "yyddmm_board-meeting.md".
+The Board can be contacted via board @ carpentry dot uio dot no. The Board had 4 meetings during 2020, minutes for the meetings can be found in (organisational/meetings), "yyddmm_board-meeting.md".
 
 * [2020-03-25](https://github.com/uio-carpentry/organisational/blob/master/meetings/200325-board-meeting.md)
 * [2020-05-06](https://github.com/uio-carpentry/organisational/blob/master/meetings/200506-board-meeting.md)
@@ -97,7 +97,7 @@ The Board can be contacted via board@carpentry.uio.no. The Board had 4 meetings 
 
 ### Website
 
-The new website (https://www.ub.uio.no/english/writing-publishing/dsc/carpentry-uio/index.html)…
+The new website (https://www.ub.uio.no/english/writing-publishing/dsc/carpentry-uio/index.html) …
 
 ### GitHub, Communication
 
@@ -109,7 +109,9 @@ Apart from repositories for workshop websites, UiO-Carpentry maintains the follo
 * [studygroup](https://github.com/uio-carpentry/studyGroup) (StudyGroup website and events)
 * [uio-carpentry.github.io](https://github.com/uio-carpentry/uio-carpentry.github.io) (workshop backlog and calendar)
 
-A major change was made to communications: the domain for the UiO-Carpentry mailing lists was changed from @swcarpentry to @carpentry. In addition, two underused mailing lists were discarded (resbaz and …). The community now actively uses the following mailing lists:
+A major change was made to communications: the domain for the UiO-Carpentry mailing lists was changed from @swcarpentry to @carpentry. In addition, two underused mailing lists were discarded (resbaz and …).
+
+The community now actively uses the following mailing lists:
 
 * carpadmin @ carpentry dot uio dot no --> coordinators at the University Library and the chair person of the Carpentry@UiO Board
 * organizers @ carpentry dot uio dot no --> all instructors and helpers, plus those on the carpadmin list
@@ -119,7 +121,8 @@ A major change was made to communications: the domain for the UiO-Carpentry mail
 
 All lists have been updated.
 
-The subscribers of the organizers list have been contacted and asked for re-subscription. There are now 41 active members on the list of previously <80 of unclear status.
+The subscribers of the organizers list have been contacted and asked for re-subscription. There are now 41 active members on the list of previously >80 of unclear status.
+
 Via the list, instructors and helpers for workshops are recruited and information relevant to the UiO-Carpentry community is communicated.
 
 # General notes
