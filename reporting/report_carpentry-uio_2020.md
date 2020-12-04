@@ -8,9 +8,6 @@
 
 UiO-Carpentry arranged altogether 11 one-day Software Carpentry workshops (most of which could be taught on-site), and was part of two 2 two-day Data Carpentry workshops and 2 half-day mini workshops (taught online). During spring/summer and late fall Software Carpentry workshops were moved online, while several workshops in early fall could be arranged on-site with reduced participant numbers.
 
-UiO-Carpentry also held a number of workshops using materials from Library Carpentry targeted towards librarians. These were held in Norwegian
-
-
 ### One-day workshops
 
 * January [Writing and Publishing Together on the Web Using GitHub](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200117_github) - on-site
