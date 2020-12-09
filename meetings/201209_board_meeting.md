@@ -4,7 +4,7 @@
 
 ### Evaluation of UiO-Carpentry 2020 (Annika, Naoe, 10 min.)
 
-See the [draft of the Annual report](https://github.com/uio-carpentry/organisational/blob/ebb9cb827cb20aca392248d6e7d41eb2039d0144/reporting/report_carpentry-uio_2020.md)
+See the [the Annual report](https://github.com/uio-carpentry/organisational/blob/master/reporting/report_carpentry-uio_2020.md)
 
 ### Plans for spring 2021 (Annika, Naoe, 10 min.)
 
