@@ -68,7 +68,7 @@ Two social events for the UiO-Carpentry community were arranged online, one at t
 
 In addition, two online meetings for the Nordic-Baltic Carpentries region were held online, hosted by the UiO-Carpentry local coordinator (AR) and the regional coordinator for the Nordic and Baltic countries (NT).
 * 2020-08-07: Social Meetup during CarpentryCon@Home
-* 2020-10-30: Community Discussion for Nordic-Baltic Carpentries
+* 2020-10-30: Community Discussion for Nordic-Baltic Carpentries (A [blog post](https://coderefinery.org/blog/2020/11/13/carpentry-community-discussion-nordic/) is published based on this at CodeRefinery website and is to be published at the Carpentries, [(PR)](https://github.com/carpentries/carpentries.org/pull/944))
 
 ## Organisation
 
