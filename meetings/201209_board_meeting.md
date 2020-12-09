@@ -14,7 +14,7 @@ See the [the Annual report](https://github.com/uio-carpentry/organisational/blob
 
 ### Post-workshop evaluation (Annika, Naoe, 10 min.)
 
-See issues #33 and #70 
+See issues [#33](https://github.com/uio-carpentry/organisational/issues/33) and [#70](https://github.com/uio-carpentry/organisational/issues/70) 
 
 ### Carpentry\@UiO website (Naoe, 5 min.)
 
