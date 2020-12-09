@@ -24,7 +24,7 @@ UiO-Carpentry arranged altogether 11 one-day Software Carpentry workshops (most 
 
 ### Two-day workshops
 
-Nord University arranged two Data Carpentry workshops online that were open for participants from UiO. The workshops were supported by the DSC at UBO.
+Two Data Carpentry online workshops arranged by Nord University were open for external participants from Norway. The workshops were disseminated through the DSC at UBO.
 
 * October [Data Carpentry: Ecology](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201014_nord_dceco) - arranged by Nord University - online
 * October [Data Carpentry: Genomics](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201021_nord_dcgen) - arranged by Nord University - online
