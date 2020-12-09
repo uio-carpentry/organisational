@@ -54,7 +54,7 @@ Three onboarding sessions were held, two on-site sessions in January 2020 and on
 
 ### Recruiting
 
-4 new instructors (with a focus on R) could be recruited for UiO-Carpentry, another instructor is in training. Two seats came out of the NeiC CodeRefinery Platinum Membership (UiO members were eligible due to UiO's membership in NeiC). In addition, an already certified instructor recently joint UiO. Several new helpers could be recruited and supported workshops both on-site and online during 2020.
+4 new instructors (with a focus on R) could be recruited for UiO-Carpentry, another instructor is in training. Two seats came out of the NeiC CodeRefinery Platinum Membership (UiO members were eligible due to UiO's membership in NeiC). In addition, an already certified instructor recently joined UiO. Several new helpers could be recruited and supported workshops both on-site and online during 2020.
 
 During the membership period of August 2020 to August 2021, UiO received 5 instructor training spots via its Silver Membership. One seat from the 2020/21 lot was used during the previous period 2019/20.
 
