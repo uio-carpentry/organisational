@@ -107,8 +107,8 @@ Two social events for the UiO-Carpentry community were arranged online, one at t
 * 2020-12-17: UiO-Carpentry Christmas mingle
 
 In addition, two online meetings for the Nordic-Baltic Carpentries region were held online, hosted by the UiO-Carpentry local coordinator (AR) and the regional coordinator for the Nordic and Baltic countries (NT).
-* 2020-08-07: Social Meetup during CarpentryCon@Home
-* 2020-10-30: Community Discussion for Nordic-Baltic Carpentries (A [blog post](https://coderefinery.org/blog/2020/11/13/carpentry-community-discussion-nordic/) is published based on this at CodeRefinery website and is to be published at the Carpentries, [(PR)](https://github.com/carpentries/carpentries.org/pull/944))
+* 2020-08-07: Social Meetup during CarpentryCon@Home (16 participants)
+* 2020-10-30: Community Discussion for Nordic-Baltic Carpentries (15 participants) (A [blog post](https://coderefinery.org/blog/2020/11/13/carpentry-community-discussion-nordic/) is published based on this at CodeRefinery website and is to be published at the Carpentries, [(PR)](https://github.com/carpentries/carpentries.org/pull/944))
 
 ## Organisation
 
@@ -137,7 +137,24 @@ The Board can be contacted via board @ carpentry dot uio dot no. The Board had 4
 
 ### Website
 
-The new website (https://www.ub.uio.no/english/writing-publishing/dsc/carpentry-uio/index.html) …
+Regarding the Carpentry@UiO-relevant webpages within uio.no domain, there were/are the followings:
+1. uio.no/carpentry, redirected to [a page under UiO employees' site with various information](https://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/)  - to be deleted/edited
+2. [A page under UiO employees' site, research data management, along with other things than Carpentries](https://www.uio.no/english/for-employees/support/research/research-data-management/courses/carpentry/) - to be deleted/edited
+3. [A page under University of Oslo Library, Courses and Events, Free standing courses](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/) - edited considerably
+4. [Under 3 above, focus on Software Carpentry](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/index.html) - deleted
+5. [Under 3 above, focus on Data Carpentry](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/data-carpentry/index.html) - deleted
+
+Based on advices given by the web editor at the Library, the the Carpentries-relevant pages in uio.no domain were set as follows.
+
+#### Workshop page
+* Where: https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/
+* Focus: Descriptions of typical lessons covered and format of the workshops.
+* Structure: Having a sub-directory that contains files that are about each workshop (called "arrangement files").
+
+#### Community page
+* Where: https://www.ub.uio.no/english/writing-publishing/dsc/carpentry-uio/index.html
+* Focus: Introduction of Carpentry@UiO as a community. 
+* Structure: Currently a single page under DSC's site. Giving info about who we are, what we are doing, and how to get involved, as well as explanation of the Carpentries.
 
 ### GitHub, Communication
 
