@@ -134,6 +134,7 @@ The Board can be contacted via Board @ carpentry dot uio dot no. The Board had f
 * [2020-03-25](https://github.com/uio-carpentry/organisational/blob/master/meetings/200325-board-meeting.md)
 * [2020-05-06](https://github.com/uio-carpentry/organisational/blob/master/meetings/200506-board-meeting.md)
 * [2020-08-27](https://github.com/uio-carpentry/organisational/blob/master/meetings/200827_board-meeting.md)
+* [2020-12-09](https://github.com/uio-carpentry/organisational/blob/master/meetings/201209_board_meeting.md)
 
 ### Website
 
