@@ -5,54 +5,54 @@
 ## Learner Feedback and Continuous Evaluation
 ### Carpentries survey
 
-In this year, we used the Carpentries pre- and post-workshop survey. Due to the problems described in the next section, we have not yet gotten access to the whole dataset. However, the responses given in 5-likert scale were mostly positive.
+In this year, we used the Carpentries pre- and post-workshop survey. Due to the problems described in the next section, we have not yet gotten access to the whole dataset. However, the responses given in 5-Likert scale were mostly positive.
 
-On the other hand, the responses written in free text are summarized in "Carpentries-survey-results" Sheet in Carpentry@UiO G Suite shared drive, which is accessible only to board members. If the contents are deemed to be non-person idenfiable, this can be archived in GitHub repository in tsv format.
+On the other hand, the responses written in free text are summarised in "Carpentries-survey-results" Sheet in Carpentry@UiO G Suite shared drive, which is accessible only to board members. If the contents are deemed to be non-person identifiable, this can be archived in GitHub repository in .tsv format.
 
 #### **Major strength**
 
-Among the 47 responses (in total for all the workshops) on major strength of the workshop, the followings are found as commonly expressed. 
+Among the 47 responses (in total for all the workshops) on major strength of the workshop, the following is found as commonly expressed.
 
 - **Access to helpers and responsive instructors** Learners appreciated that their problems were quickly solved by the helpers and instructors.
-- **Easy to follow and understand** Clear instructions from basics, good pace, access to written lesson materials are much appreciated. 
-- **Good lesson materials and hands on style** Practical exersizes with realistic examples well mixed with lectures were raised as a solid strength. 
+- **Easy to follow and understand** Clear instructions from basics, good pace, access to written lesson materials are much appreciated.
+- **Good lesson materials and hands-on style** Practical exercises with realistic examples well mixed with lectures were raised as a solid strength.
 
-#### **What to be improved** 
+#### **What to be improved**
 
-From the 36 free-text responses (in total for all the workshops) on something to be improved, the followings are found to be major issues.  
+From the 36 free-text responses (in total for all the workshops) on something to be improved, the following are found to be major issues.  
 
-- **Time allocation** For example, suggestion for 2 days instead of 1 day, felt the pace is faster in the latter part compared to the time spent on the basic parts in the morning. 
+- **Time allocation** For example, a suggestion for two days instead of one day, felt the pace is faster in the latter part compared to the time spent on the basic parts in the morning.
 - **Preparation** Both for learners and instructors. Lack of preparation should not drain others' (regardless of the role) time.
-- **Clearer description of the workshop contents and prerequisites** These are expressed in terms of level o f the workshops and the skills that were necessary for the workshop (such as use of command line interface).
+- **Clearer description of the workshop contents and prerequisites** These are expressed in terms of the level of the workshops and the skills that were necessary for the workshop (such as the use of the command-line interface).
 
 #### **How instructors and helpers affected learning experiences**
 
-Most of the 36 free-text responses (in total for all the workshops) on how instructors and helpers affected learning experiences, were about **quick and flexible help on troubles learners got**. 
+Most of the 36 free-text responses (in total for all the workshops) on how instructors and helpers affected learning experiences, were about **quick and flexible help on troubles learners got**.
 
-Other minor opinions include themes relevant to the **preparation** mentioned above. In online workshops, **effective use of helpers** were raised as a factor that affect learning experiences on both positive and negative side. 
+Other minor opinions include themes relevant to the **preparation** mentioned above. In online workshops, **effective use of helpers** was raised as a factor that affects learning experiences on both positive and negative side.
 
 
 ### Survey in future
-Using the Carpentreis survey was found to have some drawbacks. 
+Using the Carpentries survey was found to have some drawbacks.
 
-1. **Low response rate** The response rates, especially for post-workshop survey, were generally low (mostly less than half). 
-2. **Limited access to results** When the number of responses is less than 10, the system does not allow downloading result data but only show the summary. Naoe has requested the core team to gather all the responses to the surveys for UiO workshops in 2020, but the data is not yet available. 
-3. **Not fully applicable/relevant questions** Besides the questions asked are not necessarily very relevant to each workshop, as the workshop by Carpentry@UiO mostly focus on single lesson rather than the 2-day standard workshops. 
+1. **Low response rate** The response rates, especially for the post-workshop survey, were generally low (mostly less than half).
+2. **Limited access to results** When the number of responses is less than 10, the system does not allow downloading result data but only show the summary. Naoe has requested the core team to gather all the responses to the surveys for UiO workshops in 2020, but the data is not yet available.
+3. **Not fully applicable/relevant questions** Beside the questions asked are not necessarily very relevant to each workshop, as the workshop by Carpentry@UiO mostly focuses on single-lesson rather than the two-day standard workshops.
 
-The board on the 9th December discussed and decided to continue using the Carpentries survey. Instructor onboarding manual is to be edited to make sure that the instructors keep the last 5 minutes for completing the post-workshop survey. (Link to board meeting Minutes: https://github.com/uio-carpentry/organisational/blob/master/meetings/201209_board_meeting.md) 
+The Board on the 9th Dec discussed and decided to continue using the Carpentries survey. Instructor onboarding manual is to be edited to make sure that the instructors keep the last 5 minutes for completing the post-workshop survey. (Link to board meeting Minutes: https://github.com/uio-carpentry/organisational/blob/master/meetings/201209_board_meeting.md)
 
 Also, some fundamental questions that the Library is interested in will be implemented in the sign-up form.
 ## Workshops
 
-UiO-Carpentry arranged altogether 11 one-day Software Carpentry workshops (most of which could be taught on-site), and was part of two 2 two-day Data Carpentry workshops and 2 half-day mini workshops (taught online). During spring/summer and late fall Software Carpentry workshops were moved online, while several workshops in early fall could be arranged on-site with reduced participant numbers.
+UiO-Carpentry arranged altogether 11 one-day Software Carpentry workshops (most of which could be taught on-site) and was part of two two-day Data Carpentry workshops and two half-day mini-workshops (conducted online). During spring/summer and late fall Software Carpentry workshops were moved online, while several workshops in early fall could be arranged on-site with reduced participant numbers.
 
-For the 11 Carpentry workshops arranged by UiO-Carpentry, in total 492 sign-ups were made. Total capacity was 283 and the number of learners who actually attended was in total 187. Due to even more limited access to rooms in addition to reduced capacity of each room at UiO, in-person workshop capacity in Autumn semester was reduced to approximately 1/3 of that of Spring semester before covid-19 related restrictions applied.  
+For the 11 Carpentry workshops arranged by UiO-Carpentry, in total, 492 sign-ups were made. Total capacity was 283, and the number of learners who attended was in total 187. Due to even more limited access to rooms in addition to the reduced capacity of each room at UiO, the in-person workshop capacity in the Autumn semester was reduced to approximately 1/3 of that of Spring semester before covid-19 related restrictions applied.  
 
 ### One-day workshops
 
 * January [Writing and Publishing Together on the Web Using GitHub](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200117_github) - on-site
 * January [Plotting and Programming with Python](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200124_python) - on-site
-* January [R for Reproducible Scientific Analysis](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200131_repro) - on site
+* January [R for Reproducible Scientific Analysis](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200131_repro) - on-site
 * February [The Bash Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200207_bash) - on-site
 * February [Python (intermediate)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200214_Python-intermediate) - on-site
 * February [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200221_git) - on-site
@@ -71,14 +71,14 @@ Two Data Carpentry online workshops arranged by Nord University were open for ex
 
 ### Carpentry Mini-Workshops
 
-University of Wisconsin-Madison arranged two online mini workshops together with an instructor from the UiO-community. The workshops were open for participants from UiO.
+The University of Wisconsin-Madison arranged two online mini-workshops together with an instructor from the UiO-community. The workshops were open for participants from UiO.
 
-* November [Carpentry mini workshop: Building Websites with Jekyll and GitHub/GitLab](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201111_jekyll_wisconsin) - joint venture with University of Wisconsin-Madison - online
-* November [Carpentry mini workshop: Building Websites with Jekyll and GitHub/GitLab](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201125_jekyll_wisconsin) - joint venture with University of Wisconsin-Madison - online
+* November [Carpentry mini-workshop: Building Websites with Jekyll and GitHub/GitLab](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201111_jekyll_wisconsin) - joint venture with University of Wisconsin-Madison - online
+* November [Carpentry mini-workshop: Building Websites with Jekyll and GitHub/GitLab](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201125_jekyll_wisconsin) - joint venture with University of Wisconsin-Madison - online
 
 ### Carpentry Workshops During Research Bazaar 2020
 
-* January [Research Bazaar](https://www.ub.uio.no/english/courses-events/events/all-libraries/2020/research-bazaar-2020.html) - with contributions from the UiO-Carpentry community and severals of its instructors.
+* January [Research Bazaar](https://www.ub.uio.no/english/courses-events/events/all-libraries/2020/research-bazaar-2020.html) - with contributions from the UiO-Carpentry community and several of its instructors.
 
 ## Community Building & Social Events
 
@@ -90,15 +90,15 @@ Three onboarding sessions were held, two on-site sessions in January 2020 and on
 
 ### StudyGroup
 
-4 StudyGroup meetings were held between January and early March 2020. Moving the StudyGroup online seemed like a good solution, but participation dwindled towards summer (3 meetings were held), likely as a result of over exposure to online meetings, conferences, and workshops etc. The StudyGroup was thus put on halt during the fall.
+4 StudyGroup meetings were held between January and early March 2020. Moving the StudyGroup online seemed like a good solution. Still, participation dwindled towards summer (3 meetings were held), likely as a result of overexposure to online meetings, conferences, and workshops etc. The StudyGroup was thus put on halt during the fall.
 
 ### Recruiting
 
-4 new instructors (with a focus on R) could be recruited for UiO-Carpentry, another instructor is in training. Two seats came out of the NeiC CodeRefinery Platinum Membership (UiO members were eligible due to UiO's membership in NeiC). In addition, an already certified instructor recently joined UiO. Several new helpers could be recruited and supported workshops both on-site and online during 2020.
+Four new instructors (with a focus on R) could be recruited for UiO-Carpentry, another instructor is in training. Two seats came out of the NeiC CodeRefinery Platinum Membership (UiO members were eligible due to UiO's membership in NeiC). Besides, an already certified instructor recently joined UiO. Several new helpers could be recruited and supported workshops, both on-site and online during 2020.
 
-The Carpentries record shows that 8 seats were used in the membership year of May 2019 to May 2020, which exceeds the reserved spots by 2. On the 8th Dec 2020, it is however shown that UiO has 6 seats remaining for the membership period of August 2020 to August 2021. Naoe made an inquiry regarding the number of seats reserved for UiO during the current membership period to the core team and is still waiting for confirmation .
+The Carpentries record shows that eight seats were used in the membership year of May 2019 to May 2020, which exceeds the reserved spots by 2. On the 8th Dec 2020, it is however shown that UiO has six seats remaining for the membership period of August 2020 to August 2021. Naoe made an inquiry regarding the number of seats reserved for UiO during the current membership period to the core team and is still waiting for confirmation.
 
-Actively recruiting candidates from the UiO-Carpentry community for these spots had to be postponed to 2021. Several potential instructors declined the offer due to lack of time. A more active recruitment has to be initiated in early 2021.
+Actively recruiting candidates from the UiO-Carpentry community for these spots had to be postponed to 2021. Several potential instructors declined the offer due to lack of time. More active recruitment has to be initiated in early 2021.
 
 ### Social Events
 
@@ -114,22 +114,22 @@ In addition, two online meetings for the Nordic-Baltic Carpentries region were h
 
 ### Local Community Coordinator
 
-The tasks of the local community coordinator were shared by AR and NT (both University of Oslo library). In practice, this means support in recruiting instructors and helpers for workshops, setting up workshop websites, setting up and managing workshop registration, communication with workshop participants, communication with The Carpentries regarding workshops, maintenance of the UiO-Carpentry websites hosted by UiO/UBO as well as the community website hosted on GitHub, managing mailing lists, communication with the UiO-community via mailing lists, booking rooms and/or setting up virtual rooms, checking in with instructors and helpers before and after workshops.
+The tasks of the local community coordinator were shared by AR and NT (both University of Oslo Library). In practice, this means support in recruiting instructors and helpers for workshops, setting up workshop websites, setting up and managing workshop registration, communication with workshop participants, communication with The Carpentries regarding workshops, maintenance of the UiO-Carpentry websites hosted by UiO/UBO as well as the community website hosted on GitHub, managing mailing lists, communication with the UiO-community via mailing lists, booking rooms and/or setting up virtual rooms, checking in with instructors and helpers before and after workshops.
 
 The local coordinators established and documented effective routines for most tasks regarding hosting workshops and community-communication.
 
 ### Board
 
-In March 2020, the UiO-Carpentry Board was successfully constituted. The election took place in February and 4 Board Members were elected for a term of 2 years. In addition, the UiO library appointed two Board Members. The Board consists of the following members:
+In March 2020, the UiO-Carpentry Board was successfully constituted. The election took place in February, and four Board Members were elected for a term of 2 years. In addition, the UiO library appointed two Board Members. The Board consists of the following members:
 
 * **Chair** Lex Nederbragt
-* **Vice chair** Viviane Girardin
+* **Vice-chair** Viviane Girardin
 * **Communication officer** Naoe Tatara (appointed by UiO library)
 * **Secretary** Tobias Busch
 * Annika Rockenberger (appointed by UiO library)
 * Anne Bergsaker
 
-The Board can be contacted via board @ carpentry dot uio dot no. The Board had 4 meetings during 2020, minutes for the meetings can be found in (organisational/meetings), "yyddmm_board-meeting.md".
+The Board can be contacted via Board @ carpentry dot uio dot no. The Board had four meetings during 2020, minutes for the meetings can be found in (organisational/meetings), "yyddmm_board-meeting.md".
 
 * [2020-03-25](https://github.com/uio-carpentry/organisational/blob/master/meetings/200325-board-meeting.md)
 * [2020-05-06](https://github.com/uio-carpentry/organisational/blob/master/meetings/200506-board-meeting.md)
@@ -140,11 +140,11 @@ The Board can be contacted via board @ carpentry dot uio dot no. The Board had 4
 Regarding the Carpentry@UiO-relevant webpages within uio.no domain, there were/are the followings:
 1. uio.no/carpentry, redirected to [a page under UiO employees' site with various information](https://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/)  - to be deleted/edited
 2. [A page under UiO employees' site, research data management, along with other things than Carpentries](https://www.uio.no/english/for-employees/support/research/research-data-management/courses/carpentry/) - to be deleted/edited
-3. [A page under University of Oslo Library, Courses and Events, Free standing courses](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/) - edited considerably
+3. [A page under University of Oslo Library, Courses and Events, Freestanding courses](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/) - edited considerably
 4. [Under 3 above, focus on Software Carpentry](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/index.html) - deleted
 5. [Under 3 above, focus on Data Carpentry](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/data-carpentry/index.html) - deleted
 
-Based on advices given by the web editor at the Library, the the Carpentries-relevant pages in uio.no domain were set as follows.
+Based on advice given by the web editor at the Library, the Carpentries-relevant pages in uio.no domain were set as follows.
 
 #### Workshop page
 * Where: https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/
@@ -153,8 +153,8 @@ Based on advices given by the web editor at the Library, the the Carpentries-rel
 
 #### Community page
 * Where: https://www.ub.uio.no/english/writing-publishing/dsc/carpentry-uio/index.html
-* Focus: Introduction of Carpentry@UiO as a community. 
-* Structure: Currently a single page under DSC's site. Giving info about who we are, what we are doing, and how to get involved, as well as explanation of the Carpentries.
+* Focus: Introduction of Carpentry@UiO as a community.
+* Structure: Currently a single page under DSC's site. Giving info about who we are, what we are doing, and how to get involved, as well as an explanation of the Carpentries.
 
 ### GitHub, Communication
 
@@ -166,28 +166,18 @@ Apart from repositories for workshop websites, UiO-Carpentry maintains the follo
 * [studygroup](https://github.com/uio-carpentry/studyGroup) (StudyGroup website and events)
 * [uio-carpentry.github.io](https://github.com/uio-carpentry/uio-carpentry.github.io) (workshop backlog and calendar)
 
-A major change was made to communications: the domain for the UiO-Carpentry mailing lists was changed from @swcarpentry to @carpentry. In addition, two underused mailing lists were discarded (resbaz and …).
+A significant change was made to communications: the domain for the UiO-Carpentry mailing lists was changed from @swcarpentry to @carpentry. Also, one underused mailing list was discarded (resbaz).
 
 The community now actively uses the following mailing lists:
 
-* carpadmin @ carpentry dot uio dot no --> coordinators at the University Library and the chair person of the Carpentry@UiO Board
-* organizers @ carpentry dot uio dot no --> all instructors and helpers, plus those on the carpadmin list
-* announcements @ carpentry dot uio dot no --> all people that have shown interest or have attended workshops + those on the organizers list
+* carpadmin @ carpentry dot uio dot no --> coordinators at the University Library and the chairperson of the Carpentry@UiO Board
+* organisers @ carpentry dot uio dot no --> all instructors and helpers, plus those on the carpadmin list
+* announcements @ carpentry dot uio dot no --> all people that have shown interest or have attended workshops + those on the organisers list
 * contact-us @ carpentry dot uio dot no--> coordinators at the University Library. To be used for workshop communications
 * board @ carpentry dot uio dot no--> the members of the Carpentry@UiO Board
 
 All lists have been updated.
 
-The subscribers of the organizers list have been contacted and asked for re-subscription. There are now 41 active members on the list of previously >80 of unclear status.
+The subscribers of the organisers list have been contacted and asked for re-subscription. There are now 41 active members on the list of previously >80 of unclear status.
 
-Via the list, instructors and helpers for workshops are recruited and information relevant to the UiO-Carpentry community is communicated.
-
-# General notes
-
-# Planned Activities for Spring Term 2020
-
-## Workshops
-
-## Onboarding
-
-## Instructor Training
+Via the list, instructors and helpers for workshops are recruited, and information relevant to the UiO-Carpentry community is communicated.
