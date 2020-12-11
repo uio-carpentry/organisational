@@ -3,10 +3,50 @@
 *Report written by Naoe Tatara and Annika Rockenberger (both University of Oslo library)*
 
 ## Learner Feedback and Continuous Evaluation
+### Carpentries survey
 
+In this year, we used the Carpentries pre- and post-workshop survey. Due to the problems described in the next section, we have not yet gotten access to the whole dataset. However, the responses given in 5-likert scale were mostly positive.
+
+On the other hand, the responses written in free text are summarized in "Carpentries-survey-results" Sheet in Carpentry@UiO G Suite shared drive, which is accessible only to board members. If the contents are deemed to be non-person idenfiable, this can be archived in GitHub repository in tsv format.
+
+#### **Major strength**
+
+Among the 47 responses (in total for all the workshops) on major strength of the workshop, the followings are found as commonly expressed. 
+
+- **Access to helpers and responsive instructors** Learners appreciated that their problems were quickly solved by the helpers and instructors.
+- **Easy to follow and understand** Clear instructions from basics, good pace, access to written lesson materials are much appreciated. 
+- **Good lesson materials and hands on style** Practical exersizes with realistic examples well mixed with lectures were raised as a solid strength. 
+
+#### **What to be improved** 
+
+From the 36 free-text responses (in total for all the workshops) on something to be improved, the followings are found to be major issues.  
+
+- **Time allocation** For example, suggestion for 2 days instead of 1 day, felt the pace is faster in the latter part compared to the time spent on the basic parts in the morning. 
+- **Preparation** Both for learners and instructors. Lack of preparation should not drain others' (regardless of the role) time.
+- **Clearer description of the workshop contents and prerequisites** These are expressed in terms of level o f the workshops and the skills that were necessary for the workshop (such as use of command line interface).
+
+#### **How instructors and helpers affected learning experiences**
+
+Most of the 36 free-text responses (in total for all the workshops) on how instructors and helpers affected learning experiences, were about **quick and flexible help on troubles learners got**. 
+
+Other minor opinions include themes relevant to the **preparation** mentioned above. In online workshops, **effective use of helpers** were raised as a factor that affect learning experiences on both positive and negative side. 
+
+
+### Survey in future
+Using the Carpentreis survey was found to have some drawbacks. 
+
+1. **Low response rate** The response rates, especially for post-workshop survey, were generally low (mostly less than half). 
+2. **Limited access to results** When the number of responses is less than 10, the system does not allow downloading result data but only show the summary. Naoe has requested the core team to gather all the responses to the surveys for UiO workshops in 2020, but the data is not yet available. 
+3. **Not fully applicable/relevant questions** Besides the questions asked are not necessarily very relevant to each workshop, as the workshop by Carpentry@UiO mostly focus on single lesson rather than the 2-day standard workshops. 
+
+The board on the 9th December discussed and decided to continue using the Carpentries survey. Instructor onboarding manual is to be edited to make sure that the instructors keep the last 5 minutes for completing the post-workshop survey. (Link to board meeting Minutes: https://github.com/uio-carpentry/organisational/blob/master/meetings/201209_board_meeting.md) 
+
+Also, some fundamental questions that the Library is interested in will be implemented in the sign-up form.
 ## Workshops
 
 UiO-Carpentry arranged altogether 11 one-day Software Carpentry workshops (most of which could be taught on-site), and was part of two 2 two-day Data Carpentry workshops and 2 half-day mini workshops (taught online). During spring/summer and late fall Software Carpentry workshops were moved online, while several workshops in early fall could be arranged on-site with reduced participant numbers.
+
+For the 11 Carpentry workshops arranged by UiO-Carpentry, in total 492 sign-ups were made. Total capacity was 283 and the number of learners who actually attended was in total 187. Due to even more limited access to rooms in addition to reduced capacity of each room at UiO, in-person workshop capacity in Autumn semester was reduced to approximately 1/3 of that of Spring semester before covid-19 related restrictions applied.  
 
 ### One-day workshops
 
@@ -67,8 +107,8 @@ Two social events for the UiO-Carpentry community were arranged online, one at t
 * 2020-12-17: UiO-Carpentry Christmas mingle
 
 In addition, two online meetings for the Nordic-Baltic Carpentries region were held online, hosted by the UiO-Carpentry local coordinator (AR) and the regional coordinator for the Nordic and Baltic countries (NT).
-* 2020-08-07: Social Meetup during CarpentryCon@Home
-* 2020-10-30: Community Discussion for Nordic-Baltic Carpentries (A [blog post](https://coderefinery.org/blog/2020/11/13/carpentry-community-discussion-nordic/) is published based on this at CodeRefinery website and is to be published at the Carpentries, [(PR)](https://github.com/carpentries/carpentries.org/pull/944))
+* 2020-08-07: Social Meetup during CarpentryCon@Home (16 participants)
+* 2020-10-30: Community Discussion for Nordic-Baltic Carpentries (15 participants) (A [blog post](https://coderefinery.org/blog/2020/11/13/carpentry-community-discussion-nordic/) is published based on this at CodeRefinery website and is to be published at the Carpentries, [(PR)](https://github.com/carpentries/carpentries.org/pull/944))
 
 ## Organisation
 
@@ -97,7 +137,24 @@ The Board can be contacted via board @ carpentry dot uio dot no. The Board had 4
 
 ### Website
 
-The new website (https://www.ub.uio.no/english/writing-publishing/dsc/carpentry-uio/index.html) …
+Regarding the Carpentry@UiO-relevant webpages within uio.no domain, there were/are the followings:
+1. uio.no/carpentry, redirected to [a page under UiO employees' site with various information](https://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/)  - to be deleted/edited
+2. [A page under UiO employees' site, research data management, along with other things than Carpentries](https://www.uio.no/english/for-employees/support/research/research-data-management/courses/carpentry/) - to be deleted/edited
+3. [A page under University of Oslo Library, Courses and Events, Free standing courses](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/) - edited considerably
+4. [Under 3 above, focus on Software Carpentry](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/index.html) - deleted
+5. [Under 3 above, focus on Data Carpentry](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/data-carpentry/index.html) - deleted
+
+Based on advices given by the web editor at the Library, the the Carpentries-relevant pages in uio.no domain were set as follows.
+
+#### Workshop page
+* Where: https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/
+* Focus: Descriptions of typical lessons covered and format of the workshops.
+* Structure: Having a sub-directory that contains files that are about each workshop (called "arrangement files").
+
+#### Community page
+* Where: https://www.ub.uio.no/english/writing-publishing/dsc/carpentry-uio/index.html
+* Focus: Introduction of Carpentry@UiO as a community. 
+* Structure: Currently a single page under DSC's site. Giving info about who we are, what we are doing, and how to get involved, as well as explanation of the Carpentries.
 
 ### GitHub, Communication
 
