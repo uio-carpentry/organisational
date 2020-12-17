@@ -165,7 +165,7 @@ Apart from repositories for workshop websites, UiO-Carpentry maintains the follo
 * [governance](https://github.com/uio-carpentry/governance) (community statutes, code of conduct, procedures)
 * [organisational](https://github.com/uio-carpentry/organisational) (reports, onboarding documents, how-tos)
 * [studygroup](https://github.com/uio-carpentry/studyGroup) (StudyGroup website and events)
-* [uio-carpentry.github.io](https://github.com/uio-carpentry/uio-carpentry.github.io) (workshop backlog and calendar)
+* [uio-carpentry.github.io](https://github.com/uio-carpentry/uio-carpentry.github.io) (previous workshop and calendar)
 
 A significant change was made to communications: the domain for the UiO-Carpentry mailing lists was changed from @swcarpentry to @carpentry. Also, one underused mailing list was discarded (resbaz).
 
