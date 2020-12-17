@@ -36,7 +36,15 @@ Table of Contents
 * you can always also propose to teach a workshop by sending an email to ``carpadmin @ carpentry dot uio dot no``
 * To generate the workshop website at uio-carpentry.github.com:
   1) make sure you are a member of uio-carpentry, the [uio-carpentry github organisation](https://github.com/orgs/uio-carpentry/people). If you aren't, send an email to ``carpadmin @ carpentry.uio.no`` with your GitHub username to invite you.
-  2) create the webpage using the template from https://github.com/swcarpentry/workshop-template. NOTE: as the repository name, *use YYYY-MM-DD-uio* (using the correct date) and not python/R/oslo... or any other text, and *choose the organisation uio-carpentry as owner* for the workshop repository when you import the template. (If needed, ownership can be transferred later)
+  2) create the webpage using the template from https://github.com/swcarpentry/workshop-template. 
+    - NOTE: 
+    - use the followings for the repository name (and not python/R/oslo... or any other text): 
+     - For in-person workshop: *YYYY-MM-DD-uio* 
+     - For online workshop: *YYYY-MM-DD-uio-online* 
+     - When the workshop is to be run over several days, set *the start date* of the workshop for YYYY-MM-DD part. 
+    - and *choose the organisation uio-carpentry as owner* for the workshop repository when you import the template. (If needed, ownership can be transferred later)
+  3) plan time schedule well with breaks and exercise time, as trouble shootings may easily eat up time, and 
+  4) plan *the last 5 minutes* for closing remarks with the time to write feedback and the Carpentries post-workshop survey (link on the workshop website). 
 * Submit a self-organized workshop to Carpentry central from [this form](https://amy.carpentries.org/forms/self-organised/).     Note: If you're running a one-day workshop, choose *Short session (less than two days)*, and UiO workshops are usually public, so please choose *This event is open to the public*. You may add your co-instructors'/helpers' email addresses in the last field where you are asked about communication.
   The Regional Coordinator will then register instructor information at the Carpentry's sytem as well as make workshop information visible on Carpentry website. 
 * organise pre-workshop meeting with the other instructors and the helpers to go through lesson materials etc.
