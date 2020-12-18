@@ -1,5 +1,5 @@
 Software Carpentry at the University of Oslo in 2015 and 2016
-------------------------------------------------------------
+-------------------------------------------------------------
 
 [Software Carpentry](http://software-carpentry.org) is a volunteer organization whose goal is to make scientists more productive, and their work more reliable, by teaching them basic computing skills. Founded in 1998, it runs short, intensive workshops that cover program design, version control, testing, and task automation.
 
@@ -8,7 +8,7 @@ In 2015, the (then) only two certified Software Carpentry instructors, Karin Lag
 This document is a summary of our activities in 2015 and our thoughts of continuing the effort in 2016.
 
 
-##Activities in 2015
+## Activities in 2015
 
 * We have offered three workshops to UiO and OUS staff, in February, June and December
 * 101 PhDs, Postdocs, master students and other staff registered for these workshops
@@ -34,7 +34,7 @@ The interest for these workshops demonstrates that there is a clear need for the
 The help of the Science Library has been very important, they book rooms, arrange registration (both sign-up before the workshop, and at the beginning of the workshops) and generally make it very easy for the instructors to fully focus on the teaching itself.
 
 
-##Outlook for 2016
+## Outlook for 2016
 Given the interest in 2015, we foresee a significant growth and expansion of the Software Carpentry effort in 2016.
 
 
@@ -51,7 +51,7 @@ In 2016, we expect to:
 One of our goals is to convince the University of Oslo to become an Software Carpentry Foundation Affiliate. Such a status is a prerequisite for having prioritised access to instructor training (for which there is overwhelming interest). Affiliate status has relatively few requirements/costs for UiO, while there are several benefits. Details can be found at http://software-carpentry.org/scf/membership.html.
 
 
-###Some references
+### Some references
 
 Software Carpentry’s [FAQ](http://software-carpentry.org/faq.html)  
 Software Carpentry paper: ["Lessons Learned" 2015 edition](http://f1000research.com/articles/3-62/v2)  
