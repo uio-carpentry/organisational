@@ -59,6 +59,7 @@ All board members present (Lex, Naoe, Annika, Viviane, Anne, Tobias)
     - @Anne: There might be someone at USIT. But it might not be "allowed"
 - Annika: We are still very STEM heavy, missing out on two of the biggest faculties. We should contact them and get instructors with a humanities / social sciences background.
     - @Annika has some people in mind, will share names
+- AP: we will share information about who to nominate.
 
 ### Offering workshops for Humanities and Social Sciences
 
