@@ -1,3 +1,8 @@
+---
+title: "Report of the Instructor Status Survey 2019"
+date: "2019-11-07"
+---
+
 # Report of the Instructor Status Survey 2019
 
 **Author**: Annika Rockenberger

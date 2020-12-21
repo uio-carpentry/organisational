@@ -1,3 +1,8 @@
+---
+title: "Software Carpentry at the University of Oslo in 2015 and 2016"
+date: "2016-04-16"
+---
+
 Software Carpentry at the University of Oslo in 2015 and 2016
 -------------------------------------------------------------
 
