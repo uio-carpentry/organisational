@@ -103,6 +103,9 @@ Four new instructors (with a focus on R) could be recruited for UiO-Carpentry, a
 
 The Carpentries record shows that eight seats were used in the membership year of May 2019 to May 2020, which exceeds the reserved spots by 2. On the 8th Dec 2020, it is however shown that UiO has six seats remaining for the membership period of August 2020 to August 2021. Naoe made an inquiry regarding the number of seats reserved for UiO during the current membership period to the core team and is still waiting for confirmation.
 
+*Update on the 17th Dec.*
+It is confirmed that in the previous membership year UiO had 3 unused seats carried over from years before. 1 seat remained unused, but this is not to be carried over to this (2020 Aug - 2021 Aug) membership year. Thus, we have 6 seats for 2020 Aug - 2021 Aug. 
+
 Actively recruiting candidates from the UiO-Carpentry community for these spots had to be postponed to 2021. Several potential instructors declined the offer due to lack of time. More active recruitment has to be initiated in early 2021.
 
 ### Social Events
