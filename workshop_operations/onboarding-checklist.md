@@ -22,7 +22,7 @@
 ## Preparation
 ### **Is there any general guideline for the Carpentries workshop?**
 - [ ] Yes, please study or refresh your knowledge by [The Carpentries Handbook](https://docs.carpentries.org/index.html), especially with; 
-  - [ ] [the Carpentreis Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) 
+  - [ ] [the Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) 
   - [ ] [Instructor Checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
   - [ ] [Tips For Instructors](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)
 - [ ] Upon submission of [a self-organized workshop registration form](https://amy.carpentries.org/forms/self-organised/) , use the following information
