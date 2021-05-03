@@ -1,5 +1,11 @@
+---
+tags: minutes
+---
+
 # Minutes Carpentry@UiO Board Meeting, April 30 2021
-###### tags: minutes
+
+[![hackmd-github-sync-badge](https://hackmd.io/PejllnHWQPK6gF_rNVhYFw/badge)](https://hackmd.io/PejllnHWQPK6gF_rNVhYFw)
+
 
 ## Present
 
@@ -19,7 +25,7 @@
 
 ## Brief Intro to HackMD
 
-- Use for workshops that are not official Carpentries courses, where we can't use the CArpentries resources
+- Use for workshops that are not official Carpentries courses, where we can't use the Carpentries resources
 
 ## Workshops that have been going on 
 
