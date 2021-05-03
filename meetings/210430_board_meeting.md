@@ -46,6 +46,7 @@ tags: minutes
 - can we do something like that - make our own module?
 - one approach: be generous with instructor training spots, hope that some of them "stick around" to become carpentries instructors
 - keep the silver membership (current level) for now, and go for a higher tier next year when the situation is more stable?
+- **Action**: Naoe to make a written proposal to change the membership tier level to Platinum and circulate it with the board
 
 
 ## To be discussed with the library
@@ -57,12 +58,12 @@ tags: minutes
 ## use announcement email list for other (non-carpentry events)
 
 - ~800 people on list, many outsiders
-- quality of teaching not always up tjo Carpentry standards
+- quality of teaching not always up to Carpentry standards
 - GDPR consent not given for people on the list -- **solve!**
     - opt-out not an option
     - must be active opt-in ("Click this link to resubscribe")
     - send a link to re-signup 
-    - @Aino will figure it out 
+    - **Action**: @Aino will figure it out 
 
 
 ## Lisense of the logo?
