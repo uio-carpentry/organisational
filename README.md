@@ -18,7 +18,8 @@ Everything you need to know about how we run workshops
 
 ## Community Meetings
 
-* [Meetings Folder](https://github.com/uio-carpentry/organisational/tree/master/meetings)
+* Meeting minutes are in the [Meetings Folder](https://github.com/uio-carpentry/organisational/tree/master/meetings)
+* Collaborative editing of meeting minutes can be done on [HackMD](https://hackmd.io/team/uio-carpentry). For board meeting minutes, use the meeting minutes template (`New team note` > `new note from template` > `Board Meeting Minutes`)
 
 ## Reports
 
