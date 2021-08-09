@@ -9,7 +9,7 @@ tags: minutes
 
 ## Present
 
-- all board members
+- all board members, except Annika (on leave)
 - Aino
 
 
