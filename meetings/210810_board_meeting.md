@@ -4,11 +4,6 @@ tags: minutes
 
 # Meeting Minutes Carpentry@UiO Board, 2021-08-10 
 
-*[...Add Github Sync badge here...](https://hackmd.io/s/link-with-github#Add-GitHub-badge)*
-
-## Zoom Link
-(https://uio.zoom.us/j/65424921141?pwd=NFlFbEM3Y1gyQm4weTlVS1lyMkFmZz09)
-
 ## Board members present
 
 * all
@@ -89,7 +84,7 @@ tags: minutes
 
 - Not sure how pandemic restrictions will develop
 - End of August? 
-- Onboarding? --- ~~Wednesday, 2021-09-01, 11:00-12:00 via Zoom~~
+- Onboarding?
 
 ## Carentries Membership Renewal
 
@@ -98,8 +93,6 @@ tags: minutes
 
 ### Action points
 
-- ~~send invoice to Matthew~~
-    - ~~contact Naoe for help?~~
 - 2021/2022 membership (Silver) is paid for
 
 ## Status of the instructor training spots 
