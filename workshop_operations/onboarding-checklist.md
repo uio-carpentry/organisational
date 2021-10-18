@@ -70,12 +70,8 @@
 ## **In-person format**
 
 ### **Which room(s) will I be teaching in?**
-Due to the pandemic situation, Carpentry@UiO will not plan an in-person workshop until the UiO's regulation allows it and can reserve a room with sufficient capacity.
-<!-- Update this list for each new onboarding session
-In Autumn semester 2020, we can use only a lecture room 209 in Niels Henrik Abels hus.
-Due to the minimal capacity and availability of any lecture/seminar rooms in general, we cannot use any other room.
-Please make sure that you and the learners wipe facilities and areas they used with surface disinfectant wipes available right outside of the room.
--->
+
+We will help you finding a suitable room. Contact us via carpadmin @ carpentry.uio.no
 <!--
 - [ ] Seminar room 123 in Vilhelm Bjerknes' hus (the Science Library, ground floor)
 - [ ] Teaching room 209 in the Science Library - Science Fiction Section
@@ -123,6 +119,7 @@ Please make sure that you and the learners wipe facilities and areas they used w
 - [ ] Your contacts at the library are ___________________ and can be reached under _____________________
 - [ ] Lost and Found: Contact the library staff at Realfagsbiblioteket / The Science Library personally at the information desk on the 1st floor
 
+<!-- 
 ---
 ## **Online format**
 When a Carpentry workshop is held online, there are different things to consider than the in-person format. Please check and study the following steps.
@@ -160,7 +157,7 @@ When a Carpentry workshop is held online, there are different things to consider
 - Workshop participants can ask for a Certificate of Attendance after the workshop:
 - [ ] For non-standard workshops (e.g. when you only cover a part of core lessons), we generate a certificate automatically – ask your local coordinator about it
 - [ ] For standard workshops (i.e., a 2-day full program covering all [core lessons](https://carpentries.org/workshops/#workshop-core)), learners can obtain a certificate by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/certificates.html)
-
+-->
 
 ### **What do I have to do before, during, and after a workshop?**
 
