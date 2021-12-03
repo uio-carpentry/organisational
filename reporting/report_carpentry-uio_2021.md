@@ -38,6 +38,7 @@
 |2021-11-03|GitHub|on-site|12|15|4|
 |2021-05-25|R Tidyverse|online|21|56|NA|
 |2021-03-02|Python|online|52|124|NA|
+
 *including all registered attendees, all on waiting list and all de-registered
 
 ## Workshop evaluation
