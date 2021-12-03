@@ -90,11 +90,11 @@ The community was lucky and recruited a couple of new helpers during 2021
 
 The Board had five meetings during 2021. Read the minutes for each meeting here:
 
-- [2021-02-09 Board Meeting](/meetings/210209_board_meeting.md)
-- [2021-04-30 Board Meeting](/meetings/210430_board_meeting.md)
-- [2021-06-11 Board Meeting](/meetings/210611_board_meeting.md)
-- [2021-08-10 Board Meeting](/meetings/210810_board_meeting.md)
-- [2021-11-04 Board Meeting](/meetings/211104_board_meeting.md)
+- [2021-02-09 Board Meeting](organisational/meetings/210209_board_meeting.md)
+- [2021-04-30 Board Meeting](organisational/meetings/210430_board_meeting.md)
+- [2021-06-11 Board Meeting](organisational/meetings/210611_board_meeting.md)
+- [2021-08-10 Board Meeting](organisational/meetings/210810_board_meeting.md)
+- [2021-11-04 Board Meeting](organisational/meetings/211104_board_meeting.md)
 
 ## Website
 
