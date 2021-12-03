@@ -20,8 +20,12 @@
 
 #### In numbers
 
+##### Workshop modes
+
 * Three online workshops
 * Four on-site workshops
+
+##### Workshop types
 
 * One 2-day DC workshop
 * Three 1-day Carpentry workshops (Python, SQL)
@@ -51,10 +55,14 @@ In the meantime, "sticky-note feedback" is occasionally collected at on-site wor
 
 General themes of all modes of feedback that we received during and after workshops are:
 
+### Requests
+
 * learners request (more) advanced workshops for the same tools, especially R and Python
 * learners request more frequent workshops
 * learners request workshop for other tools, like Matlab, SPSS, etc.
 * learners request either online - or on-site workshops
+
+### Appreciation
 
 * learners appreciate the availability of helpers
 * learners like the "atmosphere" of Carpentries workshops
@@ -62,15 +70,15 @@ General themes of all modes of feedback that we received during and after worksh
 
 ## Social events
 
-An online onboarding session (September)
-Carpentry@UiO community fika (October)
-Carpentry@UiO yule brunch (December)
+* An online onboarding session (September)
+* Carpentry@UiO community fika (October)
+* Carpentry@UiO yule brunch (December)
 
 ## New instructors
 
 ### Period Aug 2020 - Aug 2021
 
-Six spots were available with the Aug 2020 - Aug 2021 membership.
+Six spots were available with the Aug 2020 - Aug 2021 membership.  
 
 - three checked out in 2021 (HK, moved on to BI; EM, at Norsar; SI, moved on to NGI)
 - one postponed checkout to early 2022 (BL, at UiO)
@@ -78,7 +86,7 @@ Six spots were available with the Aug 2020 - Aug 2021 membership.
 
 ### Period Aug 2021 - Aug 2022
 
-Six spots were available with the Aug 2020 - Aug 2021 membership.
+Six spots were available with the Aug 2020 - Aug 2021 membership.  
 
 - two were sent to promising candidates
 - four not assigned
@@ -90,7 +98,7 @@ The community was lucky and recruited a couple of new helpers during 2021
 
 ## Board
 
-The Board had five meetings during 2021. Read the minutes for each meeting here:
+The Board had five meetings during 2021. Read the minutes for each meeting here:  
 
 - [2021-02-09 Board Meeting](210209_board_meeting.md)
 - [2021-04-30 Board Meeting](210430_board_meeting.md)
@@ -104,7 +112,7 @@ The Carpentry@UiO website hosted on GitHub underwent a re-design process led by 
 
 In addition, the Carpentry@UiO information pages hosted at the University of Oslo library have been restructured and underwent a general and customized re-design process. Community member and former board member Naoe Tatara has led the customized re-design process and the restructuring. The main website with information about Carpentry@UiO at the University of Oslo library can be accessed here: https://www.ub.uio.no/english/writing-publishing/dsc/carpentry-uio/. The library publishes all workshops and free-standing Carpentries modules in the Digital Scholarship Center's course catalogue for Carpentries workshops: https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/.
 
-Information about Carpentry@UiO activities and community is now concentrated on two sites of one is maintained by the community (GitHub) and the other maintained by the University of Oslo Library (DSC)
+Information about Carpentry@UiO activities and community is now concentrated on two sites, where one is maintained by the community (GitHub) and the other maintained by the University of Oslo Library (DSC)
 
 ## Outreach
 
