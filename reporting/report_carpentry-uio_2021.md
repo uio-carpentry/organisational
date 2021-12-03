@@ -30,7 +30,7 @@
 
 ## Workshop participation
 
-|Date|Topic|Venue|Registered_Attendees|Total_Registered|Show-Up|
+|Date|Topic|Venue|Registered_Attendees|Total_Registered*|Show-Up|
 |---|---|---|---|---|---|
 |2021-12-07|SQL|on-site|17|18|NA|
 |2021-11-30|Python|on-site|30|73|20|
@@ -38,6 +38,7 @@
 |2021-11-03|GitHub|on-site|12|15|4|
 |2021-05-25|R Tidyverse|online|21|56|NA|
 |2021-03-02|Python|online|52|124|NA|
+*including all registered attendees, all on waiting list and all de-registered
 
 ## Workshop evaluation
 
