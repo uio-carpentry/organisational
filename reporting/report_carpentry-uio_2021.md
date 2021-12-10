@@ -66,7 +66,7 @@ General themes of all modes of feedback that we received during and after worksh
 
 * learners appreciate the availability of helpers
 * learners like the "atmosphere" of Carpentries workshops
-* learners appreciate the slow pace and the focus on live participatory coding
+* learners appreciate the slow pace and the focus on participatory live coding
 
 ## Social events
 
@@ -80,7 +80,7 @@ General themes of all modes of feedback that we received during and after worksh
 
 Six spots were available with the Aug 2020 - Aug 2021 membership.  
 
-- three checked out in 2021 (HK, moved on to BI; EM, at Norsar; SI, moved on to NGI)
+- three successfully completed the instructor training checkout procedure in 2021 (HK, moved on to BI; EM, at Norsar; SI, moved on to NGI)
 - one postponed checkout to early 2022 (BL, at UiO)
 - two seats were not taken
 
