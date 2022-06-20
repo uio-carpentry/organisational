@@ -63,6 +63,7 @@ This document serves as a catch-it-all for information, workflows, and routines 
   - [ ] After the Transition meeting: outgoing members should be **removed** from
     - [ ] the mailing list via https://sympa.uio.no/carpentry.uio.no/review/board
     - [ ] Carpentry@UiO Google Drive https://drive.google.com/drive/folders/0AMKKBGhbPkcuUk9PVA
+    - [ ] The new secretary should have 'Admin' membership of the website repo (https://github.com/uio-carpentry/uio-carpentry.github.io); this is done through https://github.com/uio-carpentry/uio-carpentry.github.io/settings/access. The former secretary should have their 'Admin' rights removed
 - Transition meeting
   - [ ] set up a board meeting with outgoing, continuing, and incoming members
   - Goals for this meeting
