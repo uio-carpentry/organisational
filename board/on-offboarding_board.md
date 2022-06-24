@@ -57,13 +57,14 @@ This document serves as a catch-it-all for information, workflows, and routines 
   - [ ] GitHub account username
   - [ ] The affiliation we can write on the website at https://uio-carpentry.github.io/about/members/
 - Access/membership
-  - [ ] Before the Transition meeting: incoming members should be **added** to
+  - Before the Transition meeting: incoming members should be **added** to
     - [ ] the mailing list via https://sympa.uio.no/carpentry.uio.no/review/board
     - [ ] Carpentry@UiO Google Drive https://drive.google.com/drive/folders/0AMKKBGhbPkcuUk9PVA
-  - [ ] After the Transition meeting: outgoing members should be **removed** from
-    - [ ] the mailing list via https://sympa.uio.no/carpentry.uio.no/review/board
-    - [ ] Carpentry@UiO Google Drive https://drive.google.com/drive/folders/0AMKKBGhbPkcuUk9PVA
-    - [ ] The new secretary should have 'Admin' membership of the website repo (https://github.com/uio-carpentry/uio-carpentry.github.io); this is done through https://github.com/uio-carpentry/uio-carpentry.github.io/settings/access. The former secretary should have their 'Admin' rights removed
+    - [ ] as 'Owners' to the Carpentry@UiO GitHub organisation via https://github.com/orgs/uio-carpentry/people
+  - After the Transition meeting: outgoing members should be **removed** from
+      - [ ] the mailing list via https://sympa.uio.no/carpentry.uio.no/review/board
+      - [ ] Carpentry@UiO Google Drive https://drive.google.com/drive/folders/0AMKKBGhbPkcuUk9PVA
+      - [ ] as 'Owners' to the Carpentry@UiO GitHub organisation via https://github.com/orgs/uio-carpentry/people - they can remain 'Members'
 - Transition meeting
   - [ ] set up a board meeting with outgoing, continuing, and incoming members
   - Goals for this meeting
