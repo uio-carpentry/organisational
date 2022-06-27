@@ -1,6 +1,9 @@
 Carpentry@UiO: Board meeting June 2022
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/M4fcKgUMQUOfFcwCBEPcGw/badge)](https://hackmd.io/M4fcKgUMQUOfFcwCBEPcGw)
+
 ###### tags: `minutes`   `Meeting`
 
 :::info
