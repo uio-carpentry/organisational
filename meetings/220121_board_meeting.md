@@ -1,6 +1,9 @@
 Carpentry@UiO Meeting Minutes January 2022 Board Meeting 
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/k3qaFCiTRxG79B-p-KtnpA/badge)](https://hackmd.io/k3qaFCiTRxG79B-p-KtnpA)
+
 ###### tags: `minutes` `Meeting`
 
 :::info
