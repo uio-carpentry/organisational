@@ -1,6 +1,9 @@
 Carpentry@UiO Board meeting 2 March 2022
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/mY0f9r5STPaSwh626LfaEQ/badge)](https://hackmd.io/mY0f9r5STPaSwh626LfaEQ)
+
 ###### tags `minutes` `Meeting` 
 
 
