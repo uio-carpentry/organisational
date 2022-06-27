@@ -1,6 +1,9 @@
 Carpentry@UiO /TASK: March 2022, minutes course coordination meeting 
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/SJu-pppqQbSU2LYPMLeo3g/badge)](https://hackmd.io/SJu-pppqQbSU2LYPMLeo3g)
+
 ###### tags: `minutes` `Meeting`
 
 :::info
