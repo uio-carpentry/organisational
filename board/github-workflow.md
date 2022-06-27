@@ -1,5 +1,14 @@
 # Workflow for Carpentry@UiO Board Maintained GitHub Repositories [organisational](https://github.com/uio-carpentry/organisational), [board](https://github.com/uio-carpentry/organisational/board), [governance](https://github.com/uio-carpentry/governance)
 
+
+## Meeting minutes
+
+1. Agree who will be taking notes during the meeting
+2. Best practice: Write the minutes in the Carpentry@UiO HackMD team space (e.g. copying [this template](https://hackmd.io/G0oWROxTRtqkwiMcDJ63Nw)), observing [the meeting minutes guidelines](https://github.com/uio-carpentry/organisational/tree/master/meetings#readme)
+4. Give the meeting members sufficient time to review the minutes
+5. Push the minutes to the uio-carpentry/organisational repo (procedure described [here](https://hackmd.io/c/tutorials/%2Fs%2Flink-with-github)), with file name ``meetings/YYMMDD_whosmeeting.md`` -> **Secretary** task for board meetings
+6. [Add a GitHub badge to the notes in HackMD](https://hackmd.io/c/tutorials/%2Fs%2Flink-with-github#Add-GitHub-badge) to link the documents, and push the update.
+
 ## Issues
 
 - Carpentry@UiO has three repositories dedicated to organisation and coordination of the local community, the work of the Board, and the governance documents
