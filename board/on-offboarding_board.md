@@ -54,17 +54,20 @@ This document serves as a catch-it-all for information, workflows, and routines 
 - Data collection from incoming members
   - [ ] preferred email address
   - [ ] UiO username or other username to use for Carpentry@UiO Google Drive
-  - [ ] GitHub account username
+  - [ ] GitHub account username for GitHub and HackMD
   - [ ] The affiliation we can write on the website at https://uio-carpentry.github.io/about/members/
 - Access/membership
-  - Before the Transition meeting: incoming members should be **added** to
+  - Before the Transition meeting: **incoming** members should be **added** to
     - [ ] the mailing list via https://sympa.uio.no/carpentry.uio.no/review/board
     - [ ] Carpentry@UiO Google Drive https://drive.google.com/drive/folders/0AMKKBGhbPkcuUk9PVA
     - [ ] as 'Owners' to the Carpentry@UiO GitHub organisation via https://github.com/orgs/uio-carpentry/people
-  - After the Transition meeting: outgoing members should be **removed** from
+    - [ ] as members to the Carpentry@UiO HackMD team via https://hackmd.io/team/uio-carpentry/manage#members (using their github user)
+  - After the Transition meeting: **outgoing** members should be **removed** from
       - [ ] the mailing list via https://sympa.uio.no/carpentry.uio.no/review/board
       - [ ] Carpentry@UiO Google Drive https://drive.google.com/drive/folders/0AMKKBGhbPkcuUk9PVA
       - [ ] as 'Owners' to the Carpentry@UiO GitHub organisation via https://github.com/orgs/uio-carpentry/people - they can remain 'Members'
+      - [ ] as members of the Carpentry@UiO HackMD team via https://hackmd.io/team/uio-carpentry/manage#members - they can remain 'Readers'
+
 - Transition meeting
   - [ ] set up a board meeting with outgoing, continuing, and incoming members
   - Goals for this meeting
