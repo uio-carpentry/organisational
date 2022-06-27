@@ -9,6 +9,7 @@ This document serves as a catch-it-all for information, workflows, and routines 
     and [Charter](https://uio-carpentry.github.io/about/charter/)
   * [Board meeting minutes](https://github.com/uio-carpentry/organisational/tree/master/meetings)
   * [Annual and other reports](https://uio-carpentry.github.io/about/reports/)
+  * [How-to for routine tasks](https://github.com/uio-carpentry/organisational/blob/master/board/github-workflow.md)
 * Other resources
   * [A friendly introduction to using GitHub](https://rainsworth.github.io/intro-to-github/)
 
@@ -73,7 +74,8 @@ This document serves as a catch-it-all for information, workflows, and routines 
   - Goals for this meeting
     - Make sure the new members feel welcome and included as part of the board
     - Help new people be able to contribute to the work as quickly as possible.
-    - determine officers (Chair, Vice Chair, Secretary, Communications)
+    - determine officers (Chair, Vice Chair, Secretary, Communications/Outreach, Representatives of the Library)
   - Topics
     - Explain how we work: how meetings are run, how decisions are made, where documentation is kept
+    - How-to: Refer to the [how-to document](https://github.com/uio-carpentry/organisational/blob/master/board/github-workflow.md) for GitHub/board routine tasks and the [manual for UB staff](https://docs.google.com/document/d/1IIOQsJldauyPfXKCZHDOw-he7ituIPK8gVhYvzxy1CI/edit?usp=sharing)
 - [ ] Update the list of board members at https://uio-carpentry.github.io/about/members/
