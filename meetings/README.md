@@ -8,6 +8,8 @@ When writing minutes, make sure to name the file ``YYMMDD_whosmeeting.md``
 
 Minutes should not contain unnecessary personal information. Make sure you have the consent of those named in the document.
 
+Minutes can be linked from the HackMD notes.
+
 ## To-Do
 
 * Create subfolders for the different groups, like General Meetings, Library Carpentry group meetings, StudyGroup meetings, Board meetings.
