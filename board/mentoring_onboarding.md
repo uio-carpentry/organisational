@@ -73,3 +73,9 @@ They do not have to be completed in a specific order, though.
 - becoming an instructor is also great fun, a chance to grow personally and professionally, to meet new people and join an active community of like-minded people all across the globe
 - encourage trainees to come to social gatherings, to help and co-teach at workshops, have a coffee with them on campus, write an email asking how they are doing and say hi if they are in the same building as you are, when you meet them on the t-bane or in other contexts!
 - and last but not least: mentoring is fun, too! Share your joy of teaching and being a part of this community! It's you who makes this a great place to be :)
+
+## Community support for new instructors
+
+- The board aims to offer monthly follow-up meetings for newly trained instructors during their checkout process. 
+- The goal of these meetings is to support the instructors-in-training with their checkout task, provide a welcoming environment with the possibility to get to know other fresh instructors, and to integrate the new instructors into the community.
+- Newly trained instructors can be added as community members to the [Carpentry@UiO webpage](https://www.ub.uio.no/english/libraries/dsc/carpentry-uio/)
