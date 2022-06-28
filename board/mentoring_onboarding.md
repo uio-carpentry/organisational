@@ -78,4 +78,4 @@ They do not have to be completed in a specific order, though.
 
 - The board aims to offer monthly follow-up meetings for newly trained instructors during their checkout process. 
 - The goal of these meetings is to support the instructors-in-training with their checkout task, provide a welcoming environment with the possibility to get to know other fresh instructors, and to integrate the new instructors into the community.
-- Newly trained instructors can be added as community members to the [Carpentry@UiO webpage](https://www.ub.uio.no/english/libraries/dsc/carpentry-uio/)
+- Newly trained instructors can be added as community members to the [Carpentry@UiO webpage](https://www.ub.uio.no/english/libraries/dsc/carpentry-uio/) as well as to our own [Members page](https://uio-carpentry.github.io/about/members/)
