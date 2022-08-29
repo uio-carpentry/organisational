@@ -27,7 +27,7 @@
   - [ ] [Tips For Instructors](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)
 - [ ] Upon submission of [a self-organized workshop registration form](https://amy.carpentries.org/forms/self-organised/) , use the following information
   - [ ] Institutional affiliation: choose "University of Oslo"
-  - [ ] Unless the workshop covers the whole core curriculum of each Carpentry, choose "Mix & Match" at "Which Carpentries workshop are you teaching?"
+  - [ ] Unless the workshop covers the whole core curriculum, choose "Mix & Match" at "Which Carpentries workshop are you teaching?"
   - [ ] Provide contact-us @ carpentry dot uio dot no at "Is there anyone you would like included in communication for this workshop? Please provide email addresses."
   - [ ] You will receive a link to the results of the pre-workshop survey from team @ carpentry dot org.  
 
@@ -41,27 +41,26 @@
 
 ### **What do I need to communicate with the local coordinator(s)?**
 - [ ] If the local coordinator has not been involved in the planning so far, please contact carpadmin @ carpentry dot uio dot no about your plan for the workshop. Include information about:
-  - [ ] who are going to be the instructors,
+  - [ ] who are the instructors,
   - [ ] if you have already recruited helpers,
   - [ ] if the format is **online** (+ needs for Zoom meeting set-up) or **in-person** (+ where),
   - [ ] and preferred date(s) and time, etc.
-- the Local coordinator(s) takes care of the following, so please communicate well regarding the contents in each:
-  1. Setting up a workshop website repository in the uio-carpentry GitHub account
-     - [ ] Create a GitHub profile for yourself
+- the local coordinator(s) take(s) care of the following:
+  1. Setting up a workshop website repository in the uio-carpentry GitHub account (you must make a GitHub profile for yourself first!)
      - [ ] Ask carpadmin @ carpentry dot uio dot no to invite you as a member of uio-carpentry https://github.com/uio-carpentry
      - [ ] Edit the necessary parts by following the README.md "Customizing Your Website", and the website will be created automatically
-     - [ ] When the contents are in place, send a notification to carpadmin @ carpentry dot uio dot no – the coordinators will link the workshop website to an event page on the UiO Library's course catalogue, publish and disseminate the event   
-  2. Creating an event page that appears under "upcoming workshops" of [UiO Library's freestanding course catalogue in English](https://www.ub.uio.no/english/courses-events/courses/other/)
-     - [ ] Let the local coordinator(s) know;
-       - [ ] who the workshop is for and not for
-       - [ ] If any installation/set-up help (date &)time is allocated
+     - [ ] When the contents are in place, send a notification to carpadmin @ carpentry dot uio dot no – the coordinators will link the workshop website to an event page on the UiO Library's course catalogue, publish, and disseminate the event   
+  2. Creating an event page that appears under "upcoming workshops" of [UiO Library's freestanding course catalogue in English](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/)
+     - [ ] Let the local coordinator(s) know:
+       - [ ] who the workshop is and is not for
+       - [ ] If any installation/set-up help, (date &)time is allocated
   3. Preparing a sign-up form linked from the event page shown on the event page on UiO Library's website.
-     - [ ] Let the local coordinator(s) know;
+     - [ ] Let the local coordinator(s) know:
        - [ ] capacity (especially when online)
-       - [ ] any information necessary to collect to run the workshop smoothly (e.g. OS for grouping into breakout rooms)
+       - [ ] any information necessary to collect for running the workshop smoothly (e.g. OS for grouping into breakout rooms)
   4. Sending an announcement email of the workshop
   5. Communicating with registrants and participants
-       - [ ] Let the local coordinator(s) know;
+       - [ ] Let the local coordinator(s) know:
          - [ ] (if online) access information to the workshop
          - [ ] (if any) information you want the participants to know beforehand   
 
@@ -95,22 +94,24 @@ We will help you find a suitable room. Contact us via carpadmin @ carpentry.uio.
 
 ### **What do I have to do before, during, and after a workshop?**
 #### Before:
-- [ ] check the results of the pre-workshop survey to understand your learners
-- [ ] if you can, try out the projector, check the network, etc. to ensure technical parts work as planned (if not, or if any equipment is needed, contact the local coordinator)
-- [ ] check whether you have or need an adapter to connect your laptop to the monitor in the workshop room
+- [ ] Check the results of the pre-workshop survey to understand your learners
+- [ ] If you can, try out the projector, check the network, etc. to ensure technical parts work as planned (if not, or if any equipment is needed, contact the local coordinator)
+- [ ] Check whether you have or need an adapter to connect your laptop to the monitor in the workshop room
+
 #### During:
-  - [ ] Explain the Code of Conduct at the beginning of the workshop
-  - [ ] Do a short security briefing at the beginning of the workshop
-  - [ ] Take attendance using the workshop attendance checklist provided by the local coordinator
-  - [ ] Ask the participants to answer the post-workshop survey linked from the workshop website at the end of the workshop
-  - [ ] Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed, and lights are off
+- [ ] Explain the Code of Conduct at the beginning of the workshop
+- [ ] Do a short security briefing at the beginning of the workshop
+- [ ] Take attendance using the workshop attendance checklist provided by the local coordinator
+- [ ] Ask the participants to answer the post-workshop survey linked from the workshop website at the end of the workshop
+- [ ] Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed, and lights are off
+
 #### After:
 - [ ] Collect the sticky-note feedback after the workshop
-- [ ] Right after the workshop, do brief feedback round with your co-instructors and helpers
+- [ ] Right after the workshop, do a feedback round with your co-instructors and helpers
 - [ ] A few days after the workshop, one of the co-instructors writes up a summary of the feedback and general impressions from the workshop and sends these to the co-instructors and helpers
-- Workshop participants can ask for a Certificate of Attendance after the workshop:
-- [ ] For non-standard workshops (e.g. when you cover only a part of the core lessons), we create a certificate automatically – ask your local coordinator about it
-- [ ] For standard workshops (i.e., a 2-day full program covering all [core lessons](https://carpentries.org/workshops/#workshop-core)), learners can obtain a certificate by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/certificates.html)
+- [ ] Workshop participants can ask for a Certificate of Attendance after the workshop:
+  - [ ] For non-standard workshops (e.g. when you cover only a part of the core lessons), we create a certificate automatically – ask your local coordinator about it
+  - [ ] For standard workshops (i.e., a 2-day full program covering all [core lessons](https://carpentries.org/workshops/#workshop-core)), learners can obtain a certificate by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/certificates.html)
 
 ### **Who do I contact in case something happens?**
 - [ ] In case of fire call **110**
@@ -197,5 +198,5 @@ When a Carpentry workshop is held online, there are different things to consider
 
 ### **Where do I get help with developing and discussing my teaching with others?**
 - [ ] The Carpentries Handbook https://docs.carpentries.org/index.html
-- [ ] Carpentry@UiO StudyGroup
+<!-- - [ ] Carpentry@UiO StudyGroup -->
 ---
