@@ -29,7 +29,7 @@
   - [ ] Institutional affiliation: choose "University of Oslo"
   - [ ] Unless the workshop covers the whole core curriculum of each Carpentry, choose "Mix & Match" at "Which Carpentries workshop are you teaching?"
   - [ ] Provide contact-us @ carpentry dot uio dot no at "Is there anyone you would like included in communication for this workshop? Please provide email addresses."
-  - [ ] You will receive a link to the results of the pre-workshop survey from team @ carpentry dot org. **If not, please remind the regional coordinator at admin-nordic @ carpentries dot org**  
+  - [ ] You will receive a link to the results of the pre-workshop survey from team @ carpentry dot org.  
 
 ### **What do I have to do and decide with co-instructors?**
 - [ ] Which episodes and exercises (minimum and extra) to cover (also share this info with helpers)
