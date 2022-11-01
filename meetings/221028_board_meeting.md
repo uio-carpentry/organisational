@@ -30,21 +30,21 @@ Board member feedback on the Strategic Plan:
 * It would be interesting to see how instructors respond to this, should try to send out the same questionnaire to the organizers@carpentry.uio.no mailing list, to emphasize the need for their response. 
 
 **_ACTION ITEMS_**
-* *SOFIE:* Collect past workshop evaluations and summarize major points prior to the meeting dedicated to creating the Strategic Plan.
-* *LEX:* Send SWOT questionnaire to instructors via organizers@carpentry.uio.no. 
-* *DESIREE:* Set up Strategy meeting as well as goals for the meeting. 
-* *EVERYONE:* Strategy planning meeting scheduled; write up a short list of things you are thinking about/ questions you want everyone to think about; where do we see Carpentry in 3-5 years? 
+* SOFIE: Collect past workshop evaluations and summarize major points prior to the meeting dedicated to creating the Strategic Plan.
+* LEX: Send SWOT questionnaire to instructors via organizers@carpentry.uio.no. 
+* DESIREE: Set up Strategy meeting as well as goals for the meeting. 
+* EVERYONE: Strategy planning meeting scheduled; write up a short list of things you are thinking about/ questions you want everyone to think about; where do we see Carpentry in 3-5 years? 
 
 #### _Item 2: Instructor training seats_
 
 People we know of who want to take instructor training:
-* *Gisela Attinger*, and *Federico Aurora* work at UB library, Annika can vouch for them. They can fill the gaps in SQL and Unix Shell. 
-* *Frederico Bianchini*, Dept. of Bio Sciences, he has already been teaching and is very eager and engaged, Lex can vouch for him. 
-* *Nazeefa Fatima*, has done a training with NEIC, but unsure regarding their availability as well as eagerness. 
-* *Sofie* is eager to teach and signed up for training in December, can instruct in R. 
-* *Luis Cadahia-Lorenzo*, no capacity currently. 
-* *Nina Evensen*, no capacity currently. 
-* *Bret Lambert*, not engaged enough. 
+* Gisela Attinger, and *Federico Aurora* work at UB library, Annika can vouch for them. They can fill the gaps in SQL and Unix Shell. 
+* Frederico Bianchini, Dept. of Bio Sciences, he has already been teaching and is very eager and engaged, Lex can vouch for him. 
+* Nazeefa Fatima, has done a training with NEIC, but unsure regarding their availability as well as eagerness. 
+* Sofie is eager to teach and signed up for training in December, can instruct in R. 
+* Luis Cadahia-Lorenzo, no capacity currently. 
+* Nina Evensen, no capacity currently. 
+* Bret Lambert, not engaged enough. 
 
 Other candidates, Annika recalls that one was eager to instruct while other only wanted to help: 
 * Ada Koleini, very eager and responsible, Mohamed will get in contact. 
@@ -53,9 +53,9 @@ Other candidates, Annika recalls that one was eager to instruct while other only
 
 
 **_ACTION ITEMS_**
-* *SOFIE:* Take instructor training (signed up for late December) 
-* *ANNE:* Lead follow-up meetings for new instructors. 
-* *ANNIKA:* Send invite to potential instructors to sign up for training. 
+* SOFIE: Take instructor training (signed up for late December) 
+* ANNE: Lead follow-up meetings for new instructors. 
+* ANNIKA: Send invite to potential instructors to sign up for training. 
 
 #### _Item 3: Workshops 2022/2023_
 
@@ -74,8 +74,8 @@ Problem: Need better organization of action points.
 The Board Chair (Lex) meet with Annika, Sofie and maybe Matthew in between Board Meetings to keep up to date on many of the issues/ action points taken up during meetings. 
 
 **_ACTION ITEMS_**
-* *ANNIKA AND SOFIE:* Take this over 
-* *ANNIKA, SOFIE, (MATTHEW?) LEX:* 
+* ANNIKA AND SOFIE: Take this over 
+* ANNIKA, SOFIE, (MATTHEW?) LEX: The Board Chair (Lex) meet with Annika, Sofie and maybe Matthew in between Board Meetings to keep up to date on many of the issues/ action points taken up during meetings.
 
 #### _Item 5: Carpentry QA_
 
@@ -86,9 +86,9 @@ Problem: How do we promote Carpentries more?
 * Idea suggested: Create a “I want to get involved” button/ QR Code that leads to a simple nettskjema with options: 1) Stay informed, 2) Become a helper/ instructor 
 
 **_ACTION ITEMS_**
-* *ANNIKA AND SOFIE:* Create the “I want to get involved” button/ QR Code. 
-* *SOFIE:* Create a flyer that can be given out at events. 
-* *EVERYONE:* Presentation or stand for DS Days. 
+* ANNIKA AND SOFIE: Create the “I want to get involved” button/ QR Code. 
+* SOFIE: Create a flyer that can be given out at events. 
+* EVERYONE: Presentation or stand for DS Days. 
  
 #### _Item 6: End of the year social event_
 
