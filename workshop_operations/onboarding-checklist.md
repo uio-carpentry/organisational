@@ -1,210 +1,132 @@
 ![](https://github.com/uio-carpentry/organisational/blob/master/uio-carpentry-logofiler/uio-carpentry-logo.jpg)
 
-# Onboarding Checklist
+# Onboarding Document 
 
-## How do I start teaching a Carpentries workshop at UiO?
+## Contents of document: 
+1. Become a Carpentries certified instructor/ helper 
+2. Plan a workshop
+3. Teach a workshop
+4. Overview of instructor responsibilities
+5. Overview of co-instructor/ helper responsibilities 
+6. Overview of administrator responsibilities
 
-### **I want to teach a workshop!**
+* * * 
+### 1.	Become a Carpentries certified instructor / helper 
 
-- Several times per semester, we will send out a call for co-instructors to organizers @ carpentry dot uio dot no mailing list. Reply to the call if you are interested!
-- You can also contact the local or the regional coordinator and propose a workshop by sending an email to carpadmin @ carpentry dot uio dot no
-- We try to have at least one certified The Carpentries co-instructor. Not yet certified? Contact us by email at carpadmin @ carpentry dot uio dot no
+#### Certification	
 
-### **What lessons can I teach?**
+- **Instructor certification:** Contact us at [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) and familiarize yourself with[the Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
+- **Helper certification:** Contact us at [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) and familiarize yourself with[the Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+- **Create a GitHub profile** and ask [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) to invite you as a member of [UiO-Carpentry](https://github.com/uio-carpentry)
+	
 
-- You can teach any of the core lessons from [Software](http://software-carpentry.org/lessons/), [Data](http://datacarpentry.org/lessons/), or [Library Carpentry](https://librarycarpentry.org/lessons/)!
-- You can also teach any of the additional lessons from the Carpentries curriculum.
-- You have developed lesson material and want to teach your workshops? Ask us by email to digitalscholarship at ub dot uio dot no
+* * * 
+### 2. Plan a workshop (to be complete in order from 1-7)
 
-### **I am looking for co-instructors and helpers!**
+**1. Choose a lesson**
+* You can teach any of the lessons from the Carpentries curriculum, including the core lessons from [Software](http://software-carpentry.org/lessons/), [Data](http://datacarpentry.org/lessons/), and/or [Library Carpentry](https://librarycarpentry.org/lessons/). Alternatively, if you have developed lesson material you can contact [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no).  
 
-- Ask the community by sending an email to organizers @ carpentry dot uio dot no
-- Tip: ask for new helpers via announcements @ carpentry dot uio dot no
+**2. Answer the call/ reach out** 
+* Several times per semester, we send out calls to [organizers@carpentry.uio.no](mailto:organizers@carpentry.uio.no) mailing list, reply to the call if you are interested. 
+* You can also contact the local or the regional coordinator and propose a workshop by sending an email to [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no).
 
-## Preparation
-### **Is there any general guideline for the Carpentries workshop?**
+**3. Find co-instructors and helpers**
+* Ask the community via [organizers@carpentry.uio.no](mailto:organizers@carpentry.uio.no), or attend our bi-annual event where
+* Tip: ask for new helpers via [announcements@carpentry.uio.no](mailto:announcements@carpentry.uio.no).
 
-- [ ] Yes, please study or refresh your knowledge by [The Carpentries Handbook](https://docs.carpentries.org/index.html), especially with;
-  - [ ] [the Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
-  - [ ] [Instructor Checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
-  - [ ] [Tips For Instructors](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)
-- [ ] Upon submission of [a self-organized workshop registration form](https://amy.carpentries.org/forms/self-organised/) , use the following information
-  - [ ] Institutional affiliation: choose "University of Oslo"
-  - [ ] Unless the workshop covers the whole core curriculum, choose "Mix & Match" at "Which Carpentries workshop are you teaching?"
-  - [ ] Provide contact-us @ carpentry dot uio dot no at "Is there anyone you would like included in communication for this workshop? Please provide email addresses."
-  - [ ] You will receive a link to the results of the pre-workshop survey from team @ carpentry dot org.  
+**4. Familiarize yourself with the General guidelines**
+ * The [Carpentries Handbook](https://docs.carpentries.org/index.html)
+ * The [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+ * [Instructor Checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
+ * [Tips For Instructors](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)
 
-### **What do I have to do and decide with co-instructors?**
+**5. Plan out the following with the help of your co-instructor(s):**
+* Decide which episodes and exercises (minimum and extra) to cover. 
+* Decide who teaches which episodes and exercises. 
+* Create a timeline for the day, be sure to allot time for set-up, introduction (inc. explanation of Code of Conduct), breaks, closing remarks and the post-workshop survey/ feedback. 
+* Preferred date(s) 
 
-- [ ] Which episodes and exercises (minimum and extra) to cover (also share this info with helpers)
-- [ ] Who teaches which episodes
-- [ ] Time allocation, including intro (inc. explanation of Code of Conduct, and other important info depending on the format (in-person/online)), breaks, and *the last 5 minutes* for closing remarks with the time to write feedback and the Carpentries post-workshop survey (link on the workshop website). )
-- [ ] Set-up/installation help, time allocation and who is doing what
-- [ ] Who to send [a self-organized workshop registration form](https://amy.carpentries.org/forms/self-organised/) (see [above](#is-there-any-general-guideline-for-the-carpentries-workshop))
-- [ ] Division of the tasks described below
+**6. Share the above information with your helpers and [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no)**
 
-### **What do I need to communicate with the local coordinator(s)?**
-
-- If the local coordinator has not been involved in the planning so far, please contact carpadmin @ carpentry dot uio dot no about your plan for the workshop. Include information about:
-  - [ ] Who are the instructors,
-  - [ ] If you have already recruited helpers,
-  - [ ] If the format is **online** (+ needs for Zoom meeting set-up) or **in-person** (+ where),
-  - [ ] And preferred date(s) and time, etc.
-
-- The local coordinator(s) take(s) care of the following:
-  1. Setting up a workshop website repository in the uio-carpentry GitHub account (you must make a GitHub profile for yourself first!)
-     - [ ] Ask carpadmin @ carpentry dot uio dot no to invite you as a member of uio-carpentry https://github.com/uio-carpentry
-     - [ ] Edit the necessary parts by following the README.md "Customizing Your Website", and the website will be created automatically
-     - [ ] When the contents are in place, send a notification to carpadmin @ carpentry dot uio dot no – the coordinators will link the workshop website to an event page on the UiO Library's course catalogue, publish, and disseminate the event   
-  2. Creating an event page that appears under "upcoming workshops" of [UiO Library's freestanding course catalogue in English](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/)
-     - [ ] Let the local coordinator(s) know:
-       - [ ] who the workshop is and is not for
-       - [ ] If any installation/set-up help, (date &)time is allocated
-  3. Preparing a sign-up form linked from the event page shown on the event page on UiO Library's website.
-     - [ ] Let the local coordinator(s) know:
-       - [ ] capacity (especially when online)
-       - [ ] any information necessary to collect for running the workshop smoothly (e.g. OS for grouping into breakout rooms)
-  4. Sending an announcement email of the workshop
-  5. Communicating with registrants and participants
-       - [ ] Let the local coordinator(s) know:
-         - [ ] (if online) access information to the workshop
-         - [ ] (if any) information you want the participants to know beforehand   
+**7. Edit the workshop website on GitHub**
+* Once you have shared the above information, [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no), will then set up a **workshop repository** in the [UiO-Carpentry Git Hub page](https://github.com/uio-carpentry).
+* You must **edit the necessary parts** by following the README.md "Customizing Your Website", and the website will be created automatically.
+* When the contents are in place, send a notification to [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no)
 
 
-## **In-person format**
+* * * 
+### 3. Teach a workshop
 
-### **Which room(s) will I be teaching in?**
+**1. Before**
+* Check the results of pre-workshop survey to understand your learners.
+* If you can, try out the projector, check the network, etc. to ensure technical parts work as planned (if not, or if any equipment is needed, contact carpadmin@carpentry.uio.no) 
+* Get the Carpentries equipment box, which is located in the University of Oslo’s HumSam library 2nd floor offices (contact [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no)) 
 
-We will help you find a suitable room. Contact us via carpadmin @ carpentry.uio.no
-<!--
-- [ ] Seminar room 123 in Vilhelm Bjerknes' hus (the Science Library, ground floor)
-- [ ] Teaching room 209 in the Science Library - Science Fiction Section
-- [ ] Want a different room? You can ask the local coordinator to book a room for you
--->
-<!-- - [ ] Abels Utsikt on the top floor of the Mathematics Building - Niels Henrik Abels hus
-- [ ] Seminar room 3508 in the Biosciences Building - Kristine Bonnevies hus
-- [ ] Group room 4436 in the Biosciences Building - Kristine Bonnevies hus -->
+**2. During**
+* Explain the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) at the beginning of the workshop.
+* Do a short **security briefing** at the beginning of the workshop.
+* Ask the participants to answer the **post-workshop survey** at the end of the workshop, as well as feedback using the sticky notes provided in the equipment box (collect these).
+* Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed, and lights are off. 
+* Promote other [Carpentry@UiO workshops](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/) as well as [UiO’s Digital Scholarship Centre (DSC)](https://www.ub.uio.no/english/libraries/dsc/) 
 
-### **Where do I find the Carpentries equipment (cables, extension cords, sticky notes)?**
-<!-- Check if something needs changing before each onboarding session -->
-- [ ] It is found in a white cupboard in lecture room 209, Niels Henrik Abels hus.
-- [ ] If you do not have access to this room, contact the local coordinator at the library for further coordination.
+**3. After**
+* Right after the workshop, do a feedback round with your co-instructors and helpers, using the sticky note feedback as guidance. 
+* A few days after the workshop, one of the co-instructors must **write a summary of the feedback and general impressions** from the workshop and sends these to the co-instructors and helpers. 
+* Workshop participants can ask for a Certificate of Attendance after the workshop:
+	* For non-standard workshops (e.g. when you cover only a part of the core lessons), we create a certificate automatically, ask [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no). 
+	* For standard workshops (i.e., a 2-day full program covering all core lessons), learners can obtain a certificate by following the instructions in the Carpentries Handbook. 
+ 
+#**In case of emergency:**
+* In case of fire call 110
+* In case of medical emergency call 113 
+* In an emergency, call 112 or UiO security 228 56666
+* If someone gets locked into or out of a building, call UiO facility management 228 55007
+* Lost and Found: Contact carpadmin@carpentry.uio.no or the local building administrator for UiO buildings. 
 
-<!--
-### **What is the infection prevention guideline that I need to know?**
-- [ ] Read carefully the [latest version of infection prevention guideline at UiO](https://www.uio.no/english/about/hse/corona/guidelines/infection-prevention-guide.html)
-
- **Important: If you cannot come to UiO according to the guideline [2.1.7 When should students and staff not come to UiO?](https://www.uio.no/english/about/hse/corona/guidelines/infection-prevention-guide.html#2-1-7), please let co-instructor(s), helper(s), and carpadmin @ carpentry dot uio dot no, as soon as possible**
--->
-
-### **What do I have to do before, during, and after a workshop?**
-
-#### Before:
-- [ ] Check the results of the pre-workshop survey to understand your learners
-- [ ] If you can, try out the projector, check the network, etc. to ensure technical parts work as planned (if not, or if any equipment is needed, contact the local coordinator)
-- [ ] Check whether you have or need an adapter to connect your laptop to the monitor in the workshop room
-
-#### During:
-- [ ] Explain the Code of Conduct at the beginning of the workshop
-- [ ] Do a short security briefing at the beginning of the workshop
-- [ ] Take attendance using the workshop attendance checklist provided by the local coordinator
-- [ ] Ask the participants to answer the post-workshop survey linked from the workshop website at the end of the workshop
-- [ ] Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed, and lights are off
-
-#### After:
-- [ ] Collect the sticky-note feedback after the workshop
-- [ ] Right after the workshop, do a feedback round with your co-instructors and helpers
-- [ ] A few days after the workshop, one of the co-instructors writes up a summary of the feedback and general impressions from the workshop and sends these to the co-instructors and helpers
-- [ ] Workshop participants can ask for a Certificate of Attendance after the workshop:
-  - [ ] For non-standard workshops (e.g. when you cover only a part of the core lessons), we create a certificate automatically – ask your local coordinator about it
-  - [ ] For standard workshops (i.e., a 2-day full program covering all [core lessons](https://carpentries.org/workshops/#workshop-core)), learners can obtain a certificate by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/certificates.html)
-
-### **Who do I contact in case something happens?**
-- [ ] In case of fire call **110**
-- [ ] In an emergency, call UiO security 228 56666
-- [ ] If someone gets locked into or out of a building, call UiO facility management 228 55007
-- [ ] Your contacts at the library are ___________________ and can be reached under _____________________
-- [ ] Lost and Found: Contact the library staff at Realfagsbiblioteket / The Science Library personally at the reception on the 2nd floor
-
-<!-- 
----
-## **Online format**
-When a Carpentry workshop is held online, there are different things to consider than the in-person format. Please check and study the following steps.
-- [ ] [Resources for Online Workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html)
-- [ ] [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/#instructional-team-roles-who-what-when)
-- [ ] Depending on the topics to teach, consider planning a separate session for set-up/installation help in advance of the workshop
-
-### **What platforms and functions should we use?**
-- [ ] UiO staff has access to Zoom meetings. If necessary, ask the local coordinator to set up a Zoom meeting.
-- [ ] Zoom functions are constantly updated. Discuss and agree with co-instructors and helpers on which functions to use.
-- [ ] Involving local coordinator(s), plan well the style of the workshop;
-  - [ ] how to use breakout rooms (depending on the characteristics of exercises, e.g. if teaming up is required, discussing is encouraged, or mostly done individually)
-  - **Use of a breakout room for individual help while the main session is ongoing is not recommended unless it is indispensable, as it causes leaving the learners behind. It is better to take time for installation and set-up help before the workshop starts, so plan sufficient time for both the main session and exercise time, provide a history of commands by other means than a shared screen, etc.**
-  - **We don't recommend helping a person in trouble in the main session unless the workshop size is small and you have enough time. It causes delays and frustration and reduces the engagement of the other learners. It is better to help in the exercise session while others can work on the exercises. We recommend preparing both minimum and additional exercises**
-  - [ ] how you assign helpers during the exercises (coming on-demand vs assignment of a regular helper to one room, etc.)  
-  - [ ] how to communicate with the learners (command history, questions about contents, technical questions, emergency)
-- [ ] A chat platform separate from Zoom is handy for backend communication. Consider by a team what is the best option to use.
-- [ ] Carpentries now offers CodiMD as a collaborative online note in addition to Etherpad. Discuss in the team how to use the online notebook and who is following the online notes.
-- [ ] Consider what to screen-share during breaks (e.g. vclock.com to show until when the break is)
-
-### **What do I have to do before, during, and after a workshop?**
-#### Before:
-- [ ] Check the results of the pre-workshop survey to understand your learners
-- [ ] Rehearse what to share by screen sharing, preferably with co-instructors and helpers, to make sure
-- [ ] Discuss and agree on how to do it in an emergency case (internet disconnection etc.)
-- [ ] Prepare a backup plan (if applicable and possible)
-#### During:
-  - [ ] Explain the Code of Conduct at the beginning of the workshop
-  - [ ] Explain how to communicate and demonstrate how-to and let them try to use each function and platform
-  - [ ] Ask the participants to answer the post-workshop survey linked from the workshop website at the end of the workshop
- ### After:
-- [ ] Collect the sticky-note feedback after the workshop
-- [ ] Right after the workshop, do brief feedback round with your co-instructors and helpers
-- [ ] A few days after the workshop, one of the co-instructors writes up a summary of the feedback and general impressions from the workshop and sends these to the co-instructors and helpers
-- Workshop participants can ask for a Certificate of Attendance after the workshop:
-- [ ] For non-standard workshops (e.g. when you only cover a part of core lessons), we generate a certificate automatically – ask your local coordinator about it
-- [ ] For standard workshops (i.e., a 2-day full program covering all [core lessons](https://carpentries.org/workshops/#workshop-core)), learners can obtain a certificate by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/certificates.html)
--->
-
-### **What do I have to do before, during, and after a workshop?**
-
-- [ ] Familiarize yourself with the [Carpentries Guidelines for running workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
-
- Additionally, we ask you kindly to
+#*Get in contact with workshop participants:*
+* Send an email to carpadmin@carpentry.uio.no so that the local coordinator will send the email on behalf of you from the registration system
 
 
-- *Co-instructor*
-  - [ ] Coordinate with your co-instructors and helpers
-  - [ ] Coordinate with the local or regional coordinator
-  - [ ] Make sure the equipment you are planning to use works in the seminar room
-  - [ ] Explain the Code of Conduct at the beginning of the workshop
-  - [ ] Do a short security briefing at the beginning of the workshop
-  - [ ] Take attendance using the workshop attendance checklist provided by the local coordinator
-  - [ ] Ask the participants to answer the post-workshop survey linked from the workshop website at the end of the workshop
-  - [ ] Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed, and lights are off
-
-- *Helpers*
-  - [ ] Get in contact with the co-instructors, and familiarize yourself with the teaching materials and exercises. It is usually in the very beginning and during exercises that helpers are needed most
-  - [ ] (For two full-day standard workshops) Make sure that the coffee station looks tidy
-  - [ ] Be attentive: look actively for sticky notes coming up – and if participants look lost during lessons
-  - [ ] If you see that a lot of sticky notes come up or many participants get lost, gently interrupt the co-instructor so that everyone can catch up
-
-
-### **How is the workshop de-briefing done?**
-- [ ] Collect the sticky-note feedback after the workshop
-- [ ] Right after the workshop, do brief feedback round with your co-instructors and helpers
-- [ ] A few days after the workshop, one of the co-instructors writes up a summary of the feedback and general impressions from the workshop and sends these to the co-instructors and helpers
-- [ ] The local coordinator will send out a workshop evaluation form to all participants one week after the workshop. The coordinator summarises all feedback after each term in a presentation or a written report. Ask the local coordinator for feedback on your workshop at any time.
-
-### **How do I get in contact with workshop participants?**
-- [ ] If you want to get in contact with participants, please send an email to carpadmin @ carpentry dot uio dot no so that the local coordinator will send the email on behalf of you from the registration system
-- *The local coordinator handles registration for workshops. By default, we close registration two weeks before the workshop date. Automatic reminders for workshop participants are sent out via the registration system one week and again three days before the workshop. The registration system can handle any additional information that instructors want to send participants, i.e. notifications of free spots on the waiting list.*
-- Workshop participants can ask for a Certificate of Attendance after the workshop:
-- [ ] For non-standard workshops (e.g. when you only cover a part of the core lessons), we generate certificates automatically – ask your local coordinator about it
-- [ ] For standard workshops (i.e., a 2-day complete program covering all [core lessons](https://carpentries.org/workshops/#workshop-core)), learners can obtain a certificate by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/certificates.html)
+* * * 
+### 4. Overview of instructor responsibilities
+- [ ] Choose a lesson
+- [ ] Answer the call from [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) / reach out to [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no)
+- [ ] Find co-instructors and helpers by reaching out to [organizers@carpentry.uio.no](mailto:organizers@carpentry.uio.no) 
+	* Tip: ask for new helpers via [announcements@carpentry.uio.no](mailto:announcements@carpentry.uio.no).
+- [ ] Familiarize yourself with the General guidelines:
+	* The [Carpentries Handbook](https://docs.carpentries.org/index.html)
+	* The [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+	* [Instructor Checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
+	* [Tips For Instructors](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)
+- [ ] Plan with the help of your co-instructor(s): 1) which episodes/exercises to cover, 2) who will teach them, 3) timeline for the day, 4) preferred date(s) to hold the workshop. 
+- [ ] Share the above information with your helpers and [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no).
+- [ ] Edit the workshop website on GitHub after receiving the link from [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no).
 
 
-### **Where do I get help with developing and discussing my teaching with others?**
-- [ ] The Carpentries Handbook https://docs.carpentries.org/index.html
-<!-- - [ ] Carpentry@UiO StudyGroup -->
+* * * 
+### 5. Overview of co-instructor/ helper responsibilities 
+- [ ] Participate in administrative communication prior to the workshop 
+- [ ] Get in contact with the co-instructors and familiarize yourself with the teaching materials and exercises. It is often during the start of the workshop and during workshop exercises that helpers are needed most. 
+- [ ] (For two full-day standard workshops) Make sure that the coffee station is kept clean. 
+- [ ] Be attentive: look actively for sticky notes coming up – and if participants look lost during lessons. 
+- [ ] If you see that a lot of sticky notes, come up or many participants get lost, gently interrupt the co-instructor so that everyone can catch up. 
+
+
+* * * 
+### 6. Overview of administrator responsibilities
+ - [ ] Booking of suitable rooms for workshops. Determining capacity and any room information necessary to collect for running the workshop smoothly. 
+- [ ] Create **UiO event page** for the workshop using Vortex, that appears under "upcoming workshops" of UiO Library > Digital Scholarship Centre’s (DSC) freestanding course catalogue in English. 
+- [ ] Preparing a sign-up form linked from the event page shown on the event page and administration of this sign-up form. 
+	* By default, we close registration two days before the workshop date. Automatic reminders for workshop participants are sent out via the registration system one week and again three days before the workshop. The registration system can handle any additional information that instructors want to send participants.
+- [ ] Setting up a **workshop website repository** in the **uio-carpentry GitHub account** and sharing the link with instructors so they can fill it in. When the contents are in place, the administrator will link the workshop website to the event page on the UiO Library's course catalogue. 
+- [ ] Publishing, promotion, and dissemination of the workshop on UBOslo Twitter, DSC’s webpage, DSC’s monthly newsletter, and sending an announcement email to [announcements@carpentry.uio.no](mailto:announcements@carpentry.uio.no) about the workshop. 
+- [ ] Publishing, promotion, and dissemination of the workshop on UBOslo Twitter, DSC’s webpage, DSC’s monthly newsletter, and sending an announcement email to [announcements@carpentry.uio.no](mailto:announcements@carpentry.uio.no) about the workshop. 
+- [ ] Submission of self-organized workshop registration form to Carpentry.org using the following information, so that instructors will receive links to **pre- and post-workshop surveys** and the **results**. 
+	* Institutional affiliation: "University of Oslo"
+	* Unless the workshop covers the whole core curriculum, choose "Mix & Match" at "Which Carpentries workshop are you teaching?"
+	* Provide [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) as well as the instructors’ emails at "Is there anyone you would like included in communication for this workshop? Please provide email addresses.”
+	* You and the instructors will receive a link to the results of the pre-workshop survey from [team@carpentry.org](team@carpentry.org). 
+- [ ] In cases where the course has not been filled 1-2 weeks in advance and registration is slow, send out reminders that the course is being held to [announcements@carpentry.uio.no](mailto:announcements@carpentry.uio.no). 
+- [ ] Post on UBOslo Twitter that the course is occurring and include necessary details, as well as a link to sign-up. Emphasize that space is limited so as to avoid people signing up who might not intend on showing up.  
+
 
