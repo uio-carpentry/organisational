@@ -89,15 +89,15 @@
 
 * * * 
 ### 4. Overview of instructor responsibilities
-- [ ] Choose a lesson
-- [ ] Answer the call from [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) / reach out to [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no)
-- [ ] Find co-instructors and helpers by reaching out to [organizers@carpentry.uio.no](mailto:organizers@carpentry.uio.no) 
+- [ ] Choose a lesson.
+- [ ] Answer the call from [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) / reach out to [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no).
+- [ ] Find co-instructors and helpers by reaching out to [organizers@carpentry.uio.no](mailto:organizers@carpentry.uio.no).
 	* Tip: ask for new helpers via [announcements@carpentry.uio.no](mailto:announcements@carpentry.uio.no).
 - [ ] Familiarize yourself with the General guidelines:
-	* The [Carpentries Handbook](https://docs.carpentries.org/index.html)
-	* The [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
-	* [Instructor Checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
-	* [Tips For Instructors](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)
+	* The [Carpentries Handbook](https://docs.carpentries.org/index.html).
+	* The [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+	* [Instructor Checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist).
+	* [Tips For Instructors](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html).
 - [ ] Plan with the help of your co-instructor(s): 1) which episodes/exercises to cover, 2) who will teach them, 3) timeline for the day, 4) preferred date(s) to hold the workshop. 
 - [ ] Share the above information with your helpers and [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no).
 - [ ] Edit the workshop website on GitHub after receiving the link from [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no).
@@ -105,11 +105,11 @@
 
 * * * 
 ### 5. Overview of co-instructor/ helper responsibilities 
-- [ ] Participate in administrative communication prior to the workshop 
+- [ ] Participate in administrative communication prior to the workshop. 
 - [ ] Get in contact with the co-instructors and familiarize yourself with the teaching materials and exercises. It is often during the start of the workshop and during workshop exercises that helpers are needed most. 
-- [ ] (For two full-day standard workshops) Make sure that the coffee station is kept clean. 
+- [ ] (For two full-day standard workshops) make sure that the coffee station is kept clean. 
 - [ ] Be attentive: look actively for sticky notes coming up – and if participants look lost during lessons. 
-- [ ] If you see that a lot of sticky notes, come up or many participants get lost, gently interrupt the co-instructor so that everyone can catch up. 
+- [ ] If you see that a lot of sticky notes come up or that many participants get lost, gently interrupt the co-instructor so that all participants can catch up. 
 
 
 * * * 
@@ -119,7 +119,6 @@
 - [ ] Preparing a sign-up form linked from the event page shown on the event page and administration of this sign-up form. 
 	* By default, we close registration two days before the workshop date. Automatic reminders for workshop participants are sent out via the registration system one week and again three days before the workshop. The registration system can handle any additional information that instructors want to send participants.
 - [ ] Setting up a **workshop website repository** in the **uio-carpentry GitHub account** and sharing the link with instructors so they can fill it in. When the contents are in place, the administrator will link the workshop website to the event page on the UiO Library's course catalogue. 
-- [ ] Publishing, promotion, and dissemination of the workshop on UBOslo Twitter, DSC’s webpage, DSC’s monthly newsletter, and sending an announcement email to [announcements@carpentry.uio.no](mailto:announcements@carpentry.uio.no) about the workshop. 
 - [ ] Publishing, promotion, and dissemination of the workshop on UBOslo Twitter, DSC’s webpage, DSC’s monthly newsletter, and sending an announcement email to [announcements@carpentry.uio.no](mailto:announcements@carpentry.uio.no) about the workshop. 
 - [ ] Submission of self-organized workshop registration form to Carpentry.org using the following information, so that instructors will receive links to **pre- and post-workshop surveys** and the **results**. 
 	* Institutional affiliation: "University of Oslo"
