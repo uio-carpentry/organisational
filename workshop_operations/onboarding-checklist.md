@@ -59,11 +59,11 @@
 
 **1. Before**
 * Check the results of pre-workshop survey to understand your learners.
-* If you can, try out the projector, check the network, etc. to ensure technical parts work as planned (if not, or if any equipment is needed, contact carpadmin@carpentry.uio.no) 
+* If you can, try out the projector, check the network, etc., to ensure technical parts work as planned (if not, or if any equipment is needed, contact carpadmin@carpentry.uio.no) 
 * Get the Carpentries equipment box, which is located in the University of Oslo’s HumSam library 2nd floor offices (contact [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no)) 
 
 **2. During**
-* Explain the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) at the beginning of the workshop.
+* Explain the Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) at the beginning of the workshop.
 * Do a short **security briefing** at the beginning of the workshop.
 * Ask the participants to answer the **post-workshop survey** at the end of the workshop, as well as feedback using the sticky notes provided in the equipment box (collect these).
 * Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed, and lights are off. 
@@ -71,20 +71,20 @@
 
 **3. After**
 * Right after the workshop, do a feedback round with your co-instructors and helpers, using the sticky note feedback as guidance. 
-* A few days after the workshop, one of the co-instructors must **write a summary of the feedback and general impressions** from the workshop and sends these to the co-instructors and helpers. 
+* A few days after the workshop, one of the co-instructors must **write a summary of the feedback and general impressions** from the workshop and send these to the co-instructors and helpers. 
 * Workshop participants can ask for a Certificate of Attendance after the workshop:
 	* For non-standard workshops (e.g. when you cover only a part of the core lessons), we create a certificate automatically, ask [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no). 
-	* For standard workshops (i.e., a 2-day full program covering all core lessons), learners can obtain a certificate by following the instructions in the Carpentries Handbook. 
+	* For standard workshops (i.e., a 2-day full program covering all core lessons), learners can obtain a certificate by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/index.html). 
  
 #**In case of emergency:**
 * In case of fire call 110
 * In case of medical emergency call 113 
 * In an emergency, call 112 or UiO security 228 56666
-* If someone gets locked into or out of a building, call UiO facility management 228 55007
-* Lost and Found: Contact carpadmin@carpentry.uio.no or the local building administrator for UiO buildings. 
+* If someone gets locked in or out of a building, call UiO facility management 228 55007
+* Lost and Found: Contact [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) or the local building administrator for UiO buildings. 
 
 #*Get in contact with workshop participants:*
-* Send an email to carpadmin@carpentry.uio.no so that the local coordinator will send the email on behalf of you from the registration system
+* Send an email to [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) so that the local coordinator will send the email on behalf of you from the registration system
 
 
 * * * 
