@@ -43,7 +43,7 @@
 **5. Plan out the following with the help of your co-instructor(s):**
 * Decide which episodes and exercises (minimum and extra) to cover. 
 * Delegate teaching for episodes and exercises. 
-* Create a timeline for the day, be sure to allot time for set-up, introduction (inc. explanation of Code of Conduct), breaks, closing remarks and the post-workshop survey/ feedback. 
+* Create a timeline for the day, be sure to allot time for set-up, introduction (inc. explanation of [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)), breaks, closing remarks and the post-workshop survey/ feedback. 
 * Preferred date(s) 
 
 **6. Share the above information with your helpers and [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no)**
