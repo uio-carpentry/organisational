@@ -42,7 +42,7 @@
 
 **5. Plan out the following with the help of your co-instructor(s):**
 * Decide which episodes and exercises (minimum and extra) to cover. 
-* Decide who teaches which episodes and exercises. 
+* Delegate teaching for episodes and exercises. 
 * Create a timeline for the day, be sure to allot time for set-up, introduction (inc. explanation of Code of Conduct), breaks, closing remarks and the post-workshop survey/ feedback. 
 * Preferred date(s) 
 
