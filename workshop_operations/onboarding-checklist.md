@@ -15,8 +15,8 @@
 
 #### Certification	
 
-- **Instructor certification:** Contact us at [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) and familiarize yourself with[the Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
-- **Helper certification:** Contact us at [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) and familiarize yourself with[the Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+- **Instructor certification:** Contact us at [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) and familiarize yourself with [the Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
+- **Helper certification:** Contact us at [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) and familiarize yourself with [the Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 - **Create a GitHub profile** and ask [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) to invite you as a member of [UiO-Carpentry](https://github.com/uio-carpentry)
 	
 
