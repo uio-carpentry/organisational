@@ -76,14 +76,14 @@
 	* For non-standard workshops (e.g. when you cover only a part of the core lessons), we create a certificate automatically, ask [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no). 
 	* For standard workshops (i.e., a 2-day full program covering all core lessons), learners can obtain a certificate by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/index.html). 
  
-# **In case of emergency:**
+#### **In case of emergency:**
 * In case of fire call 110
 * In case of medical emergency call 113 
 * In an emergency, call 112 or UiO security 228 56666
 * If someone gets locked in or out of a building, call UiO facility management 228 55007
 * Lost and Found: Contact [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) or the local building administrator for UiO buildings. 
 
-# *Get in contact with workshop participants:*
+#### **Get in contact with workshop participants:**
 * Send an email to [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) so that the local coordinator will send the email on behalf of you from the registration system
 
 
