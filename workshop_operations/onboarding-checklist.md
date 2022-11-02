@@ -21,17 +21,17 @@
 	
 
 * * * 
-### 2. Plan a workshop (to be complete in order from 1-7)
+### 2. Plan a workshop (to be completed in order from 1-7)
 
 **1. Choose a lesson**
-* You can teach any of the lessons from the Carpentries curriculum, including the core lessons from [Software](http://software-carpentry.org/lessons/), [Data](http://datacarpentry.org/lessons/), and/or [Library Carpentry](https://librarycarpentry.org/lessons/). Alternatively, if you have developed lesson material you can contact [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no).  
+* You can teach any of the lessons from the Carpentries curriculum, including the core lessons from [Software](http://software-carpentry.org/lessons/), [Data](http://datacarpentry.org/lessons/), and/or [Library Carpentry](https://librarycarpentry.org/lessons/). Alternatively, if you have developed lesson material you can contact [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no) and suggest a workshop.  
 
 **2. Answer the call/ reach out** 
 * Several times per semester, we send out calls to [organizers@carpentry.uio.no](mailto:organizers@carpentry.uio.no) mailing list, reply to the call if you are interested. 
 * You can also contact the local or the regional coordinator and propose a workshop by sending an email to [carpadmin@carpentry.uio.no](mailto:carpadmin@carpentry.uio.no).
 
 **3. Find co-instructors and helpers**
-* Ask the community via [organizers@carpentry.uio.no](mailto:organizers@carpentry.uio.no), or attend our bi-annual event where
+* Ask the community via [organizers@carpentry.uio.no](mailto:organizers@carpentry.uio.no), or attend our bi-annual event where we plan the semester. 
 * Tip: ask for new helpers via [announcements@carpentry.uio.no](mailto:announcements@carpentry.uio.no).
 
 **4. Familiarize yourself with the General guidelines**
