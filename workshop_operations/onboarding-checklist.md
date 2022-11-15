@@ -52,6 +52,7 @@ Prerequisites:
   </li>
 <li> <details><summary><h3>Teach workshop<h3></summary><blockquote>
   <details><summary>Opening-instructor responsibilities</summary><blockquote>
+
 ### Opening-instructor
 **Before**
 * Check the results of the pre-workshop survey to understand your learners.
@@ -74,6 +75,7 @@ Prerequisites:
     :smile:
 </blockquote></details>	
   <details><summary>Closing-instructor responsibilities</summary><blockquote>
+
 ### Closing-instructor
 
 **During**
@@ -95,6 +97,7 @@ Prerequisites:
 </blockquote></details>	
 </li>	
 <li> <details><summary><h3>Work as a helper<h3></summary><blockquote>	
+
 ### Helper
 * Get the Carpentries equipment box, which is located in the University of Oslo’s HumSam library 2nd floor offices (contact Carp Admin)
 * Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed, and lights are off. 
