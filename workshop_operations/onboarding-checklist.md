@@ -88,8 +88,8 @@ Prerequisites:
 #### **Just in case:**
 * If someone gets locked in or out of a building, call UiO facility management 228 55007
 * Lost and Found: Contact Carp Admin or the local building administrator for UiO buildings.
-* In case of fire call 110 :fire_engine:
-* In case of medical emergency call 113 :ambulance:
+* In case of fire call 110    :fire_engine:
+* In case of medical emergency call 113    :ambulance:
 * In an emergency, call 112 or UiO security 228 56666
 </blockquote></details>	
 </li>	
