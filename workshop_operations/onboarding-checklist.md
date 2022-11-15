@@ -47,7 +47,6 @@ Prerequisites:
 * Once you have shared the above information, Carp Admin will set up a **workshop repository** in the [UiO-Carpentry Git Hub page](https://github.com/uio-carpentry).
 * You must **edit the necessary parts** by following the README.md "Customizing Your Website", and the website will be created automatically.
 * When the contents are in place, send a notification to Carp Admin. 
- :smile:
   </blockquote></details>
   </li>
 <li> <details><summary><h3>Teach workshop<h3></summary><blockquote>
@@ -69,10 +68,9 @@ Prerequisites:
 #### **Just in case:**
 * If someone gets locked in or out of a building, call UiO facility management 228 55007
 * Lost and Found: Contact Carp Admin or the local building administrator for UiO buildings.
-* In case of fire call 110
-* In case of medical emergency call 113 
+* In case of fire call 110 :fire_engine:
+* In case of medical emergency call 113 :ambulance:
 * In an emergency, call 112 or UiO security 228 56666
-    :smile:
 </blockquote></details>	
   <details><summary>Closing-instructor responsibilities</summary><blockquote>
 
@@ -90,10 +88,9 @@ Prerequisites:
 #### **Just in case:**
 * If someone gets locked in or out of a building, call UiO facility management 228 55007
 * Lost and Found: Contact Carp Admin or the local building administrator for UiO buildings.
-* In case of fire call 110
-* In case of medical emergency call 113 
+* In case of fire call 110 :fire_engine:
+* In case of medical emergency call 113 :ambulance:
 * In an emergency, call 112 or UiO security 228 56666
-  :smile:
 </blockquote></details>	
 </li>	
 <li> <details><summary><h3>Work as a helper<h3></summary><blockquote>	
