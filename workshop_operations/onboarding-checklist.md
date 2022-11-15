@@ -112,6 +112,7 @@ Prerequisites:
 </blockquote></details>	
 </li>	
 <li> <details><summary><h3>Familiarize yourself with the administrator responsibilities<h3></summary><blockquote>	
+
 ### Administrator
 * Workshop participants can ask for a Certificate of Attendance after the workshop:
 	* For non-standard workshops (e.g. when you cover only a part of the core lessons), we create a certificate automatically, ask Carp Admin
