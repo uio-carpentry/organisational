@@ -15,6 +15,7 @@ Prerequisites:
 ## What do you want to do? 
 <ol>
 <li> <details><summary><h3>Plan a workshop<h3></summary><blockquote>	
+
 ### Plan a workshop (to be completed in order from 1-7)
 
 **1. Choose a lesson**
