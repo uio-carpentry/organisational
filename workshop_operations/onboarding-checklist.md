@@ -69,7 +69,7 @@ Prerequisites:
 * Lost and Found: Contact Carp Admin or the local building administrator for UiO buildings.
 * In case of fire call **110** :fire_engine:
 * In case of medical emergency call **113** :ambulance:
-* In an emergency, call 112 or UiO security **228 56666**
+* In an emergency, call **112** or UiO security **228 56666** :policewoman:
 </blockquote></details>	
   <details><summary>Closing-instructor responsibilities</summary><blockquote>
 
@@ -89,7 +89,7 @@ Prerequisites:
 * Lost and Found: Contact Carp Admin or the local building administrator for UiO buildings.
 * In case of fire call **110**    :fire_engine:
 * In case of medical emergency call **113**    :ambulance:
-* In an emergency, call **112** or UiO security **228 56666**
+* In an emergency, call **112** or UiO security **228 56666** :policewoman:
 </blockquote></details>	
 </blockquote></details>	
 <details><summary><h3>Work as a helper<h3></summary><blockquote>	
@@ -103,7 +103,7 @@ Prerequisites:
 * Lost and Found: Contact Carp Admin or the local building administrator for UiO buildings.
 * In case of fire call **110** :fire_engine:
 * In case of medical emergency call **113** :ambulance:
-* In an emergency, call **112** or UiO security **228 56666**
+* In an emergency, call **112** or UiO security **228 56666** :policewoman:
 </blockquote></details>	
 <details><summary><h3>Familiarize yourself with the administrator responsibilities<h3></summary><blockquote>	
 
