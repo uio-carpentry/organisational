@@ -13,8 +13,8 @@ Prerequisites:
 - Create a GitHub profile and ask Carp Admin to invite you as a member of [UiO-Carpentry](https://github.com/uio-carpentry)
 
 ## What do you want to do? 
-<ol>
-<li> <details><summary><h3>Plan a workshop<h3></summary><blockquote>	
+
+<details><summary><h3>Plan a workshop<h3></summary><blockquote>	
 
 ### Plan a workshop (to be completed in order from 1-7)
 
@@ -48,8 +48,7 @@ Prerequisites:
 * You must **edit the necessary parts** by following the README.md "Customizing Your Website", and the website will be created automatically.
 * When the contents are in place, send a notification to Carp Admin. 
   </blockquote></details>
-  </li>
-<li> <details><summary><h3>Teach workshop<h3></summary><blockquote>
+<details><summary><h3>Teach workshop<h3></summary><blockquote>
   <details><summary>Opening-instructor responsibilities</summary><blockquote>
 
 ### Opening-instructor
@@ -92,8 +91,8 @@ Prerequisites:
 * In case of medical emergency call **113**    :ambulance:
 * In an emergency, call **112** or UiO security **228 56666**
 </blockquote></details>	
-</li>	
-<li> <details><summary><h3>Work as a helper<h3></summary><blockquote>	
+</blockquote></details>	
+<details><summary><h3>Work as a helper<h3></summary><blockquote>	
 
 ### Helper
 * Get the Carpentries equipment box, which is located in the University of Oslo’s HumSam library 2nd floor offices (contact Carp Admin)
@@ -106,15 +105,13 @@ Prerequisites:
 * In case of medical emergency call **113** :ambulance:
 * In an emergency, call **112** or UiO security **228 56666**
 </blockquote></details>	
-</li>	
-<li> <details><summary><h3>Familiarize yourself with the administrator responsibilities<h3></summary><blockquote>	
+<details><summary><h3>Familiarize yourself with the administrator responsibilities<h3></summary><blockquote>	
 
 ### Administrator
 * Workshop participants can ask for a Certificate of Attendance after the workshop:
 	* For non-standard workshops (e.g. when you cover only a part of the core lessons), we create a certificate automatically, ask Carp Admin
 	* For standard workshops (i.e., a 2-day full program covering all core lessons), learners can obtain a certificate by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/index.html). 
 </blockquote></details>	
-</li>	
 
 * * * 
 ### Overview of instructor responsibilities
