@@ -55,7 +55,6 @@ Prerequisites:
 * When the contents are in place, send a notification to Carp Admin. 
 
  </blockquote></details>
-  </li>
 	
 	
 <li> <details><summary><h3>Teach a workshop<h3></summary><blockquote>
