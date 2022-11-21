@@ -53,7 +53,8 @@ Prerequisites:
 * Once you have shared the above information, Carp Admin will set up a **workshop repository** in the [UiO-Carpentry Git Hub page](https://github.com/uio-carpentry).
 * You must **edit the necessary parts** by following the README.md "Customizing Your Website", and the website will be created automatically.
 * When the contents are in place, send a notification to Carp Admin. 
-  </blockquote></details>
+
+ </blockquote></details>
   </li>
 	
 	
