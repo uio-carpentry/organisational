@@ -96,13 +96,16 @@ Prerequisites:
 
 \
 **During workshop**
+- [ ] As the helper you are in charge of the sticky notes. 
 - [ ] Be attentive: look actively for sticky notes coming up – and if participants look lost during lessons. 
 - [ ] If you see that a lot of sticky notes come up or that many participants get lost, gently interrupt the co-instructor so that all participants can catch up. 
-
+- [ ] Before lunch break, pass around sticky notes for a mid-day feedback round, so instructors can make any needed adjustments for the group. 
+	
 \
 **After workshop**
+- [ ] Do another round of stick note feedback that can be used in an immediate post-workshop feedback round with instructors and helpers. 
 - [ ] Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed, and lights are off. 
-- [ ] A few days after the workshop, the closing instructor must **write a summary of the feedback and general impressions** from the workshop and send these to the co-instructors and helpers. 
+- [ ] A few days after the workshop, the closing instructor must **write a summary of the feedback and general impressions** from the workshop and send these to the co-instructors and helpers (tip: keep the sticky notes from the feedback rounds to use for information). 
 	
 </blockquote></details>	
 </li>	
