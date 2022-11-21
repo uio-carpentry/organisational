@@ -59,9 +59,6 @@ Prerequisites:
 	
 <li> <details><summary><h3>Teach a workshop<h3></summary><blockquote>
    <details><summary>Opening-instructor responsibilities</summary><blockquote>
-
-<details><summary><h3>Teach workshop<h3></summary><blockquote>
-  <details><summary>Opening-instructor responsibilities</summary><blockquote>
  
 
 \
