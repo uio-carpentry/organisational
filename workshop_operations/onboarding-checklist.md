@@ -13,8 +13,8 @@ Prerequisites:
 - Create a GitHub profile and ask Carp Admin to invite you as a member of [UiO-Carpentry](https://github.com/uio-carpentry)
 
 ## What do you want to do? 
-
-<details><summary><h3>Plan a workshop<h3></summary><blockquote>	
+<ol>
+<li> <details><summary><h3>Plan a workshop<h3></summary><blockquote>	
 
 ### To be completed in order 
 
@@ -53,13 +53,12 @@ Prerequisites:
 * Once you have shared the above information, Carp Admin will set up a **workshop repository** in the [UiO-Carpentry Git Hub page](https://github.com/uio-carpentry).
 * You must **edit the necessary parts** by following the README.md "Customizing Your Website", and the website will be created automatically.
 * When the contents are in place, send a notification to Carp Admin. 
-
- </blockquote></details>
+  </blockquote></details>
+  </li>
 	
 	
-<details><summary><h3>Teach a workshop<h3></summary><blockquote>
+<li> <details><summary><h3>Teach a workshop<h3></summary><blockquote>
    <details><summary>Opening-instructor responsibilities</summary><blockquote>
- 
 
 \
 **Before teaching**
@@ -70,19 +69,6 @@ Prerequisites:
 **During teaching**
 - [ ] Explain the Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) at the beginning of the workshop.
 - [ ] Do a short **security briefing** at the beginning of the workshop.
-
-
-
-**After**
-* Right after the workshop, do a feedback round with your co-instructors and helpers, using the sticky note feedback as guidance. 
-* If workshop participants ask for a Certificate of Attendance after the workshop ask them to email the Contact-us email address. 
-
-#### **Just in case:**
-* If someone gets locked in or out of a building, call UiO facility management **228 55007**
-* Lost and Found: Contact Carp Admin or the local building administrator for UiO buildings.
-* In case of fire call **110** :fire_engine:
-* In case of medical emergency call **113** :ambulance:
-* In an emergency, call **112** or UiO security **228 56666** :policewoman:
 
 </blockquote></details>	
   <details><summary>Closing-instructor responsibilities</summary><blockquote>
@@ -97,44 +83,9 @@ Prerequisites:
 - [ ] Right after the workshop, do a feedback round with your co-instructors and helpers, using the sticky note feedback as guidance. 
 - [ ] If workshop participants ask for a Certificate of Attendance after the workshop ask them to email the Contact-us email address. 
 
-
-
-**After**
-* Right after the workshop, do a feedback round with your co-instructors and helpers, using the sticky note feedback as guidance. 
-* A few days after the workshop, the closing instructor must **write a summary of the feedback and general impressions** from the workshop and send these to the co-instructors and helpers. 
-* If workshop participants ask for a Certificate of Attendance after the workshop ask them to email the Contact-us email address. 
-
-#### **Just in case:**
-* If someone gets locked in or out of a building, call UiO facility management **228 55007**
-* Lost and Found: Contact Carp Admin or the local building administrator for UiO buildings.
-* In case of fire call **110**    :fire_engine:
-* In case of medical emergency call **113**    :ambulance:
-* In an emergency, call **112** or UiO security **228 56666** :policewoman:
 </blockquote></details>	
-
-</blockquote></details>	
-<details><summary><h3>Work as a helper<h3></summary><blockquote>	
-
-
-
-### Helper
-* Get the Carpentries equipment box, which is located in the University of Oslo’s HumSam library 2nd floor offices (contact Carp Admin)
-* Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed, and lights are off. 
-
-#### **Just in case:**
-* If someone gets locked in or out of a building, call UiO facility management **228 55007**
-* Lost and Found: Contact Carp Admin or the local building administrator for UiO buildings.
-* In case of fire call **110** :fire_engine:
-* In case of medical emergency call **113** :ambulance:
-* In an emergency, call **112** or UiO security **228 56666** :policewoman:
-</blockquote></details>	
-<details><summary><h3>Familiarize yourself with the administrator responsibilities<h3></summary><blockquote>	
-
-### Administrator
-* Workshop participants can ask for a Certificate of Attendance after the workshop:
-	* For non-standard workshops (e.g. when you cover only a part of the core lessons), we create a certificate automatically, ask Carp Admin
-	* For standard workshops (i.e., a 2-day full program covering all core lessons), learners can obtain a certificate by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/index.html). 
-</blockquote></details>	
+</li>	
+<li> <details><summary><h3>Work as a helper<h3></summary><blockquote>	
 
 * * * 
 
@@ -154,7 +105,8 @@ Prerequisites:
 - [ ] A few days after the workshop, the closing instructor must **write a summary of the feedback and general impressions** from the workshop and send these to the co-instructors and helpers. 
 	
 </blockquote></details>	
- <details><summary><h3>Familiarize yourself with the administrator responsibilities<h3></summary><blockquote>	
+</li>	
+<li> <details><summary><h3>Familiarize yourself with the administrator responsibilities<h3></summary><blockquote>	
 
 * * * 
 
@@ -183,7 +135,8 @@ Prerequisites:
 	* For non-standard workshops (e.g. when you cover only a part of the core lessons), we create a certificate automatically
 	* For standard workshops (i.e., a 2-day full program covering all core lessons), learners can obtain a certificate by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/index.html). 
 	
-</blockquote></details>		
+</blockquote></details>	
+</li>	
 
  
 
@@ -200,7 +153,6 @@ Prerequisites:
 #### Become a Carpentries certified instructor / helper 
 
 Contact us at Carp Admin 
-
 
 
 
