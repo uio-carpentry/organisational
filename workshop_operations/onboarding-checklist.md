@@ -54,7 +54,6 @@ Prerequisites:
 * You must **edit the necessary parts** by following the README.md "Customizing Your Website", and the website will be created automatically.
 * When the contents are in place, send a notification to Carp Admin. 
   </blockquote></details>
-
   </li>
 	
 	
