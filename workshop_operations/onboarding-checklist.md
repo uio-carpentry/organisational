@@ -154,8 +154,7 @@ Prerequisites:
 - [ ] A few days after the workshop, the closing instructor must **write a summary of the feedback and general impressions** from the workshop and send these to the co-instructors and helpers. 
 	
 </blockquote></details>	
-</li>	
-<li> <details><summary><h3>Familiarize yourself with the administrator responsibilities<h3></summary><blockquote>	
+ <details><summary><h3>Familiarize yourself with the administrator responsibilities<h3></summary><blockquote>	
 
 * * * 
 
@@ -184,8 +183,7 @@ Prerequisites:
 	* For non-standard workshops (e.g. when you cover only a part of the core lessons), we create a certificate automatically
 	* For standard workshops (i.e., a 2-day full program covering all core lessons), learners can obtain a certificate by following the instructions in the [Carpentries Handbook](https://docs.carpentries.org/index.html). 
 	
-</blockquote></details>	
-</li>	
+</blockquote></details>		
 
  
 
