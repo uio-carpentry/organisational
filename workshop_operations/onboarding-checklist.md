@@ -69,6 +69,7 @@ Prerequisites:
 **During teaching**
 - [ ] Explain the Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) at the beginning of the workshop.
 - [ ] Do a short **security briefing** at the beginning of the workshop.
+- [ ] Explain the sticky notes system
 
 </blockquote></details>	
   <details><summary>Closing-instructor responsibilities</summary><blockquote>
