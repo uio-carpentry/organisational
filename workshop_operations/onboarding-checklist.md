@@ -106,7 +106,7 @@ Prerequisites:
 **After workshop**
 - [ ] Do another round of stick note feedback that can be used in an immediate post-workshop feedback round with instructors and helpers. 
 - [ ] Leave the seminar room clean and orderly; make sure that no equipment is left, windows are closed, and lights are off. 
-- [ ] A few days after the workshop, the closing instructor must **write a summary of the feedback and general impressions** from the workshop and send these to the co-instructors and helpers (tip: keep the sticky notes from the feedback rounds to use for information). 
+- [ ] A few days after the workshop, one of the helpers must **write a summary of the feedback and general impressions** from the workshop and send these to the co-instructors and other helpers (tip: keep the sticky notes from the feedback rounds to use for information). 
 	
 </blockquote></details>	
 </li>	
