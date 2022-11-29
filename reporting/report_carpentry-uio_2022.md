@@ -104,4 +104,5 @@ The Board can be contacted via Board @ carpentry dot uio dot no. The Board had f
 * Structure: Currently a single page under DSC's site. Giving info about who we are, what we are doing, and how to get involved, as well as an explanation of the Carpentries.
 
 ### GitHub, Communication
+blablabla
 
