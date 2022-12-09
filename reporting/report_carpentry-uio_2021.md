@@ -19,7 +19,6 @@
 * March [Carpentry: Plotting and Programming with Python (Novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/210302_python) - online
 * January [Carpentry pilot Workshop (Online): Introduction to Conda for (Data) Scientists](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/210108_conda) - joint coordination by Digital Scholarship Center, CodeRefinery, Finnish Geospatial Research Institute FGI, UiT: The Arctic University of Norway and Aalto University - online
 
-#### In numbers
 
 
 
