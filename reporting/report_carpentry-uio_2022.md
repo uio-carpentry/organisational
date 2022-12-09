@@ -23,27 +23,30 @@ date: "2022-12-09"
 ### Survey in future
 
 
-## Workshops
+## Workshops held 
 
-UiO-Carpentry arranged altogether 11 one-day Software Carpentry workshops (most of which could be taught on-site) and was part of two two-day Data Carpentry workshops and two half-day mini-workshops (conducted online). During spring/summer and late fall Software Carpentry workshops were moved online, while several workshops in early fall could be arranged on-site with reduced participant numbers.
+#### Two-day Data Carpentry Workshop
 
-For the 11 Carpentry workshops arranged by UiO-Carpentry, in total, 492 sign-ups were made. Total capacity was 283, and the number of learners who attended was in total 187. Due to even more limited access to rooms in addition to the reduced capacity of each room at UiO, the in-person workshop capacity in the Autumn semester was reduced to approximately 1/3 of that of Spring semester before covid-19 related restrictions applied.  
+* November [Data Carpentry: Social Sciences and Humanities Using R](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/221124_dcssh) - on-site
+* September [TidyVerse](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/220920_tidy) - on-site
+* April [Carpentry@UiO: Data Analysis and Visualization in R and Tidyverse (Novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/220411_r) - on-site
 
-### One-day workshops
+#### One-day Carpentry Workshop
 
+* November [Data Carpentry: R for Social Scientist](https://preview.carpentries.org/r-socialsci/) - on-site
+*  October [Unix Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/221013_shell) - on-site
+* April [Using Databases and SQL](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/220406_sql) - on-site
 
-### Two-day workshops
+In numbers
+Workshop modes
+Three online workshops
+Four on-site workshops
 
-
-### Carpentry Mini-Workshops
-
-
-### Carpentry Workshops During Research Bazaar 2020
-
-
-## Community Building & Social Events
-
-COVID-19 posed a challenge in regards to community building and arranging social events for  UiO-Carpentry. With moving many activities online and good communication with our members, we managed to organise a fair number of social events and community activities.
+Workshop types
+One 2-day DC workshop
+Three 1-day Carpentry workshops (Python, SQL)
+One 1-day Carpentry@UiO workshop (R Tidyverse)
+Two half-day Carpentry@UiO workshops (GitHub, Conda)
 
 ### Onboarding
 
