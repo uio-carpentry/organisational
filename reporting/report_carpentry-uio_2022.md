@@ -62,26 +62,34 @@ date: "2022-12-09"
 |2021-03-02|Python|online|52|124|NA|
 
 
-### Onboarding
+## Workshop evaluation
 
-Three onboarding sessions were held, two on-site sessions in January 2020 and one online session in September 2020. Onboarding is intended for new instructors and helpers and as a general information exchange around the practicalities of running Carpentry workshops at UiO. Materials for the onboarding events are updated continuously and can be accessed on GitHub, [UiO-Carpentry/organisational/workshop_operations](https://github.com/uio-carpentry/organisational/tree/master/workshop_operations)
+In 2020, the community managers together with the library and the Board decided to stop with sending out post-workshop evaluations. We did this mainly due to "feedback fatigue" which we experienced during 2019 already. Since we are now registering all official Carpentries workshops and official free-standing Carpentries modules with the Carpentries' database AMY, we have access to their pre- and post-workshop surveys.
 
-### StudyGroup
+At the same time, we set a general reflection around workshop evaluations in motion with the wish to re-phrase and shorten workshop feedback forms. This work is still ongoing. Plans are to create a new feedback form in 2022.
 
-No StudyGroup were held. There is plan to re-start StudyGroup in 2023.  
+In the meantime, "sticky-note feedback" is occasionally collected at on-site workshops. This is mainly used for workshop de-briefing with instructors and helpers. The transcribed feedback is kept in a secure cloud storage space and can be accessed upon request.
 
-### Recruiting
+General themes of all modes of feedback that we received during and after workshops are:
 
-Four new instructors (with a focus on R) could be recruited for UiO-Carpentry, another instructor is in training. Two seats came out of the NeiC CodeRefinery Platinum Membership (UiO members were eligible due to UiO's membership in NeiC). Besides, an already certified instructor recently joined UiO. Several new helpers could be recruited and supported workshops, both on-site and online during 2020.
+### Requests
 
-The Carpentries record shows that eight seats were used in the membership year of May 2019 to May 2020, which exceeds the reserved spots by 2. On the 8th Dec 2020, it is however shown that UiO has six seats remaining for the membership period of August 2020 to August 2021. Naoe made an inquiry regarding the number of seats reserved for UiO during the current membership period to the core team and is still waiting for confirmation.
+* learners request (more) advanced workshops for the same tools, especially R and Python
+* learners request more frequent workshops
+* learners request workshop for other tools, like Matlab, SPSS, etc.
+* learners request either online - or on-site workshops
 
-*Update on the 17th Dec.*
-It is confirmed that in the previous membership year UiO had 3 unused seats carried over from years before. 1 seat remained unused, but this is not to be carried over to this (2020 Aug - 2021 Aug) membership year. Thus, we have 6 seats for 2020 Aug - 2021 Aug. 
+### Appreciation
 
-Actively recruiting candidates from the UiO-Carpentry community for these spots had to be postponed to 2021. Several potential instructors declined the offer due to lack of time. More active recruitment has to be initiated in early 2021.
+* learners appreciate the availability and fast response of helpers
+* learners like the "friendly atmosphere" of Carpentries workshops
+* learners mostly appreciate the slow pace and the focus on participatory live coding
 
-### Social Events
+## Social events
+
+* An online onboarding session (September) ?
+* Carpentry@UiO community fika (October) ?
+* Carpentry@UiO yule brunch (December)
 
 
 ## Organisation
