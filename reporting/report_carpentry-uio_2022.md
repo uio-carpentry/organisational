@@ -66,7 +66,7 @@ date: "2022-12-09"
 
 In 2020, the community managers together with the library and the Board decided to stop with sending out post-workshop evaluations. We did this mainly due to "feedback fatigue" which we experienced during 2019 already. Since we are now registering all official Carpentries workshops and official free-standing Carpentries modules with the Carpentries' database AMY, we have access to their pre- and post-workshop surveys.
 
-At the same time, we set a general reflection around workshop evaluations in motion with the wish to re-phrase and shorten workshop feedback forms. This work is still ongoing. Plans are to create a new feedback form in 2022.
+At the same time, we set a general reflection around workshop evaluations in motion with the wish to re-phrase and shorten workshop feedback forms. This work is still ongoing. Plans are to create a new feedback form in 2022. ? #* *have something been done with this?* 
 
 In the meantime, "sticky-note feedback" is occasionally collected at on-site workshops. This is mainly used for workshop de-briefing with instructors and helpers. The transcribed feedback is kept in a secure cloud storage space and can be accessed upon request.
 
@@ -78,6 +78,7 @@ General themes of all modes of feedback that we received during and after worksh
 * learners request more frequent workshops
 * learners request workshop for other tools, like Matlab, SPSS, etc.
 * learners request either online - or on-site workshops
+* learners request more a workshop on Ggplot2 package in R 
 
 ### Appreciation
 
@@ -129,4 +130,11 @@ The Board can be contacted via Board @ carpentry dot uio dot no. The Board had f
 * Structure: Currently a single page under DSC's site. Giving info about who we are, what we are doing, and how to get involved, as well as an explanation of the Carpentries.
 
 ### GitHub, Communication
+
+### TO DO FOR 2023 
+- Reaorganize the structure of R courses such as "Data Carpentry: Social Sciences and Humanities Using R". (Spreadsheet?, Open refine?) SHould we divided the course in two? 
+- A common pattern across year is that a part of the partecipant that register do not come or de-register the day before the workshop making difficult to let people on the waiting list to be able to partecipate. Should we open the courses for a number > than the actual capacity? 
+- Course informations need to be made more visible for the participants in the site and sending an e-mail with set-up instruction in advance
+- When sending Post-workshop survey send also link to DSC newsletter 
+- Need more control over the instructors, some feedback were partcularly negative towards soem of the instructors. It could help to have more cordinations between co-instructors, 
 
