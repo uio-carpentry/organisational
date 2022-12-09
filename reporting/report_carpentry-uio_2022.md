@@ -68,7 +68,7 @@ Three onboarding sessions were held, two on-site sessions in January 2020 and on
 
 ### StudyGroup
 
-4 StudyGroup meetings were held between January and early March 2020. Moving the StudyGroup online seemed like a good solution. Still, participation dwindled towards summer (3 meetings were held), likely as a result of overexposure to online meetings, conferences, and workshops etc. The StudyGroup was thus put on halt during the fall.
+No StudyGroup were held. There is plan to re-start StudyGroup in 2023.  
 
 ### Recruiting
 
