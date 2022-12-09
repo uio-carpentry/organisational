@@ -1,11 +1,11 @@
 ---
 title: "Carpentry@UiO 2020 Annual Report"
-date: "2020-12-11"
+date: "2022-12-09"
 ---
 
-# Carpentry@UiO 2020 Annual Report
+# Carpentry@UiO 2022 Annual Report
 
-*Report written by Naoe Tatara and Annika Rockenberger (both University of Oslo library)*
+*Report written by Elisa Pierfederici, Sofie Gilbert and Annika Rockenberger (University of Oslo library)*
 
 ## Learner Feedback and Continuous Evaluation
 ### Carpentries survey
