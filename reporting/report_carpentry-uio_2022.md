@@ -48,16 +48,16 @@ date: "2022-12-09"
 * Three 2-day Carpentry workshop (R, Tidyverse, R-Tydiverse)
 * Three 1-day Carpentry workshops (R, Unix Shell and SQL)
 
-#* I have notice there is a difference between Carpentry and Carpentry@UIO workshop but I am not sure which belonge to which
+#* I have notice there is a difference between Carpentry and Carpentry@UIO workshop but I am not sure which belong to which
 
 ## Workshop participation
 
 |Date|Topic|Venue|Registered_Attendees|Total_Registered*|Show-Up|
 |---|---|---|---|---|---|
-|2021-12-07|SQL|on-site|12|18|10|
-|2021-11-30|Python|on-site|30|73|20|
-|2021-11-22|Data Carpentry SSH|on-site|28|35|20/13|
-|2021-11-03|GitHub|on-site|12|15|4|
+|2022-09-20|R TidyVerse|on-site| | |20|
+|2022-09-28|Python|on-site| | |20|
+|2022-11-24|Data Carpentry SSH|on-site| | |14/16|
+
 |2021-05-25|R Tidyverse|online|21|56|NA|
 |2021-03-02|Python|online|52|124|NA|
 
