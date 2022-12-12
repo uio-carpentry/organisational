@@ -52,8 +52,6 @@ date: "2022-12-09"
 
 ## Workshop participation
 
-#* Comment Elisa : in the excel sheet there is no spring 2022
-
 |Date|Topic|Venue|Registered_Attendees|Total_Registered*|Show-Up|
 |---|---|---|---|---|---|
 |2022-04|R Analysis and Visualization|on-site| | |NA|
@@ -63,8 +61,6 @@ date: "2022-12-09"
 |2022-10-13|Version Control with Git|on-site| | |17|
 |2022-11-22|R for Reproducible Scientific Analysis|on-site| | |19|
 |2022-11-24|Data Carpentry SSH|on-site| | |14/16|
-
-
 
 
 ## Workshop evaluation
