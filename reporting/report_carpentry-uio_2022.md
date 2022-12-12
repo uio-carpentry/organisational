@@ -48,11 +48,11 @@ date: "2022-12-09"
 * Three 2-day Carpentry workshop (R, Tidyverse, R-Tydiverse)
 * Three 1-day Carpentry workshops (R, Unix Shell and SQL)
 
-#* Comment: I have notice there is a difference between Carpentry and Carpentry@UIO workshop but I am not sure which belong to which
+#* Comment Elisa: I have notice there is a difference between Carpentry and Carpentry@UIO workshop but I am not sure which belong to which
 
 ## Workshop participation
 
-#* Comment: in the excel sheet there is no spring 2022
+#* Comment Elisa : in the excel sheet there is no spring 2022
 
 |Date|Topic|Venue|Registered_Attendees|Total_Registered*|Show-Up|
 |---|---|---|---|---|---|
@@ -81,8 +81,6 @@ General themes of all modes of feedback that we received during and after worksh
 
 * learners request (more) advanced workshops for the same tools, especially R and Python
 * learners request more frequent workshops
-* learners request workshop for other tools, like Matlab, SPSS, etc.
-* learners request either online - or on-site workshops
 * learners request more a workshop on Ggplot2 package in R 
 
 ### Appreciation
@@ -136,10 +134,11 @@ The Board can be contacted via Board @ carpentry dot uio dot no. The Board had f
 
 ### GitHub, Communication
 
-### TO DO FOR 2023 
-- Reaorganize the structure of R courses such as "Data Carpentry: Social Sciences and Humanities Using R". (Spreadsheet?, Open refine?) SHould we divided the course in two? 
-- A common pattern across year is that a part of the partecipant that register do not come or de-register the day before the workshop making difficult to let people on the waiting list to be able to partecipate. Should we open the courses for a number > than the actual capacity? 
-- Course informations need to be made more visible for the participants in the site and sending an e-mail with set-up instruction in advance
-- When sending Post-workshop survey send also link to DSC newsletter 
-- Need more control over the instructors, some feedback were partcularly negative towards soem of the instructors. It could help to have more cordinations between co-instructors, 
+### TO DO FOR 2023 NOTES
+- Reorganize the structure of R courses such as "Data Carpentry: Social Sciences and Humanities Using R". (Spreadsheet?, Open refine?) Should we divide the course in two? 
+- A common pattern across year is that a part of the participant that register only comes or de-register the day before the workshop, making it difficult to let people on the waiting list to be able to participate. Should we open the courses for a number > than the actual capacity? 
+- Course information needs to be made more visible for the participants in the site and sending an e-mail with set-up instructions in advance
+- When sending the Post-workshop survey send also link to DSC newsletter 
+- Need more control over the instructors; some feedback was particularly negative towards soem of the instructors. It could help to have more coordination between co-instructors, 
+ 
 
