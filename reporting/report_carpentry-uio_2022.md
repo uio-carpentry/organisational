@@ -48,18 +48,23 @@ date: "2022-12-09"
 * Three 2-day Carpentry workshop (R, Tidyverse, R-Tydiverse)
 * Three 1-day Carpentry workshops (R, Unix Shell and SQL)
 
-#* I have notice there is a difference between Carpentry and Carpentry@UIO workshop but I am not sure which belong to which
+#* Comment: I have notice there is a difference between Carpentry and Carpentry@UIO workshop but I am not sure which belong to which
 
 ## Workshop participation
 
+#* Comment: in the excel sheet there is no spring 2022
+
 |Date|Topic|Venue|Registered_Attendees|Total_Registered*|Show-Up|
 |---|---|---|---|---|---|
+|2022-04|R Analysis and Visualization|on-site| | |NA|
+|2022-04|Databases and SQL|on-site| | |NA|
 |2022-09-20|R TidyVerse|on-site| | |20|
 |2022-09-28|Python|on-site| | |20|
+|2022-10-13|Version Control with Git|on-site| | |17|
+|2022-11-22|R for Reproducible Scientific Analysis|on-site| | |19|
 |2022-11-24|Data Carpentry SSH|on-site| | |14/16|
 
-|2021-05-25|R Tidyverse|online|21|56|NA|
-|2021-03-02|Python|online|52|124|NA|
+
 
 
 ## Workshop evaluation
