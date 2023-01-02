@@ -23,7 +23,7 @@ Prerequisites:
 
 \
 **2. Answer the call/ reach out** 
-* Several times per semester, we send out calls to , reply to the call if you are interested. 
+* Several times per semester, we send out calls to the community, reply to the call if you are interested. 
 * You can also contact the local or regional coordinator and propose a workshop by sending an email to Carp Admin. 
 
 \
