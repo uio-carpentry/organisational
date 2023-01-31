@@ -1,0 +1,7 @@
+## Carpentries study group timeline:
+
+1. How to open a Carpentries-workshop - Annika (14. Feb)
+2. Etherpad-workshop - Kyrre (28. Feb)
+3. Motivation and Demotivation - Annika (25. April)
+4. Data Carpentry for Social Sciences: Framing the data - Annika (23. Mai)
+5. Discussion of Reveal.js after learning its basics as homework(!) - Anyone (6. June)
