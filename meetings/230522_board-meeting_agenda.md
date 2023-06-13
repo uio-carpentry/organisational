@@ -30,6 +30,7 @@
   - Karl Farrugia	UiO/Humanities	Annika	2023/24	SQL, Python
   - Elisa Pierfederici	UB/DSC	Matthew	2023/24	R
   - Anne Sæbø	UB/HumSam	Annika	2023/24	Zotero, perhaps Python
+  - Serena Norlemann Baldari UB/TF/HumSam Annika 2023/24 Unix Shell, Python
 - Action Point: nominations from other Board members
 
 ## Item 5: Broaden Scope Instructor Training
