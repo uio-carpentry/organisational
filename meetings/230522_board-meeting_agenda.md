@@ -1,6 +1,6 @@
 # Agenda Carpentry@UiO Board Meeting
 
-June 2023?
+2023-06-23
 
 ## Item 1: Roles
 
