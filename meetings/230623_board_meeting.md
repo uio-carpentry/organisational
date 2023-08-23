@@ -13,7 +13,7 @@ Participants: board members (AR on leave), carpadmin/DSC; minutes: MA/DT
 
 **Notes**
 - The board discussed the distribution of roles in the board and emphasised that the role of the carpadmin at the library should be more defined.
-- The board discuss the importance of Ssharing information in the board and between the board and carpadmin at the library is important.
+- The board discuss the importance of sharing information in the board and between the board and carpadmin at the library is important.
 - The board decided to have a meeting every second month, see item 9.
 - The board discussed the role of theto add a new position at the board, as communication officer, an extra member may also be useful for organising carpetryCon (see item 3).
 - The board suggested decided to add an annual schedule of events happing all every year to the GitHub (an "årshjul")
@@ -118,6 +118,6 @@ Participants: board members (AR on leave), carpadmin/DSC; minutes: MA/DT
 - call for nominations to be written and sent out!
 
 **Notes**
-- Amendments How to proceed and potential amendments to the charter will be proposed on board meeting on 24 Aug.
+- How to proceed and potential amendments to the charter will be proposed on board meeting on 24 Aug.
 - The two positions that will be in this year election are current chair and communications officer
 - the strategic plane will be discussed between the chair of the board and the library
