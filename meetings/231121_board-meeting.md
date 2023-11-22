@@ -2,12 +2,23 @@
 
 13:00-14:00 
 
-Attending: 
+Attending: Lex Nederbragt , Sofie Gilbert , Matthew Good , Mohamed Abdelhalim , Anne Bergsaker 
 
 * board:
 * carpadmin/DSC:
 
 Minutes:
+
+# Election 2024
+
+- Several candidates show interest in joining the board for the next year 
+- Sofie will contact these candidates to attend the election meeting on December 7th
+- The  board approved the charter for the next election 
+-  Sofie will leave her position at the library in two weeks, and Matthew will work with library management to find a replacement 
+- Sofie will update the GitHub for Carpentry@UiO with this year's workshop 
+- Matthew and Sofie are working on the annual report Carpentry@UiO 
+- During the next meeting  on December 7th, the planning for the Spring 2024 workshops might be organized 
+
 
 # **Agenda points and notes**
 
