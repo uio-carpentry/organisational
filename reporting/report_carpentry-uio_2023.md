@@ -45,6 +45,7 @@ date: "2023-11-27"
 
 ##### Workshop types
 
+* A total of 13 workshops
 * Three 2-day Carpentry workshop (R, Tidyverse, R-Tydiverse)
 * Three 1-day Carpentry workshops (R, Unix Shell and SQL)
 
@@ -54,12 +55,12 @@ date: "2023-11-27"
 
 |Date|Topic|Venue|Registered_Attendees|Total_Registered*|Show-Up|
 |---|---|---|---|---|---|
-|2022-04|R Analysis and Visualization|on-site| | |NA|
-|2022-04|Databases and SQL|on-site| | |NA|
-|2022-09-20|R TidyVerse|on-site| | |20|
-|2022-09-28|Python|on-site| | |20|
-|2022-10-13|Version Control with Git|on-site| | |17|
-|2022-11-22|R for Reproducible Scientific Analysis|on-site| | |19|
+|2023-03-08|Plotting and Programming with Python (Gapminder)|on-site| | |NA|
+|2023-03-14|Data Carpentry: Social Sciences and Humanities Using R|on-site| | |NA|
+|2023-03-21|The Unix shell: tips and tricks to make your life easier|on-site| | |20|
+|2023-04-24|R for Reproducible Scientific Analysis|on-site| | |20|
+|2023-05-03|Introduction to Geospatial Raster and Vector Data with R|on-site| | |17|
+|2023-05-09|UNIX Shell|on-site| | |19|
 |2022-11-24|Data Carpentry SSH|on-site| | |14/16|
 
 
