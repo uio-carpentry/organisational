@@ -156,4 +156,3 @@ Two new roles have been established this year.
 
 * Continue to send a post-workshop email to registered participants immediately after the workshop, including the post-workshop survey link. 	
 
- 
