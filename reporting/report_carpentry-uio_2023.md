@@ -1,140 +1,159 @@
 ---
+
 title: "Carpentry@UiO 2023 Annual Report"
+
 date: "2023-11-27"
+
 ---
 
 # Carpentry@UiO 2023 Annual Report
 
-*Report written by Elisa Pierfederici, Sofie Gilbert and Annika Rockenberger (University of Oslo library)*
-
-## Learner Feedback and Continuous Evaluation
-### Carpentries survey
-
-
-#### **Major strength**
-
-
-#### **What to be improved**
-
-
-#### **How instructors and helpers affected learning experiences**
-
-
-### Survey in future
-
+*Report written by Elisa Pierfederici, Sofie Gilbert and Matthew Good (University of Oslo library)*
 
 ## Workshops held 
 
-#### Two-day Data Carpentry Workshop
+* A total of 11 workshops
 
-* November [Data Carpentry: Social Sciences and Humanities Using R](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/221124_dcssh) - on-site
-* September [TidyVerse](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/220920_tidy) - on-site
-* April [Carpentry@UiO: Data Analysis and Visualization in R and Tidyverse (Novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/220411_r) - on-site
+* Three 2-day Carpentry workshops (R, Tidyverse, R-Tidyverse)
 
-#### One-day Carpentry Workshop
+* Six 1-day Carpentry workshops (R, Unix Shell, Git and SQL)
 
-* November [Data Carpentry: R for Social Scientist](https://preview.carpentries.org/r-socialsci/) - on-site
-* October [Unix Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/221013_shell) - on-site
-* April [Using Databases and SQL](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/220406_sql) - on-site
+* All workshop were held in-person
 
-#### In numbers
+|Date|Topic|Mode|Registered_Attendees|
 
-##### Workshop modes
-
-* All workshop were done in-person
-
-##### Workshop types
-
-* A total of 13 workshops
-* Three 2-day Carpentry workshop (R, Tidyverse, R-Tydiverse)
-* Three 1-day Carpentry workshops (R, Unix Shell and SQL)
-
-#* Comment Elisa: I have notice there is a difference between Carpentry and Carpentry@UIO workshop but I am not sure which belong to which
-
-## Workshop participation
-
-|Date|Topic|Venue|Registered_Attendees|Total_Registered*|Show-Up|
 |---|---|---|---|---|---|
-|2023-03-08|Plotting and Programming with Python (Gapminder)|on-site| | |NA|
-|2023-03-14|Data Carpentry: Social Sciences and Humanities Using R|on-site| | |NA|
-|2023-03-21|The Unix shell: tips and tricks to make your life easier|on-site| | |20|
-|2023-04-24|R for Reproducible Scientific Analysis|on-site| | |20|
-|2023-05-03|Introduction to Geospatial Raster and Vector Data with R|on-site| | |17|
-|2023-05-09|UNIX Shell|on-site| | |19|
-|2022-11-24|Data Carpentry SSH|on-site| | |14/16|
 
+|2023-03-08|Plotting and Programming with Python (Gapminder)|on-site|30|
 
-## Workshop evaluation
+|2023-03-14|Data Carpentry: Social Sciences and Humanities Using R|on-site|24|
 
-In 2020, the community managers together with the library and the Board decided to stop with sending out post-workshop evaluations. We did this mainly due to "feedback fatigue" which we experienced during 2019 already. Since we are now registering all official Carpentries workshops and official free-standing Carpentries modules with the Carpentries' database AMY, we have access to their pre- and post-workshop surveys.
+|2023-03-21|The Unix shell: tips and tricks to make your life easier|on-site|23|
 
-At the same time, we set a general reflection around workshop evaluations in motion with the wish to re-phrase and shorten workshop feedback forms. This work is still ongoing. Plans are to create a new feedback form in 2022. ? #* *have something been done with this?* 
+|2023-04-24|R for Reproducible Scientific Analysis|on-site|37|
 
-In the meantime, "sticky-note feedback" is occasionally collected at on-site workshops. This is mainly used for workshop de-briefing with instructors and helpers. The transcribed feedback is kept in a secure cloud storage space and can be accessed upon request.
+|2023-05-09|UNIX Shell|on-site|12|
 
-General themes of all modes of feedback that we received during and after workshops are:
+|2023-05-30|Data Carpentry: Social Sciences and Humanities Using R|on-site|24|
 
-### Requests
+|2023-06-08|How to use {targets} for effective workflows in R|on-site|22|
 
-* learners request (more) advanced workshops for the same tools, especially R and Python
-* learners request more frequent workshops
-* learners request more a workshop on Ggplot2 package in R 
+|2023-09-19|Version Control with Git|on-site|11|
 
-### Appreciation
+|2023-10-12|Unix Shell|on-site|16|
 
-* learners appreciate the availability and fast response of helpers
-* learners like the "friendly atmosphere" of Carpentries workshops
-* learners mostly appreciate the slow pace and the focus on participatory live coding
+|2023-11-06|Data Carpentry: Social Sciences and Humanities Using R|on-site|21|
 
-## Social events
+|2023-11-16|R for Reproducible Scientific Analysis|on-site|24|
 
-* An online onboarding session (September) ?
-* Carpentry@UiO community fika (October) ?
-* Carpentry@UiO yule brunch (December)
+**## Workshop evaluation**
 
+**Spring semester: **
 
-## Organisation
+In the Spring semester workshops, participants appreciated the thorough coverage of basics in spreadsheets and R, the friendly atmosphere, and the knowledgeable instructors. The structured, step-by-step approach and the availability of immediate assistance were highlighted as major strengths. The workshops were also commended for their suitable pace and starting from the basics.
 
-### Local Community Coordinator
+However, attendees suggested improvements such as more information on applications, spreading the content over three days for a better pace, higher-level workshops, and more comprehensive material coverage. A pre-session for technical setup and slower pacing in certain sections were also recommended.
 
-The tasks of the local community coordinator were shared by AR and NT (both University of Oslo Library). In practice, this means support in recruiting instructors and helpers for workshops, setting up workshop websites, setting up and managing workshop registration, communication with workshop participants, communication with The Carpentries regarding workshops, maintenance of the UiO-Carpentry websites hosted by UiO/UBO as well as the community website hosted on GitHub, managing mailing lists, communication with the UiO-community via mailing lists, booking rooms and/or setting up virtual rooms, checking in with instructors and helpers before and after workshops.
+Instructors and helpers were praised for their effective problem-solving support and clear explanations, especially for non-intuitive coding aspects. While the workshops were well-received for their beginner-friendly approach, there was a desire for advanced content and better preparatory resources.
 
-The local coordinators established and documented effective routines for most tasks regarding hosting workshops and community-communication.
+**Fall semester workshops:**
 
-### Board
+Participants really liked the hands-on approach and how easy it was to learn different tasks, especially in bash and Python. They appreciated the interactive sessions, the immediate help available, and the encouragement to ask questions.
 
-In March 2020, the UiO-Carpentry Board was successfully constituted. The election took place in February, and four Board Members were elected for a term of 2 years. In addition, the UiO library appointed two Board Members. The Board consists of the following members:
+However, they suggested some improvements: including more advanced topics, making the learning environment more comfortable, adding more challenging tasks, and extending the workshop duration to cover the material more thoroughly, especially for beginners. Overall, the feedback was very positive, with strong support for continuing these courses.
+
+**## Social events**
+
+* CarpentryUiO Community Social Gathering (September 7) 
+
+* Carpentry@UiO end of year party (December)
+
+**## Organisation**
+
+**### Board**
+
+The last Carpentry board election was held in March 2020. Although it was previously established that elections were to take place every two years from that point The election was postponed due to the pandemic. However, an election will be held in December 2023. As of November 2023, the Board consists of the following members:
 
 * **Chair** Lex Nederbragt
-* **Vice-chair** Viviane Girardin
-* **Communication officer** Naoe Tatara (appointed by UiO library)
-* **Secretary** Tobias Busch
+
+* **Vice-chair** Mohamed Abdelhamid 
+
+* **Communications officer** Anne Bergsaker
+
+* **Secretary** Désirée Treichler
+
+* **Community events officer** Elisa Pierfederici
+
+* **Elections officer** TBD
+
 * Annika Rockenberger (appointed by UiO library)
-* Anne Bergsaker
 
-The Board can be contacted via Board @ carpentry dot uio dot no. The Board had four meetings during 2020, minutes for the meetings can be found in (organisational/meetings), "yyddmm_board-meeting.md".
+* Sofie Gilbert (appointed by UiO library)
 
+* Matthew Good (representing DSC)  
 
+The Board can be contacted via Board @ carpentry dot uio dot no. The Board had five meetings during 2023, minutes for the meetings can be found in (organisational/meetings), "yyddmm_board-meeting.md".
+
+### Elections
+
+On December 7, 2023 an election will be held for new Carpentry@UiO leadership at the annual End of Year party. The positions available are: 
+
+Board Members (4 positions)
+
+*Two members for 3-year terms
+
+*Two members for 2-year terms
+
+As we do not elect specific roles during the election, such as the chair or others, the elected members will determine the roles of the board themselves. Therefore, as of the current date (11-27-23) we do not have the newly elected board members' names. 
+
+### New roles 
+
+Two new roles have been established this year.
+
+* **Community events officer:** Organise regular community events, for example once per semester. 
+
+* **Elections officer:** Recruit community members to stand for election, coordinate the election, this role should preferably be held by a board member rotating off the board at the next election. 
+
+ 
 
 ### Website
 
-
 #### Workshop page
+
 * Where: https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/
+
 * Focus: Descriptions of typical lessons covered and format of the workshops.
-* Structure: Having a sub-directory that contains files that are about each workshop (called "arrangement files").
+
+* Structure: Having a sub-directory that contains files that are about each workshop (called "Carpentry").
 
 #### Community page
+
 * Where: https://www.ub.uio.no/english/writing-publishing/dsc/carpentry-uio/index.html
+
 * Focus: Introduction of Carpentry@UiO as a community.
+
 * Structure: Currently a single page under DSC's site. Giving info about who we are, what we are doing, and how to get involved, as well as an explanation of the Carpentries.
 
-### GitHub, Communication
-
 ### TO DO FOR 2024 NOTES
-- Reorganize the structure of R courses such as "Data Carpentry: Social Sciences and Humanities Using R". (Spreadsheet?, Open refine?) Should we divide the course in two? 
-- A common pattern across year is that a part of the participant that register only comes or de-register the day before the workshop, making it difficult to let people on the waiting list to be able to participate. Should we open the courses for a number > than the actual capacity? 
-- Course information needs to be made more visible for the participants in the site and sending an e-mail with set-up instructions in advance
-- When sending the Post-workshop survey send also link to DSC newsletter 
-- Need more control over the instructors; some feedback was particularly negative towards soem of the instructors. It could help to have more coordination between co-instructors, 
+
+* When sending the post-workshop survey send also link to DSC newsletter 
+
+* Continue to open the courses for a number greater than the actual capacity, this helps to prevent low turn-out even when people deregister. 
+
+* When sending out reminder emails (1 week before workshop) add that there is a waitlist, asking people to please deregister if they do not intend on attending, this also helps to prevent low turn-out.
+
+ * Course information needs to be made more visible for the participants in the site and sending an e-mail with set-up instructions in advance
+
+* Make a recurrent social event for the community (once a month) 
+
+* The Board should host information meetings of some form for new Carpentry@UiO members
+
+##### Email Templates (all can be found in the Teams Carpentry@UiO folder):	
+
+* Continue to send a reminder email to registered participants one-week before the workshop. 
+
+* Continue to send a reminder email to registered participants with the pre-workshop survey 2 days before the workshop. 
+
+* Continue to send a post-workshop email to registered participants immediately after the workshop, including the post-workshop survey link. 	
+
  
