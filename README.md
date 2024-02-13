@@ -2,7 +2,7 @@
 
 This folder contains important information for running self organised Carpentries-workshops and similar workshops at UiO.
 
-It contains reports on our activities and serves as an archive for our community and board meetings minutes and related materials. See also our new [Wheel of the year](YearWheel.png).
+It contains reports on our activities and serves as an archive for our community and board meetings minutes and related materials. See also our new [Wheel of the year](board/YearWheel.png).
 
 If you are an instructor or co-instructor for a workshop, please consult the [onboarding checklist](workshop-operations/onboarding-checklist.md)!
 
