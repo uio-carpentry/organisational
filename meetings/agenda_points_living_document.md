@@ -5,5 +5,5 @@ All board members (maybe anyone, actully?) can agenda points below.
 - Fill årshjul with tasks
 - distribute board roles
 - decide on carpetryCon: yes/no?
-- candidates for instructor seats
+- follow-up sessions for instructors in training. New candidates for instructor seats?
 - how to get more advanced-level carpentry courses?
