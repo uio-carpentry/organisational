@@ -3,11 +3,10 @@
 
 ## Meeting minutes
 
-1. Agree who will be taking notes during the meeting
-2. Best practice: Write the minutes in the Carpentry@UiO HackMD team space (e.g. copying [this template](https://hackmd.io/G0oWROxTRtqkwiMcDJ63Nw)), observing [the meeting minutes guidelines](https://github.com/uio-carpentry/organisational/tree/master/meetings#readme)
-4. Give the meeting members sufficient time to review the minutes
-5. Push the minutes to the uio-carpentry/organisational repo (procedure described [here](https://hackmd.io/c/tutorials/%2Fs%2Flink-with-github)), with file name ``meetings/YYMMDD_whosmeeting.md`` -> **Secretary** task for board meetings
-6. [Add a GitHub badge to the notes in HackMD](https://hackmd.io/c/tutorials/%2Fs%2Flink-with-github#Add-GitHub-badge) to link the documents, and push the update.
+1. Agree who will be taking notes during the meeting (not necessarily the secretary)
+2. Best practice: Write the minutes in either directly on github or in a separate shared document with track changes, observing [the meeting minutes guidelines](https://github.com/uio-carpentry/organisational/tree/master/meetings#readme)
+4. Give the meeting members sufficient time to review the minutes and add their changes
+5. Push the minutes to the uio-carpentry/organisational repo, with file name ``meetings/YYMMDD_whosmeeting.md`` -> **Secretary** task for board meetings
 
 ## Issues
 
