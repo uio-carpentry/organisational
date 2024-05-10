@@ -37,4 +37,4 @@ The medical faculty has expressed interest in more R programming courses. The Ca
 The next meeting is scheduled for the 21st of August. The meeting will start at 11 for the board meeting and continue at 12 for the planning meeting for the semester.
 
 Minutes approved by:
-MLB, FB
+MLB, FB, EP 
