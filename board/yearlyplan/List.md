@@ -4,6 +4,7 @@ List:
 - Course evaluation stats (maybe each semester?)
 - Welcome new members (email, zoom meeting) 
 - Get-together during the semester
+- Summer-winter party 
 - Board election (Call for nomination, Election day, Results, Welcome new members) 
 
 Year: 
@@ -21,6 +22,7 @@ Welcome new members
 
 ## June 
 Summer get-together
+Course evaluation stats
 
 ## July 
 
@@ -42,6 +44,8 @@ Meeting of the board
 
 ## December
 Christmas party
+Board election?
+Course evaluation stats
  
 
 
