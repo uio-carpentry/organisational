@@ -1,12 +1,20 @@
-January 
+List: 
+- Mentoring instructors 
+- Meeting of the board
+- Course evaluation stats (maybe each semester?)
+- Welcome new members (email, zoom meeting) 
+- Get-together along the semester 
 
-February 
+Year: 
+## January 
 
-March 
+## February 
 
-April 
+## March 
 
-May
+## April 
+
+## May
 
 ## June 
 Summer get-together
@@ -34,14 +42,4 @@ Board election (open)
 
 
 
-Mentoring instructors 
 
-Meeting of the board
-
-Course evaluation stats (maybe each semester?)
-
-Welcome new members 
-Email
-Zoom meeting
-
-Get-together along the semester 
