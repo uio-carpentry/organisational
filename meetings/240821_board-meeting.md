@@ -7,23 +7,28 @@
 
 ### 1. Code Refinery Workshop
 
-FB Proposed to create ties with Code Refinery group and volunteered to help with workshops. 
+FB Proposed to create ties with the CodeRefinery group and volunteered to help with workshops. 
 
-The workshops include the topics: how to work with code in research, version control, writing good code for maintaining data. It is 6 half days in September from 9:00 to 13:00 each day.
+The workshops include the following topics: 
+* how to work with code in research;
+* version control;
+* writing good code for maintaining data.
+  
+It is 6 half days in September from 9:00 to 13:00 each day ([link](https://coderefinery.github.io/2024-09-10-workshop/)).
 
 MG mentioned Carpentries at UiO has previously had ties with Code Refinery.
 
-DT Suggested we need for 1-2 people to assist. Particularly to help coordinate for logistics (e.g., room, water).
+DT Suggested we need 1-2 people to assist. Particularly to help coordinate for logistics (e.g., room, water).
 
-EP Emphasised on booking rooms due to high demand.
+EP Emphasised booking rooms due to high demand.
 
 DT Suggested to temporarily block rooms on Monday, Wednesday, and Friday for the semester. Then to make rooms available 3 weeks before for others.
 
-EP Volunteered to coordinate the call for instructors.
+EP Volunteered to coordinate the call for instructors and the general organisation of the event (see https://github.com/uio-carpentry/organisational/issues/113)
 
 ### 2. Python Workshop Modifications
 
-FB Discussed the need to modify the Python workshop due to potential upcoming changes in the course from Carpentries. We need to ensure participants can install necessary programs inspite of the lack of admin access.
+FB Discussed the need to modify the Python workshop due to potential upcoming changes in the course from Carpentries. We need to ensure participants can install necessary programs despite the lack of admin access.
 
 ### 3. Yearly plan
 
