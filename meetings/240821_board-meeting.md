@@ -39,7 +39,7 @@ While the change will happen centrally, so it will not require immediate action 
 
 DT Progress on the yearly plan ("List.md") needs updating by each board member for completed tasks. Also, suggested reviewing previous board meetings to ensure task completion.
 
-EP Mentioned that LEM, FB, and NF need to provide their Google account details for drive access.
+EP Mentioned that LEM, FB, and NF need to provide their Google account details for drive access (https://github.com/uio-carpentry/organisational/issues/115).
 
 FB Suggested using GitHub issues to assign tasks and volunteered to organize the list.
 
