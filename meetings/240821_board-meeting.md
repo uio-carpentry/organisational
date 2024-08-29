@@ -33,7 +33,7 @@ FB reported that there is an initiative from the Carpentries to change substanti
 * pip (with venv)
 * [jupyter-lab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
   
-While the change will happen centrally, so it will not require immediate action from us, we might need to get in touch with USIT to discuss the availability of software for users who do not have admin rights.
+While the change will happen centrally, so it will not require immediate action from us, we might need to get in touch with USIT to discuss the availability of software for users who do not have admin rights (https://github.com/uio-carpentry/organisational/issues/114).
 
 ### 3. Yearly plan
 
