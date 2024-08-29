@@ -28,7 +28,12 @@ EP Volunteered to coordinate the call for instructors and the general organisati
 
 ### 2. Python Workshop Modifications
 
-FB Discussed the need to modify the Python workshop due to potential upcoming changes in the course from Carpentries. We need to ensure participants can install necessary programs despite the lack of admin access.
+FB reported that there is an initiative from the Carpentries to change substantially the "setup" aspects of the Python curriculum due to Anaconda's change in terms of service. There is a general desire to move to a more open solution, possibly based on the *conda-forge* channel. Options are being discussed, including 
+* miniconda (or similar, incl. various flavours of mamba)
+* pip (with venv)
+* [jupyter-lab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
+  
+While the change will happen centrally, so it will not require immediate action from us, we might need to get in touch with USIT to discuss the availability of software for users who do not have admin rights.
 
 ### 3. Yearly plan
 
