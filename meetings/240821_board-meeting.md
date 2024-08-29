@@ -46,5 +46,6 @@ FB Suggested using GitHub issues to assign tasks and volunteered to organize the
 ### 4. New Board Meeting Date
 
 EP sent out an email to schedule the next meeting. 15th October 2:00 PM - 3:00 PM.
+This meeting needs, however, to be rescheduled due to overlap with the Python WS (https://github.com/uio-carpentry/organisational/issues/116). 
 
 Minutes approved by:
