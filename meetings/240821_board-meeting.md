@@ -37,7 +37,7 @@ While the change will happen centrally, so it will not require immediate action 
 
 ### 3. Yearly plan
 
-DT Progress on the yearly plan ("List.md") needs updating by each board member for completed tasks. Also, suggested reviewing previous board meetings to ensure task completion.
+DT Progress on the [yearly plan](https://github.com/uio-carpentry/organisational/blob/master/board/yearlyplan/List.md) needs updating by each board member for completed tasks. Also, suggested reviewing previous board meetings to ensure task completion.
 
 EP Mentioned that LEM, FB, and NF need to provide their Google account details for drive access (https://github.com/uio-carpentry/organisational/issues/115).
 
@@ -46,6 +46,7 @@ FB Suggested using GitHub issues to assign tasks and volunteered to organize the
 ### 4. New Board Meeting Date
 
 EP sent out an email to schedule the next meeting. 15th October 2:00 PM - 3:00 PM.
-This meeting needs, however, to be rescheduled due to overlap with the Python WS (https://github.com/uio-carpentry/organisational/issues/116). 
+This meeting needs, however, to be rescheduled due to an overlap with the Python WS (https://github.com/uio-carpentry/organisational/issues/116). 
 
 Minutes approved by:
+FB
