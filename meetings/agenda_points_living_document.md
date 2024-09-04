@@ -2,6 +2,8 @@
 Intention: a place to add notes we should not forget to discuss in upcoming meetings. Dynamic document -- where information will be collected for actual agendas for meetings of the board.
 All board members (maybe anyone, actually?) can add points to the agenda below. 
 
+- The "Follow-up instructor training (how many spots etc)" listed for August on the [years plan](https://github.com/uio-carpentry/organisational/blob/master/board/yearlyplan/List.md) was not addressed at the board meeting. This should be highly prioritised at the next meeting.
+- We should probably also have a better overview of who is currently getting trained.
 - Check årshjul (should now be filled with tasks from everyone)
 - *How to get more advanced-level carpentry courses?*
     - Could these be follow-ups of the basic courses?
