@@ -49,4 +49,4 @@ EP sent out an email to schedule the next meeting. 15th October 2:00 PM - 3:00 P
 This meeting needs, however, to be rescheduled due to an overlap with the Python WS (https://github.com/uio-carpentry/organisational/issues/116). 
 
 Minutes approved by:
-FB, NF
+FB, NF, DT
