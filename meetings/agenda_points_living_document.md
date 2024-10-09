@@ -6,7 +6,8 @@ All board members (maybe anyone, actually?) can add points to the agenda below.
   
 - ### Instructor training spots (10')
     - The "Follow-up instructor training (how many spots etc)" listed for August on the [years plan](https://github.com/uio-carpentry/organisational/blob/master/board/yearlyplan/List.md) was not addressed at the board meeting. This should be highly prioritised at the next meeting.
-    - We should probably also have a better overview of who is currently getting trained.
+    - Carpentries silver Membership, which runs from 01 July 2024 to 30 June 2025 - have used 0 of 5 instructor training seats
+    - We should probably also have a better overview of who is currently getting trained. -> https://docs.google.com/spreadsheets/d/1-ZWKY2Q2gTa3kRfcuniMMdaFyp6VrOz913eqCXDUCq8/edit?gid=1795017706#gid=1795017706
       
 - ### Check årshjul (should now be filled with tasks from everyone, 10')
   
@@ -38,5 +39,6 @@ Longer-term discussion points:
     - discussed already in 2022: we would like to know who is attending our courses, see [221213 board meeting minutes](https://github.com/uio-carpentry/organisational/blob/master/meetings/221213_board_meeting.md)
 - Discuss/fill instructor spots before they "time out" (When is the next deadline? June?)
 - CarpetryCon: reconsider again in 2025
-- Status course credits/teaching certificate (see [221213 board meeting minutes](https://github.com/uio-carpentry/organisational/blob/master/meetings/221213_board_meeting.md), [230623 board meeting minutes](https://github.com/uio-carpentry/organisational/blob/master/meetings/230623_board_meeting.md) 
+- Status course credits/teaching certificate (see [221213 board meeting minutes](https://github.com/uio-carpentry/organisational/blob/master/meetings/221213_board_meeting.md), [230623 board meeting minutes](https://github.com/uio-carpentry/organisational/blob/master/meetings/230623_board_meeting.md)
+- 0 of 2 Centrally-Organised workshop(s). To schedule a workshop, please submit a workshop request form at least 2-3 months before your desired workshop date. Workshop benefits will be forfeited if they are not used before the end of the membership. 
 
