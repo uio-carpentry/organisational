@@ -40,5 +40,6 @@ Longer-term discussion points:
 - Discuss/fill instructor spots before they "time out" (When is the next deadline? June?)
 - CarpetryCon: reconsider again in 2025
 - Status course credits/teaching certificate (see [221213 board meeting minutes](https://github.com/uio-carpentry/organisational/blob/master/meetings/221213_board_meeting.md), [230623 board meeting minutes](https://github.com/uio-carpentry/organisational/blob/master/meetings/230623_board_meeting.md)
-- 0 of 2 Centrally-Organised workshop(s). To schedule a workshop, please submit a workshop request form at least 2-3 months before your desired workshop date. Workshop benefits will be forfeited if they are not used before the end of the membership. 
+- 0 of 2 Centrally-Organised workshop(s). To schedule a workshop, please submit a workshop request form at least 2-3 months before your desired workshop date. Workshop benefits will be forfeited if they are not used before the end of the membership.
+- Re-start Study group with a focus on AI  
 
