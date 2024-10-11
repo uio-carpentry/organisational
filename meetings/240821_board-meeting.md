@@ -1,4 +1,4 @@
-# Board Meeting of 21.08.2024
+# Board Meeting of 11.10.2024
 
 **Chair**: DT  
 **Minutes**: MLB  
