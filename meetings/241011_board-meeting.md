@@ -5,20 +5,23 @@
 
 ## Attendees: FB, RS, DSC/library: EP, MLB
 
-### 1. Update on Code Refinery Workshop and Carpentry courses 
-**CodeRefinery workshop**: held on September 10-12 and 17-19. EP and FB attempted to organize a local group at UiO to follow the course together, but the short notice made it challenging. The event was announced on UiO’s web pages and sent to the main organizer and announcement list, but there were few sign-ups. There were 3 subscribed people, two of whom decided to meet anyway. 
+### 1. Update on Code Refinery Workshop and Carpentry courses
 
-The contact for CodeRefinery at UiO is Sabry Razick from USIT. For future events, we should collaborate with him and start planning earlier.
- 
-**Conda and Docker workshop**: This was the first time running the course. Some parts worked well, but a few slides and figures were hard to see due to the screen size in the room. Overall, it went well.
-Out of 12 registrations, 9-10 attended.
+**CodeRefinery workshop**: held on **September 10-12 and 17-19**. EP and FB attempted to organize a local group at UiO to follow the course together, but the short notice made it challenging. The event was announced on UiO’s web pages and sent to the main organizer and announcement list, but there were **few sign-ups**. There were 3 subscribed people, two of whom decided to meet anyway. 
+
+The contact for CodeRefinery at UiO is **Sabry Razick** from USIT. For future events, we should collaborate with him and *start planning earlier*.
+
+**Conda and Docker workshop**: This was the **first time** running the course. Some parts worked well, but a few slides and figures were hard to see due to the screen size in the room. Overall, it went well.  
+Out of **12 registrations**, 9-10 attended. 🎉
+
+---
 
 ### 2. Instructor training spots
-Carpentry@UiO have the Carpentries silver Membership, which runs from 01 July 2024 to 30 June 2025. We have used 0 of 5 instructor training seats, and therefore we have 5 spots available until June 30 2025 (this date will be put in the YearWheel).
 
-All board members should now have access to the google drive document which shows an overview over instructor-statuses now -> https://docs.google.com/spreadsheets/d/1-ZWKY2Q2gTa3kRfcuniMMdaFyp6VrOz913eqCXDUCq8/edit?gid=1795017706#gid=1795017706
+**Carpentry@UiO** has the Carpentries **Silver Membership**, which runs from *01 July 2024 to 30 June 2025*. We have used **0 of 5** instructor training seats, and therefore we have **5 spots available** until *June 30, 2025* (this date will be put in the YearWheel).
 
-Need start identifying potential instructor candidates for UiO tokens (fast-track Carpentry instructor courses). Arturo was nominated. **Let’s all brainstorm potential candidates so we can allocate the free spots.**
+👉 All board members should now have access to the Google Drive document that shows an overview of instructor statuses:  
+[Instructor Status Overview](https://docs.google.com/spreadsheets/d/1-ZWKY2Q2gTa3kRfcuniMMdaFyp6VrOz913eqCXDUCq8/edit?gid=1795017706#gid=1795017706)
 
 We need to start to find people that can be relevant for instructor-spots, to give the UiO tokens (fast track in the Carpentry instructor courses). We discussed some people that already can be asked locally. AVP or AS from UB for instance? FB and EP asks. Everybody thinks of names now so we can give away the free spots. 
 
