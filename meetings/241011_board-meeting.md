@@ -26,22 +26,22 @@ We need to start to find people that can be relevant for instructor-spots, to gi
 We are going to plot in: 01 July 2024 to 30 June 2025,  instructor spots and duration for Carpentry instructor spots. Some other changes has been made by DT. Most have filled out dates, but feel free to add more and look it over. 
 
 ### 4.Find more instructors
-Most workshop participants are from HF and SV, as other faculties offer basic coding courses.
+**Most workshop participants** are from HF and SV, as other faculties offer basic coding courses.
 
-Susann Andersen, PhD/career adviser at MatNat, is working with DT and believes Carpentries can offer MatNat researchers valuable teaching experience as instructors or helpers.
+**Susann Andersen**, PhD/career adviser at MatNat, is working with DT and believes the Carpentries can offer MatNat researchers valuable teaching experience as **instructors or helpers**.
 
-EP suggests recruiting for intermediate workshops, though this will require extra effort since The Carpentries lacks fully developed intermediate curricula.
+EP suggests recruiting for **intermediate workshops**, though this will require extra effort since The Carpentries lacks fully developed intermediate curricula.
 
-Understanding what motivates people to teach is key. Postdocs, for example, often lack teaching opportunities, and Carpentries can provide this. We should highlight this in our recruitment.
+Understanding what **motivates people to teach** is key. Postdocs, for example, often lack teaching opportunities, and Carpentries can provide this. We should **highlight this as a selling point** in our recruitment efforts.
 
-EP and MLB will prepare a 'call for instructors' for Susann’s bi-weekly newsletter, which does not need board approval.
+**EP and MLB** will prepare a 'call for instructors' for **Susann’s bi-weekly newsletter**, which **does not need board approval**.
 
-The call should include:
-- Short paragraph
-- Link to more info on Carpentry instructor/helper roles
-- Emphasize that PhDs/Postdocs can gain teaching experience and certification
+### The call should include:
+- **Short paragraph**
+- **Link** to more info on Carpentry instructor/helper roles
+- **Emphasize** that PhDs/Postdocs can gain **teaching experience and certification**
 
-MLB and EP will update GitHub and Vortex UiO pages with details about instructor and helper roles.
+MLB and EP will also **update GitHub and Vortex UiO pages** with details about **instructor and helper roles**.
 
 ### 5. Elections
 We need more members of the board, good people.UB and MatNat faculty all that is left of boardmembers. 
