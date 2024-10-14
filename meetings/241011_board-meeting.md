@@ -50,31 +50,42 @@ MLB and EP will also **update GitHub and Vortex UiO pages** with details about *
 
 ---
 ### 5. Elections
-We need more members of the board, good people.UB and MatNat faculty all that is left of boardmembers. 
 
-DT and MA are finished in the board this year. We need everybody to find new people run for the board. 
+We need more **board members** who are excited and have time to contribute.
 
-Its difficult to have follow the Carpentries elections - list, the rules are a bit strict. We changed the tone and the rules to try to reach broader and make it more low-key to join. The board candidates can be independent from UiO, so if you know someone that could be interested thats not fraom UiO thats fine (mind that physical presence can be difficult if they do not live in Oslo).
+**DT and MA** are finishing their terms this year, leaving **two open spots**.
 
-Board candidates suggestions: AW  and AK (already part of the community). EP asks if the want to be listed as board-candidates in the upcoming election. 
+All board members should think of potential candidates. Currently, we have two names: **Andrea** and **Ada** (both already part of the community). 
 
-Christmas lunch: December 2, 12-14 at the DSC Oasen. Elections after christmas lunch. We shouldnt press people to having to be a board member.
- 
-Last year we were few and had four positions to fill. FB and RS was elected. 
+#### Carpentry election rules:
+- Can be more flexible this year.
+- We can send the **call for candidates** not only to the organizer list but also to the **announcement list**, which includes people outside the Carpentry community.
+- We’ve adjusted the tone and rules to make joining the board more approachable.
+- Candidates **don’t need to be from UiO**, though consider the logistics if they don’t live in Oslo.
+- No pressure—**less but motivated people** are always better.
+- We want to be **more inclusive**, so opening it up is a way to **recruit and show who we are**.  EP and MLB will send the call to the announcement list with the tone: "If you feel part of the community."
 
-Now: We want people to know the Carpentry community and what it is all about. Not forcing in general. Less people but with motivation is always better. 
+#### Key dates:
+- **Christmas lunch**: December 2, 12-14 at DSC Oasen.
+- Elections will be held **after the lunch**.
+- Remember: **Don’t pressure people** into becoming board members, as happened last year.
 
-We have to rebuild the community, we just have to work on it. Voluntary work is harder to recruit. 
+**Last year**, we had to fill four positions. **FB** and **RS** were elected. 
 
-New board: Must make it pleasant at meetings! just needs to be organized. more social, just the board. Shold be a power core - that makes postive impact to rest of community. 
+We need to **rebuild the community**, and it requires work. Voluntary work is harder to recruit for, so the **new board must make meetings enjoyable**! It just needs to be organized, and more **social**—just for the board. The board should be a **power core** that has a **positive impact** on the rest of the community.
 
-We are announcing the Christmas lunch and election in same email. We must have all info ready before we send, and have people who want to be part of the board send a mail to board with brief motivation and who they are. EP contact AW and AK, otherwise call to anouncement email. Open for everyone. Until now we have only sent out the elections email to organizers. Come to the christmas party, via announcement!
+We are announcing the **Christmas lunch** and the **election** in the same email. We need to have all the info ready before we send it and have candidates send a brief motivation and introduction to the board email. **EP** will contact **Andrea** and **Ada**. Otherwise, we will send a **call via the announcement list**. Open to everyone—until now, we've only sent the election email to organizers. Encourage everyone to **come to the Christmas party** via the announcement!
 
-We want to be more inclusive, so we open it. Its a way to recruit, and to show who we are. EP and MLB send to announcement. "If you feel as part of the communinity" - tone.
+#### Important steps:
+- Set a **deadline** before the election.
+- Create a **temporary election page** on GitHub or UiO site with a short description of the nominees.
+- **Consent** from nominees if their information is published online, or have them agree via email.
 
-Deadline before election, temporary election page on github with a short description of the nominees. Remember consent from the nominees if information on them is published online or just have them say yes with the same email, to consent to the profile. EP an MLB will work on this.
+EP and MLB will work on this.
 
-Board meeting and social: Monday November 18, meeting late in the afternoon, meet for dinner right after. 
+-**Board meeting and social**:  
+- **Monday, November 18**  
+- **Meeting late afternoon**, followed by **dinner**. DT send an email to the board
 
 Minutes approved by:
 
