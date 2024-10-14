@@ -26,9 +26,16 @@ We need to start to find people that can be relevant for instructor-spots, to gi
 We are going to plot in: 01 July 2024 to 30 June 2025,  instructor spots and duration for Carpentry instructor spots. Some other changes has been made by DT. Most have filled out dates, but feel free to add more and look it over. 
 
 ### 4.Find more instructors
-We need more members of the board, good people. Most of the peolpe coming to our workshops are from HF and SV. UB and MatNat faculty all that is left of boardmembers. 
+Most workshop participants are from HF and SV, as other faculties offer basic coding courses.
 
-SA: PhD/researcher career adviser at the MatNat faculty. Currently works with a project targeted especially for researchers. Notices that they reported much stress. DT also involved in the project. SA got interested in what the Carpentries offers. She is sending newsletters every 2nd week with often useful stuff, and we can put our workshops there, and a call for new instructors. Short sentence - with a link thats all the space we get. Carpadmin are in contact with her about this. EP and MLB wrote a short one, which is in the agenda. We can recruit from there, try to target more advanced and intermediate workshops.
+Susann Andersen, PhD/career adviser at MatNat, is working on a project together with DT. She believes the Carpentries community could benefit MatNat researchers by offering teaching experience as instructors or helpers. 
+EP and MLB will prepare a 'call for instructors' to be sent to Susann for her bi-weekly newsletter.
+
+Call for instructor needs to contain:
+
+- Short paragraph
+- Link to a page with more info on Carpentry instructor/helper roles
+- Highlight that PhDs/Postdocs seeking professorships need teaching experience and can earn a certificate for teaching at Carpentries.
 
 We need people that want to to intermediate workshop, but this requires much work. We need to find out what motivates people to come and teach. Postdoc for instance dont get to teach - Carpentry can make this possible, so we need to find a good way to use this as a selling point in the promotion/recruitment. 
 
@@ -36,6 +43,8 @@ EP and MLB will work on this and send directly to SA every second week since we 
 "Want to teach? Join the carpentry community! - send something like this to SA and include in the newsletter. MLB and EP will also update the GitHub and vortex UiO page to fit more with what we discussed and send to board for insights.
 
 ### 5. Elections
+We need more members of the board, good people.UB and MatNat faculty all that is left of boardmembers. 
+
 DT and MA are finished in the board this year. We need everybody to find new people run for the board. 
 
 Its difficult to have follow the Carpentries elections - list, the rules are a bit strict. We changed the tone and the rules to try to reach broader and make it more low-key to join. The board candidates can be independent from UiO, so if you know someone that could be interested thats not fraom UiO thats fine (mind that physical presence can be difficult if they do not live in Oslo).
