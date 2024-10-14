@@ -28,19 +28,20 @@ We are going to plot in: 01 July 2024 to 30 June 2025,  instructor spots and dur
 ### 4.Find more instructors
 Most workshop participants are from HF and SV, as other faculties offer basic coding courses.
 
-Susann Andersen, PhD/career adviser at MatNat, is working on a project together with DT. She believes the Carpentries community could benefit MatNat researchers by offering teaching experience as instructors or helpers. 
-EP and MLB will prepare a 'call for instructors' to be sent to Susann for her bi-weekly newsletter.
+Susann Andersen, PhD/career adviser at MatNat, is working with DT and believes Carpentries can offer MatNat researchers valuable teaching experience as instructors or helpers.
 
-Call for instructor needs to contain:
+EP suggests recruiting for intermediate workshops, though this will require extra effort since The Carpentries lacks fully developed intermediate curricula.
 
+Understanding what motivates people to teach is key. Postdocs, for example, often lack teaching opportunities, and Carpentries can provide this. We should highlight this in our recruitment.
+
+EP and MLB will prepare a 'call for instructors' for Susann’s bi-weekly newsletter, which does not need board approval.
+
+The call should include:
 - Short paragraph
-- Link to a page with more info on Carpentry instructor/helper roles
-- Highlight that PhDs/Postdocs seeking professorships need teaching experience and can earn a certificate for teaching at Carpentries.
+- Link to more info on Carpentry instructor/helper roles
+- Emphasize that PhDs/Postdocs can gain teaching experience and certification
 
-We need people that want to to intermediate workshop, but this requires much work. We need to find out what motivates people to come and teach. Postdoc for instance dont get to teach - Carpentry can make this possible, so we need to find a good way to use this as a selling point in the promotion/recruitment. 
-
-EP and MLB will work on this and send directly to SA every second week since we agreed that we do not need to send it to board for appproval first. 
-"Want to teach? Join the carpentry community! - send something like this to SA and include in the newsletter. MLB and EP will also update the GitHub and vortex UiO page to fit more with what we discussed and send to board for insights.
+MLB and EP will update GitHub and Vortex UiO pages with details about instructor and helper roles.
 
 ### 5. Elections
 We need more members of the board, good people.UB and MatNat faculty all that is left of boardmembers. 
