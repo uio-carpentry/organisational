@@ -6,9 +6,10 @@
 ## Attendees: FB, RS, DSC/library: EP, MLB
 
 ### 1. Update on Code Refinery Workshop and Carpentry courses 
-Coderefinery was September 10 - 12 and 17-19. This was organised on a very short notice by EP and FB. The event was announced on UiOs web pages and registered to main organizer, but very few subscribed. On a better note; we now have a new contact from Coderefinery UiO,so that we can plan better next time! Sabry from USIT is the contact. We have to collaborate next time. Sabry was eager, next time he can be asked to help if we organize but much earlier.
-3 subscribed, then 2 after the form closed. Senior engineers, and they worked together. 
+The CodeRefinery workshop was held on September 10-12 and 17-19. EP and FB attempted to organize a local group at UiO to follow the course together, but the short notice made it challenging. The event was announced on UiO’s web pages and sent to the main organizer and announcement list, but there were few sign-ups. There were 3 subscribed people, two of whom decided to meet anyway. 
 
+The contact for CodeRefinery at UiO is Sabry Razick from USIT. For future events, we should collaborate with him and start planning earlier.
+ 
 Conda and Docker: First time running. Some parts were better than others, but overall good. Some slides not good, some too small figures etc. not so popular.
 12 subscribed, 9-10 in attendence, which is decent.
 
