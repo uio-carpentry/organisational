@@ -6,67 +6,26 @@
 ## Attendees: FB, RS, DSC/library: EP, MLB
 
 ### 1. Update on Code Refinery Workshop and Carpentry courses 
-There was the coderefinery September 10 - 12 and 17-19 -tried organised on a very short notice by EP and FB. The event was announced on UiOs web pages and registered to main organizer, but very few subscribed. On a better note; we now have a new contact from Coderefinery UiO,so that we can plan better next time! Sabry from USIT is the contact. We have to collaborate next time. Sabrye was eager, next time he can be asked to help if we organize but much earlier!
+Coderefinery was September 10 - 12 and 17-19. This was organised on a very short notice by EP and FB. The event was announced on UiOs web pages and registered to main organizer, but very few subscribed. On a better note; we now have a new contact from Coderefinery UiO,so that we can plan better next time! Sabry from USIT is the contact. We have to collaborate next time. Sabry was eager, next time he can be asked to help if we organize but much earlier.
 3 subscribed, then 2 after the form closed. Senior engineers, and they worked together. 
 
 Conda and Docker
-Some parts were better than others, but overall good. Some slides not good, some too small figures etc. not so popular.
-12 subscribe, 9-10 in attendence, which is decent.
+First time running. Some parts were better than others, but overall good. Some slides not good, some too small figures etc. not so popular.
+12 subscribed, 9-10 in attendence, which is decent.
 
 ### 2. Instructor training spots
- - The "Follow-up instructor training (how many spots etc)" listed for August on the [years plan](https://github.com/uio-carpentry/organisational/blob/master/board/yearlyplan/List.md) was not addressed at the board meeting. This should be highly prioritised at the next meeting.
-    - Carpentries silver Membership, which runs from 01 July 2024 to 30 June 2025 - have used 0 of 5 instructor training seats
-    - We should probably also have a better overview of who is currently getting trained. -> https://docs.google.com/spreadsheets/d/1-ZWKY2Q2gTa3kRfcuniMMdaFyp6VrOz913eqCXDUCq8/edit?gid=1795017706#gid=1795017706
-    - 
-we finally got the document from carpentry that says how many spots; we have 5 spots until 30th june 2025.
-put the date in the year wheel.
-All shold have access to drive; carpentry drive. problems adding luis? UiO email, username.
-everybody else have access.
-document on instructor-status.
-UiO token, fast track in the carpentry instructor courses.
-start to find new people that can be relevant for instructor-spots, to give the tokens. 
-Arturo for instance? yes. 
-Anne Sæbø? Elisa asks.
-Federico Aurora? Dont think so.
-stricter before to take the carpentry, a little easier now.
-everybody thinks of names now - give away spots. Arturo is super, can be contacted rigth now if he is interested.   
+Carpentry@UiO have the Carpentries silver Membership, which runs from 01 July 2024 to 30 June 2025. We have used 0 of 5 instructor training seats, and therefore we have 5 spots available until June 30 2025 (this date will be put in the YearWheel).
+All board members should now have access to the google drive document which shows an overview over instructor-statuses now -> https://docs.google.com/spreadsheets/d/1-ZWKY2Q2gTa3kRfcuniMMdaFyp6VrOz913eqCXDUCq8/edit?gid=1795017706#gid=1795017706
+We need to start to find people that can be relevant for instructor-spots, to give the UiO tokens (fast track in the Carpentry instructor courses). We discussed some people that already can be asked locally. AVP or AS from UB for instance? FB and EP asks. Everybody thinks of names now so we can give away the free spots. 
 
 ### 3.Updates on the Yearwheel 
 Put in: end of june instructors carpentry. Some changes made by DT. Most have filled out dates, but feel free to add more and look it over. 
 
-### 4.Find more instructors/*How to get more advanced-level carpentry courses?*
-    - Call for new instructors: flyer made by DSC staff
-    - Discussion with SA from MatNat, August 2024: how to advertise our community and events at the MN faculty. SA sends out a newsletter every second week and would be happy to spread news from us
-    - The MN newsletter could be a good place to send out a call for (new) instructors for advanced courses better catering MN people. Suggestion: write a little text and make a dedicated page with more info, or at least add 1-2 lines on our carpentry@uio landing page that we’re interested in advanced-topic courses. Sending out in ~November and maybe again early January would be great for course planning next semester.
-         - Draft by EP: "*Join the Carpentry Community at UiO!*
-           Carpentry@UiO is part of The Carpentries, a global, inclusive community teaching essential coding and data science skills through Data Carpentry, Library Carpentry, and Software Carpentry. We are actively looking for instructors to teach across these areas or help develop new lessons. Helpers are also needed to assist instructors during workshops. Active instructors also have the opportunity to follow a course to become certified Carpentry instructors. If you're interested in becoming an instructor, helper, or simply joining our community, click here or contact us for more information. 
-    - Notes added here earlier:
-        - Advanced-level courses: Could these be follow-ups of the basic courses?
-        - Somebody (was it Lex on Slack? I am not sure, I cannot find the original message) pointed out to the machine learning courses offered by USIT (e.g. [this](https://www.uio.no/tjenester/it/kurs/alle/dht/ml-python/events/2024-05-ml-python-intro.html)) and indicated that not having carpentry workshops on such topics would considerably hinder our visibility and relevance. Any thoughts?
-        
-need more members of the board, good people.
-the peolpe coming to course are HF and SV.
-libarayr matnat faculty all that is left of members.
-Susan: PhD/researcher career adviser at the faculty. project, targeted especially for researchers. notices that they reported much stress. 
-new thing now. desire involved in the project, and Susan is in this. she got interested in carpentry. mutual benefit. sending newsletters every 2nd week.
-often useful stuff, we can put our courses there, and a call for new instructors. short sentence - with a link thats all the space we get.
-carpadmin are in contact with her about this. we wrote a short one, which is in the agenda.
-super condenced very small text with a link. we can recruit from there, try to targt more advanced courses. intermediate courses.
-more package oriented workshops? more useful maybe? spacial python workshop? much work.
-we need peolple that want to to intermediate workshop (much work).
-what motivates people to come and teach? try to find this. postdoc dont get to teach - carpentry can do this possible!
-want to teach? join the carpentry community! - to Susan.
-people dont know what carpentry is; join us! - how and what?
-softwary data - carpentry help maybe? want to teach - explaining at the bottom. landing page update? it is updated.
-small paragraph about the teaching experience. clarify dint use their teaching hours on us phds.
-make a certificate? that is possible. you can get a certificate, try so sell this in in spite of no studypoints.
-there is one by carpentry, not formal.
-try to make better email text - EP is on this. circulate with board? or just send out. every 2nd week to Susan.
-checking the githu page? fitting to what the email text is saying. 
-we have a join us now, they contact, we give them information. not functioning very well? write more about the
-reaching out, attract people. still people dont click.. difficult, but we try. 
-courses are superpopular, but we lack community. 
-MLB and EP tru fix the page.send to the board for insigths.
+### 4.Find more instructors
+We need more members of the board, good people. Most of the peolpe coming to our workshops are from HF and SV. UB and MatNat faculty all that is left of boardmembers. SA: PhD/researcher career adviser at the faculty. Currently works with a project targeted especially for researchers. Notices that they reported much stress. DT also involved in the project. SA got interested in what the Carpentries offers. She is sending newsletters every 2nd week with often useful stuff, and we can put our workshops there, and a call for new instructors. Short sentence - with a link thats all the space we get. Carpadmin are in contact with her about this. We wrote a short one, which is in the agenda. We can recruit from there, try to target more advanced and intermediate workshops.
+We need people that want to to intermediate workshop, but this requires much work. We need to find out what motivates people to come and teach. Postdoc for instance dont get to teach - Carpentry can make this possible, so we need to find a good way to use this as a selling point in the promotion/recruitment. EP and MLB will work on this and send directly to SA every second week since we agreed that we do not need to send it to board for appproval first. 
+"Want to teach? Join the carpentry community! - send something like this to SA and include in the newsletter.
+MLB and EP will also update the GitHub and vortex UiO page to fit more with what we discussed and send to board for insights.
 
 ### 5. Elections
 - EP: "the rules for eligibility and vote at the election look a bit too strict to me, would like to discuss this"
