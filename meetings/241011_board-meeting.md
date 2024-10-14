@@ -23,10 +23,12 @@ Out of **12 registrations**, 9-10 attended. 🎉
 👉 All board members should now have access to the Google Drive document that shows an overview of instructor statuses:  
 [Instructor Status Overview](https://docs.google.com/spreadsheets/d/1-ZWKY2Q2gTa3kRfcuniMMdaFyp6VrOz913eqCXDUCq8/edit?gid=1795017706#gid=1795017706)
 
-We need to start to find people that can be relevant for instructor-spots, to give the UiO tokens (fast track in the Carpentry instructor courses). We discussed some people that already can be asked locally. AVP or AS from UB for instance? FB and EP asks. Everybody thinks of names now so we can give away the free spots. 
+---
 
 ### 3.Updates on the Yearwheel 
 We are going to plot in: 01 July 2024 to 30 June 2025,  instructor spots and duration for Carpentry instructor spots. Some other changes has been made by DT. Most have filled out dates, but feel free to add more and look it over. 
+
+---
 
 ### 4.Find more instructors
 **Most workshop participants** are from HF and SV, as other faculties offer basic coding courses.
@@ -46,6 +48,7 @@ Understanding what **motivates people to teach** is key. Postdocs, for example, 
 
 MLB and EP will also **update GitHub and Vortex UiO pages** with details about **instructor and helper roles**.
 
+---
 ### 5. Elections
 We need more members of the board, good people.UB and MatNat faculty all that is left of boardmembers. 
 
