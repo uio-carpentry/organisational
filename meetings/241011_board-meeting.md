@@ -10,8 +10,8 @@ The CodeRefinery workshop was held on September 10-12 and 17-19. EP and FB attem
 
 The contact for CodeRefinery at UiO is Sabry Razick from USIT. For future events, we should collaborate with him and start planning earlier.
  
-Conda and Docker: First time running. Some parts were better than others, but overall good. Some slides not good, some too small figures etc. not so popular.
-12 subscribed, 9-10 in attendence, which is decent.
+**Conda and Docker workshop**: This was the first time running the course. Some parts worked well, but a few slides and figures were hard to see due to the screen size in the room. Overall, it went well.
+Out of 12 registrations, 9-10 attended.
 
 ### 2. Instructor training spots
 Carpentry@UiO have the Carpentries silver Membership, which runs from 01 July 2024 to 30 June 2025. We have used 0 of 5 instructor training seats, and therefore we have 5 spots available until June 30 2025 (this date will be put in the YearWheel).
