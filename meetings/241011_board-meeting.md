@@ -18,6 +18,8 @@ Carpentry@UiO have the Carpentries silver Membership, which runs from 01 July 20
 
 All board members should now have access to the google drive document which shows an overview over instructor-statuses now -> https://docs.google.com/spreadsheets/d/1-ZWKY2Q2gTa3kRfcuniMMdaFyp6VrOz913eqCXDUCq8/edit?gid=1795017706#gid=1795017706
 
+Need start identifying potential instructor candidates for UiO tokens (fast-track Carpentry instructor courses). Arturo was nominated. **Let’s all brainstorm potential candidates so we can allocate the free spots.**
+
 We need to start to find people that can be relevant for instructor-spots, to give the UiO tokens (fast track in the Carpentry instructor courses). We discussed some people that already can be asked locally. AVP or AS from UB for instance? FB and EP asks. Everybody thinks of names now so we can give away the free spots. 
 
 ### 3.Updates on the Yearwheel 
