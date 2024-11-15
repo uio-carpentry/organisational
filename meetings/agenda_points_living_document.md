@@ -25,7 +25,7 @@ All board members (maybe anyone, actually?) can add points to the agenda below.
     - discussed already in 2022: we would like to know who is attending our courses, see [221213 board meeting minutes](https://github.com/uio-carpentry/organisational/blob/master/meetings/221213_board_meeting.md)
 
 - ### Varia (5')
-  
+* We agreed last time on a candidate for the instructor training. Shall we follow up on that to try to expedite the process?
 
 ## Longer-term discussion points:
 - fill instructor spots before they "time out" (June) [-> candidates (accessible for board only)](https://docs.google.com/spreadsheets/d/1-ZWKY2Q2gTa3kRfcuniMMdaFyp6VrOz913eqCXDUCq8/edit?gid=1795017706#gid=1795017706)
