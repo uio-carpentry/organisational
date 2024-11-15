@@ -9,7 +9,7 @@
 
 **CodeRefinery workshop**: held on **September 10-12 and 17-19**. EP and FB attempted to organize a local group at UiO to follow the course together, but the short notice made it challenging. The event was announced on UiO’s web pages and sent to the main organizer and announcement list, but there were **few sign-ups**. There were 3 subscribed people, two of whom decided to meet anyway. 
 
-The contact for CodeRefinery at UiO is **Sabry Razick** from USIT. For future events, we should collaborate with him and *start planning earlier*.
+The contact for CodeRefinery at UiO is **Sabry Razick** from USIT. For future events, we should collaborate with him and *start planning earlier*. FB intend to engage further with CodeRefinery in the future (as time allows).
 
 **Conda and Docker workshop**: This was the **first time** running the course. Some parts worked well, but a few slides and figures were hard to see due to the screen size in the room. Overall, it went well.  
 Out of **12 registrations**, 9-10 attended. 🎉
