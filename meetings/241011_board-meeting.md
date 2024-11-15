@@ -87,5 +87,6 @@ EP and MLB will work on this.
 - **Meeting late afternoon**, followed by **dinner**. DT send an email to the board.
 
 Minutes approved by:
-DT, 15.10.2024
+* DT, 15.10.2024
+* FB, 15.11.2024 
 
