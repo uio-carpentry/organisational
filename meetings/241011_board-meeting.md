@@ -88,5 +88,6 @@ EP and MLB will work on this.
 
 Minutes approved by:
 * DT, 15.10.2024
-* FB, 15.11.2024 
+* FB, 15.11.2024
+* NF, 18.11.2024
 
