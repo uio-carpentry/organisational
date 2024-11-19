@@ -2,32 +2,10 @@
 Intention: a place to add notes we should not forget to discuss in upcoming meetings. Dynamic document -- where information will be collected for actual agendas for meetings of the board.
 All board members (maybe anyone, actually?) can add points to the agenda below. 
 
-## Suggested agenda for November 2024 board meeting 
-
-- ### Update on Carpentry courses and CodeRefinery (5')
-
-- ### Status elections (15')
-    - candidates?
-    - practical: deadlines, format etc
-    - point raised via email: are 2-3 years too long as an elected period? 
-      Election rules and board composition last changed a year ago ([230824](https://github.com/uio-carpentry/organisational/blob/master/meetings/230824_board_meeting.md) and [230918 minutes](https://github.com/uio-carpentry/organisational/blob/master/meetings/230918_board-meeting.md)), changes need an official request with new charter text and majority vote on a board meeting
-    - Timeline in October meeting minutes [here](https://github.com/uio-carpentry/organisational/blob/master/meetings/241011_board-meeting.md)
-
-- ### Plan Christmas gathering (10')
-    - See notes in previous meeting minutes [here](https://github.com/uio-carpentry/organisational/blob/master/meetings/241011_board-meeting.md)
-
-- ### Status on find-more-instructors advertising stunt / How to get more advanced-level carpentry courses? (15')
-    - status ad on MN newsletter
-    - GitHub and Vortex UiO pages updated?
-
-- ### if we have spare time (10')
-  - Add data collection consent to course sign-ups
-    - discussed already in 2022: we would like to know who is attending our courses, see [221213 board meeting minutes](https://github.com/uio-carpentry/organisational/blob/master/meetings/221213_board_meeting.md)
-
-- ### Varia (5')
-* We agreed last time on a candidate for the instructor training. Shall we follow up on that to try to expedite the process?
 
 ## Longer-term discussion points:
+- Add data collection consent to course sign-ups
+    - discussed already in 2022: we would like to know who is attending our courses, see [221213 board meeting minutes](https://github.com/uio-carpentry/organisational/blob/master/meetings/221213_board_meeting.md)
 - fill instructor spots before they "time out" (June) [-> candidates (accessible for board only)](https://docs.google.com/spreadsheets/d/1-ZWKY2Q2gTa3kRfcuniMMdaFyp6VrOz913eqCXDUCq8/edit?gid=1795017706#gid=1795017706)
 - finding more instructors, notes added here earlier:
         1.) Advanced-level courses: Could these be follow-ups of the basic courses?
