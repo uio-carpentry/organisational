@@ -22,7 +22,7 @@ FB is interested to get more involved with CodeRefinery. Contact to Sabry (CodeR
   - _DT_ will prepare a changed text and circulate for comments
   - online board meeting to vote for changes within 1 week, in time for election
 - Several current board members have not attended all board meetings, did not reply to invitations or seem disengaged. Do they really want to be on the board? 
-  - _EF_ and _FB_ will talk to them and ask whether they would prefer to resign.
+  - _EF_ and _FB_ will talk to them and ask whether they would prefer to resign. **THIS IS NOT CORRECT, _FB_ DID NOT VOLUNTEER FOR THIS, AND IT IS UNCLEAR WHO _EF_ IS. I SEEM TO RECALL _MA_ VOLUNTEERED, BUT PLEASE DOUBLE-CHECK**
 - practical issues: in-person vote may not be the nicest solution if there is competition.
   - set up a webpage with people description, and a nettskjema for voting (majority vote) -> _EP_
   - Send out at least 1 week before Christmas party. -> _EP_
@@ -32,12 +32,12 @@ FB is interested to get more involved with CodeRefinery. Contact to Sabry (CodeR
 DSC staff will organise cofffee and snacks. Nice if it is not just crisps and cookies, but people could bring something to share. _DT_ will try to make a pie, more people? Try to put that into the reminder email sent out some days before to make it more attractive
 
 ### 4. Status on find-more-instructors advertising stunt / How to get more advanced-level carpentry courses?
-- 3 new instructors, one postdoc and two PhD students, on-boarding session done via zoom. All are eager to help. One is interested in instructor training. 
+- 3 new instructors, one postdoc and two PhD students, on-boarding session done via zoom. All are eager to help. One is interested in instructor training. One is already participating as a helper at the version control WS.  
 - GitHub and Vortex UiO pages & join us nettskjema are updated, thanks DSC staff!
 - send out an ad on the MN newsletter in early January in time before the January planning meeting (23.1.) -> _DT_ asks Susann for the dates
-- be more present at events: Data science days, bioinformatics week -> add a stand, distribute flyers, sneak in a quick presentation/call for new members/instructors
+- be more present at events: Data science days, Oslo Bioinformatics Workshop Week (_MA_ is organiser, _FB_ will provide a workshop, [link to general event](https://www.mn.uio.no/sbi/english/events/oslo-bioinformatics-workshop-week-2024/)) -> add a stand, distribute flyers, sneak in a quick presentation/call for new members/instructors
 
 ### 5. Varia 
-One candidate selected for this year's instructor training spots, _EP_ will send an invite email.
+One candidate selected for this year's instructor training spots, _EP_ will send an invite email. 4 spots left.
 
-**Sign** EP
+**Sign** EP, FB
