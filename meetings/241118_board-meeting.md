@@ -40,4 +40,4 @@ DSC staff will organise cofffee and snacks. Nice if it is not just crisps and co
 ### 5. Varia 
 One candidate selected for this year's instructor training spots, _EP_ will send an invite email. 4 spots left.
 
-**Sign** EP, FB, MOAB
+**Sign** EP, FB, MA
