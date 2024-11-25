@@ -22,7 +22,7 @@ FB is interested to get more involved with CodeRefinery. Contact to Sabry (CodeR
   - _DT_ will prepare a changed text and circulate for comments
   - online board meeting to vote for changes within 1 week, in time for election
 - Several current board members have not attended all board meetings, did not reply to invitations or seem disengaged. Do they really want to be on the board? 
-  - _EF_ and _FB_ will talk to them and ask whether they would prefer to resign. **THIS IS NOT CORRECT, _FB_ DID NOT VOLUNTEER FOR THIS, AND IT IS UNCLEAR WHO _EF_ IS. I SEEM TO RECALL _MA_ VOLUNTEERED, BUT PLEASE DOUBLE-CHECK**
+  - _EP_ and _MA_ will talk to them and ask whether they would prefer to resign. 
 - practical issues: in-person vote may not be the nicest solution if there is competition.
   - set up a webpage with people description, and a nettskjema for voting (majority vote) -> _EP_
   - Send out at least 1 week before Christmas party. -> _EP_
