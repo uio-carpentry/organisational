@@ -3,8 +3,9 @@
 **Chair**: DT  
 **Minutes**: DT
 
-**Attendees**: DT, FB, MA, DSC/library: EP, MG 
+**Attendees**: DT, FB, MA, DSC/library: EP, MG  
 Excused: MLB, LEM
+Absent: NF, RS
 
 ### 1. Update on Carpentry courses and CodeRefinery 
 Successful courses this semester with many participants, two courses (UNIX, git) still to go.
@@ -40,5 +41,5 @@ DSC staff will organise cofffee and snacks. Nice if it is not just crisps and co
 ### 5. Varia 
 One candidate selected for this year's instructor training spots, _EP_ will send an invite email. 4 spots left.
 
-**Sign** EP, FB, MA
-**Edited:** 25.11.2024, DT, corrected assigned people for point 2 after request from FB
+**Sign** EP, FB, MA  
+**Edits:** 25.11.2024, DT, corrected assigned people for point 2 after request from FB
