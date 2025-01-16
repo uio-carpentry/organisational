@@ -4,12 +4,16 @@ All board members (maybe anyone, actually?) can add points to the agenda below.
 
 
 ## Discussion points (not in any specific order):
+- instructor call via MN early-career newsletter, contact with Susann established, they are waiting for our input (see board meeting minutes of 2024)
+  
+- update [list of active community members](https://www.ub.uio.no/english/libraries/dsc/carpentry-uio/)
+
 - How to handle empty board seats?The charter has a few lines on what is happening if there are empty seats in between elections, basically giving the board the option to do their best to fill empty seats. We tried this in 2024 and got two members on the board. Should we continue this practice? Should board-appointed members be voted in/confirmed officially at a community meeting/the bext election? We should avoid that the board just picks and chooses members, otherwise the board may lose legitimity/trust from the community?
 
 - Are further changes to the charter needed, for example a minimum number of board members? See comments in the [20241125 charter changes discussion document](https://docs.google.com/document/d/1_D86R3NB5Kd9ynGKsuvT3WdFBIfhW8KStCXdAapuGv4/edit?usp=sharing)
   
 - Get in touch with dScience to coordinate activities.
-There is inarguably overlap between some WS they are providing and Software Carpentry materials (see e.g. this WS at DSD25)
+There is inarguably overlap between some WS they are providing and Software Carpentry materials (see e.g. this WS at DSD25). Ask them how their git workshop went (as we usually have very few participants)
 
 - Add data collection consent to course sign-ups
     - discussed already in 2022: we would like to know who is attending our courses, see [221213 board meeting minutes](https://github.com/uio-carpentry/organisational/blob/master/meetings/221213_board_meeting.md)
