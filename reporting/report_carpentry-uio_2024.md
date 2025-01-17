@@ -1,6 +1,6 @@
 ---
-title: "Carpentry@UiO 2023 Annual Report"
-date: "2023-11-27"
+title: "Carpentry@UiO 2024 Annual Report"
+date: "2025-01-17"
 ---
 
 # Carpentry@UiO 2023 Annual Report
