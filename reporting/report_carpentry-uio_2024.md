@@ -9,7 +9,8 @@ date: "2025-01-17"
 
 ## Workshops held 
 
-- A total of 11 workshops
+- A total of 8 workshops
+- One Databases and SQL-workshop (June 6) was cancelled
 - Three 2-day Carpentry workshops (R, Tidyverse, R-Tidyverse)
 - Six 1-day Carpentry workshops (R, Unix Shell, Git and SQL)
 - All workshop were held in-person
