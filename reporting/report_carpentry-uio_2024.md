@@ -77,13 +77,6 @@ Rules for elections have been modified to require that elections be held every y
 ### Website
 
 #### Workshop page
-- Where: https://www.ub.uio.no/english/courses-events
-
- 
-
-### Website
-
-#### Workshop page
 
 * Where: [https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/](https://www.ub.uio.no/english/courses-events/courses/carpentry/)
 
@@ -99,7 +92,15 @@ Rules for elections have been modified to require that elections be held every y
 
 * Structure: Currently a single page under DSC's site. Giving info about who we are, what we are doing, and how to get involved, as well as an explanation of the Carpentries.
 
-### TO DO FOR 2024 NOTES
+#### Public page
+
+* Where: https://uio-carpentry.github.io/
+
+* Focus: public site containing more detailed information about the community and how it operates
+
+* Structure: published via this Github repository
+  
+### TO DO FOR 2025 NOTES
 
 * When sending the post-workshop survey send also link to DSC newsletter 
 
