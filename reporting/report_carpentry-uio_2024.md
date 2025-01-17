@@ -3,9 +3,9 @@ title: "Carpentry@UiO 2024 Annual Report"
 date: "2025-01-17"
 ---
 
-# Carpentry@UiO 2023 Annual Report
+# Carpentry@UiO 2024 Annual Report
 
-*Report written by Elisa Pierfederici, Sofie Gilbert and Matthew Good (University of Oslo library)*
+*Report written by Elisa Pierfederici, My Lothe Bjørnflaten and Matthew Good (Digital Scholarship Centre - University of Oslo library)*
 
 ## Workshops held 
 
