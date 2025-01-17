@@ -10,6 +10,7 @@ date: "2025-01-17"
 ## Workshops held 
 
 - A total of 8 workshops
+- Conda and Docker workshop was run for the first time
 - One Databases and SQL-workshop (June 6) was cancelled
 - 4 2-day (R, Python)
 - 4 1 -day (Unix Shell, SQL, Conda and Docker, Git)
