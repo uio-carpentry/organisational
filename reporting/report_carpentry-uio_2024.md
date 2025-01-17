@@ -74,13 +74,6 @@ Board Members (4 positions)
 
 Rules for elections have been modified to require that elections be held every year at the annual community meeting (preferably in November or December) for at least two of the board positions.
 
-### New roles 
-
-Two new roles have been established this year.
-
-- **Community events officer:** Organise regular community events, for example once per semester. 
-- **Elections officer:** Recruit community members to stand for election, coordinate the election, this role should preferably be held by a board member rotating off the board at the next election. 
-
 ### Website
 
 #### Workshop page
@@ -92,7 +85,7 @@ Two new roles have been established this year.
 
 #### Workshop page
 
-* Where: https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/
+* Where: [https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/](https://www.ub.uio.no/english/courses-events/courses/carpentry/)
 
 * Focus: Descriptions of typical lessons covered and format of the workshops.
 
