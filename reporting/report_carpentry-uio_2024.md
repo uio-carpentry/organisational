@@ -14,7 +14,7 @@ date: "2025-01-17"
 - One Databases and SQL-workshop (June 6) was cancelled
 - 4 2-day (R, Python)
 - 4 1 -day (Unix Shell, SQL, Conda and Docker, Git)
-- All workshop were held in-person
+- All workshops were held in-person
 
 | Date       | Topic                                              | Mode   | Registered_Attendees |
 |------------|----------------------------------------------------|--------|----------------------|
@@ -79,6 +79,7 @@ Positive Feedback:
 Areas for Improvement:
 - Include detailed examples and practical exercises.
 - Clarify the exact times and duration of the sessions beforehand.
+
 Positive Feedback:
 - The sessions provided valuable information on Conda and Docker.
 - Working along with the instructor made complex topics easier to grasp.
@@ -86,7 +87,7 @@ Positive Feedback:
 ## Social events
 
 - CarpentryUiO Community Social Gathering (February 29, April 17, June 4, September 18)
-- Carpentry@UiO end of year party (December 18)
+- Carpentry@UiO end-of-year party (December 18)
 - Carpentry@UiO dinner with the board (November 18)
 
 ## Welcome new members 
@@ -96,7 +97,7 @@ We held two Zoom meetings to introduce newcomers to the Carpentry Community.
 
 ### Board
 
-The last Carpentry board election was last held in December 2023. A new election is planned for January 2025. The Board consisted of the following members:
+The last Carpentry board election was held in December 2023. A new election is planned for January 2025. The Board consisted of the following members:
 
 - **Chair:** Desiree Treichler
 - **Vice-chair:** Federico Bianchini
@@ -113,7 +114,7 @@ The Board can be contacted via board @ carpentry dot uio dot no. The Board had s
 
 ### Elections
 
-On December 7, 2023, an election was held for new Carpentry@UiO leadership at the annual End of Year party. Three longstanding members of the board left their positions openinge up 4 positions for the board. The positions available were: 
+On December 7, 2023, an election was held for new Carpentry@UiO leadership at the annual End of Year party. Three longstanding members of the board left their positions opening up 4 positions for the board. The positions available were: 
 
 Board Members (4 positions)
 - Two members for 3-year terms
@@ -145,17 +146,17 @@ Rules for elections have been modified to require that elections be held every y
 
 * Focus: public site containing more detailed information about the community and how it operates
 
-* Structure: published via this Github repository
+* Structure: published via this GitHub repository
   
 ### TO DO FOR 2025 NOTES
 * Continue with the following suggestions from 2024:
-    * When sending the post-workshop survey send also link to DSC newsletter 
+    * When sending the post-workshop survey send also link to the DSC newsletter 
 
     * Continue to open the courses for a number greater than the actual capacity, this helps to prevent low turn-out even when people deregister. 
 
-    * When sending out reminder emails (1 week before workshop) add that there is a waitlist, asking people to please deregister if they do not intend on attending, this also helps to prevent low turn-out.
+    * When sending out reminder emails (1 week before the workshop) add that there is a waitlist, asking people to please deregister if they do not intend on attending, this also helps to prevent low turn-out.
 
-    * Course information needs to be made more visible for the participants in the site and sending an e-mail with set-up instructions in advance
+    * Course information needs to be made more visible for the participants on the site and sending an e-mail with set-up instructions in advance
 
     * Make a recurrent social event for the community (once a month) 
 
