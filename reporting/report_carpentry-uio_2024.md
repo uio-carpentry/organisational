@@ -72,6 +72,8 @@ Board Members (4 positions)
 - Two members for 3-year terms
 - Two members for 2-year terms
 
+The new board and their roles are presented in the previous section. Due to scheduling conflicts we were unable to hold an election at the end of 2024. However, an election is planned during the community meeting in January 2025. 
+
 Rules for elections have been modified to require that elections be held every year at the annual community meeting (preferably in November or December) for at least two of the board positions.
 
 ### Website
