@@ -5,7 +5,9 @@ date: "2025-01-17"
 
 # Carpentry@UiO 2024 Annual Report
 
-*Report written by Elisa Pierfederici, My Lothe Bjørnflaten and Matthew Good (Digital Scholarship Centre - University of Oslo library)*
+*Report written by Elisa Pierfederici, My Lothe Bjørnflaten, and Matthew Good (Digital Scholarship Centre - University of Oslo Library)*
+
+*Revision and minor contributions from Federico Bianchini (Department of Biosciences - University of Oslo)*
 
 ## Workshops held 
 
