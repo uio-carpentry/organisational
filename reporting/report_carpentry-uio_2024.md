@@ -16,17 +16,14 @@ date: "2025-01-17"
 
 | Date       | Topic                                              | Mode   | Registered_Attendees |
 |------------|----------------------------------------------------|--------|----------------------|
-| 2023-03-08 | Plotting and Programming with Python (Gapminder)   | on-site| 30                   |
-| 2023-03-14 | Data Carpentry: Social Sciences and Humanities Using R | on-site | 24                 |
-| 2023-03-21 | The Unix shell: tips and tricks to make your life easier | on-site | 23               |
-| 2023-04-24 | R for Reproducible Scientific Analysis             | on-site| 37                   |
-| 2023-05-09 | UNIX Shell                                         | on-site| 12                   |
-| 2023-05-30 | Data Carpentry: Social Sciences and Humanities Using R | on-site | 24                 |
-| 2023-06-08 | How to use {targets} for effective workflows in R  | on-site| 22                   |
-| 2023-09-19 | Version Control with Git                           | on-site| 11                   |
-| 2023-10-12 | Unix Shell                                         | on-site| 16                   |
-| 2023-11-06 | Data Carpentry: Social Sciences and Humanities Using R | on-site | 21                 |
-| 2023-11-16 | R for Reproducible Scientific Analysis             | on-site| 24                   |
+| 2024-04-03 | Plotting and Programming with Python               | on-site| 22                   |
+| 2024-05-27 | Data Carpentry: Social Sciences and Humanities Using R | on-site | 17                 |
+| 2024-10-09 | Conda and Docker                                   | on-site| 12                  |
+| 2024-10-15 | Plotting and Programming with Python               | on-site| 24                   |
+| 2024-10-17 | Databases and SQL                                  | on-site| 27
+| 2024-10-28 | Data Carpentry: Social Sciences and Humanities Using R | on-site | 28               |
+| 2024-11-20 | Unix Shell                                         | on-site| 17                  |
+| 2024-11-28 | Version Control with Git                           | on-site| 19                  |
 
 ## Workshop evaluation
 
