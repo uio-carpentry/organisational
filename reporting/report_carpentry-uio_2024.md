@@ -101,23 +101,17 @@ Rules for elections have been modified to require that elections be held every y
 * Structure: published via this Github repository
   
 ### TO DO FOR 2025 NOTES
+* Continue with the following suggestions from 2024:
+    * When sending the post-workshop survey send also link to DSC newsletter 
 
-* When sending the post-workshop survey send also link to DSC newsletter 
+    * Continue to open the courses for a number greater than the actual capacity, this helps to prevent low turn-out even when people deregister. 
 
-* Continue to open the courses for a number greater than the actual capacity, this helps to prevent low turn-out even when people deregister. 
+    * When sending out reminder emails (1 week before workshop) add that there is a waitlist, asking people to please deregister if they do not intend on attending, this also helps to prevent low turn-out.
 
-* When sending out reminder emails (1 week before workshop) add that there is a waitlist, asking people to please deregister if they do not intend on attending, this also helps to prevent low turn-out.
+    * Course information needs to be made more visible for the participants in the site and sending an e-mail with set-up instructions in advance
 
- * Course information needs to be made more visible for the participants in the site and sending an e-mail with set-up instructions in advance
+    * Make a recurrent social event for the community (once a month) 
 
-* Make a recurrent social event for the community (once a month) 
+    * The Board should host information meetings of some form for new Carpentry@UiO members
 
-* The Board should host information meetings of some form for new Carpentry@UiO members
-
-##### Email Templates (all can be found in the Teams Carpentry@UiO folder):	
-
-* Continue to send a reminder email to registered participants one-week before the workshop. 
-
-* Continue to send a reminder email to registered participants with the pre-workshop survey 2 days before the workshop. 
-
-* Continue to send a post-workshop email to registered participants immediately after the workshop, including the post-workshop survey link. 	
+* Work to revive Study Groups aiming for 4 meetings a semester
