@@ -163,3 +163,4 @@ Rules for elections have been modified to require that elections be held every y
 
 * Work to revive Study Groups aiming for 4 meetings a semester
 
+* Focusing on recruiting new members, particularly instructors. Plan to show up to open days and events as opportunities to showcase and promote the Carpentry Community.
