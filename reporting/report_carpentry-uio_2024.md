@@ -51,30 +51,30 @@ However, they suggested some improvements: including more advanced topics, makin
 
 ### Board
 
-The last Carpentry board election was held in March 2020. Although it was previously established that elections were to take place every two years from that point, the election was postponed due to the pandemic. However, an election will be held in December 2023. As of November 2023, the Board consists of the following members:
+The last Carpentry board election was last held in December 2023. A new election is planned for January 2025. The Board consisted of the following members:
 
-- **Chair:** Lex Nederbragt
-- **Vice-chair:** Mohamed Abdelhamid 
-- **Communications officer:** Anne Bergsaker
-- **Secretary:** Désirée Treichler
-- **Community events officer:** Elisa Pierfederici
-- **Elections officer:** TBD
+- **Chair:** Desiree Treichler
+- **Vice-chair:** Federico Bianchini
+- **Communications officer:** Mohamed Abdelhalim
+- **Secretary:** Luis Eduardo Munoz
+- **Community events officer:** Nazeefa Fatima
+- **Elections officer:** Ragnhild Sundsbak
 
-- Annika Rockenberger (appointed by UiO library)
-- Sofie Gilbert (appointed by UiO library)
-- Matthew Good (representing DSC)  
+- Elisa Pierfederici (appointed by UiO library)
+- My Lothe Bjørnflaten (appointed by UiO library)
+- Matthew Good (observer, representing DSC)  
 
-The Board can be contacted via Board @ carpentry dot uio dot no. The Board had five meetings during 2023, minutes for the meetings can be found in (organisational/meetings), "yyddmm_board-meeting.md".
+The Board can be contacted via board @ carpentry dot uio dot no. The Board had seven meetings during 2024, minutes for the meetings can be found in (organisational/meetings), "yyddmm_board-meeting.md".
 
 ### Elections
 
-On December 7, 2023, an election will be held for new Carpentry@UiO leadership at the annual End of Year party. The positions available are: 
+On December 7, 2023, an election was held for new Carpentry@UiO leadership at the annual End of Year party. Three longstanding members of the board left their positions openinge up 4 positions for the board. The positions available were: 
 
 Board Members (4 positions)
 - Two members for 3-year terms
 - Two members for 2-year terms
 
-As we do not elect specific roles during the election, such as the chair or others, the elected members will determine the roles of the board themselves. Therefore, as of the current date (11-27-23) we do not have the newly elected board members' names. 
+Rules for elections have been modified to require that elections be held every year at the annual community meeting (preferably in November or December) for at least two of the board positions.
 
 ### New roles 
 
