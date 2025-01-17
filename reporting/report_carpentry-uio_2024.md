@@ -39,10 +39,10 @@ Participant feedback collected via post-its during various workshops conducted t
 - Address issues such as inadequate screens. Note: A new HDMI/USB-C cable has been ordered.
 
 **Positive Feedback:**
-Well-Structured Exercises: Participants praised the organization and quality of exercises.
-Clear and Helpful Instructors: Instructors were clear and supportive, making learning easier.
-Engaging Learning: The use of real data and interactive methods was well-received.
-Ease of Following: The workshops were straightforward, with a good pace and clear directions.
+- Participants praised the organization and quality of exercises.
+- Instructors were clear and supportive, making learning easier.
+- The use of real data and interactive methods was well-received.
+- The workshops were straightforward, with a good pace and clear directions.
   
 ## **Specific Workshop Feedback**
 
@@ -84,8 +84,9 @@ Positive Feedback:
 
 ## Social events
 
-- CarpentryUiO Community Social Gathering (September 7)
-- Carpentry@UiO end of year party (December)
+- CarpentryUiO Community Social Gathering (February 29, April 17, June 4, September 18)
+- Carpentry@UiO end of year party (December 18)
+- Carpentry@UiO dinner with the board (November 18)
 
 ## Organisation
 
