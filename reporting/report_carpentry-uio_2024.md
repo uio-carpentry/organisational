@@ -27,18 +27,60 @@ date: "2025-01-17"
 | 2024-11-28 | Version Control with Git                           | on-site| 19                  |
 
 ## Workshop evaluation
+Participant feedback collected via post-its during various workshops conducted throughout the year. 
 
-### Spring semester
-In the Spring semester workshops, participants appreciated the thorough coverage of basics in spreadsheets and R, the friendly atmosphere, and the knowledgeable instructors. The structured, step-by-step approach and the availability of immediate assistance were highlighted as major strengths. The workshops were also commended for their suitable pace and starting from the basics.
+## **General Feedback Across Workshops**
 
-However, attendees suggested improvements such as more information on applications, spreading the content over three days for a better pace, higher-level workshops, and more comprehensive material coverage. A pre-session for technical setup and slower pacing in certain sections were also recommended.
+**Areas for Improvement:**
+- Add a quick summary at the beginning of each session.
+- Increase group discussions and add more breaks.
+- Slow down in sessions where participants are new to the topic.
+- Include more real-world examples and applications.
+- Address issues such as inadequate screens. Note: A new HDMI/USB-C cable has been ordered.
 
-Instructors and helpers were praised for their effective problem-solving support and clear explanations, especially for non-intuitive coding aspects. While the workshops were well-received for their beginner-friendly approach, there was a desire for advanced content and better preparatory resources.
+**Positive Feedback:**
+Well-Structured Exercises: Participants praised the organization and quality of exercises.
+Clear and Helpful Instructors: Instructors were clear and supportive, making learning easier.
+Engaging Learning: The use of real data and interactive methods was well-received.
+Ease of Following: The workshops were straightforward, with a good pace and clear directions.
+  
+## **Specific Workshop Feedback**
 
-### Fall semester workshops
-Participants really liked the hands-on approach and how easy it was to learn different tasks, especially in bash and Python. They appreciated the interactive sessions, the immediate help available, and the encouragement to ask questions.
+### **R Software Workshop:**
 
-However, they suggested some improvements: including more advanced topics, making the learning environment more comfortable, adding more challenging tasks, and extending the workshop duration to cover the material more thoroughly, especially for beginners. Overall, the feedback was very positive, with strong support for continuing these courses.
+Areas for Improvement:
+- Improve explanations for certain functions like factors and mute.
+- Start sessions with a clear agenda to set daily goals.
+
+Positive Feedback:
+- The basics of R were taught efficiently and thoroughly.
+- The structured and interactive setup was highly effective.
+
+### **Plotting and Programming with Python:**
+Areas for Improvement:
+- Keep sessions on track and minimize interruptions from frequent questions.
+- Ensure the pace suits everyone, especially those new to Python.
+- Sum up key points at the end of each session to reinforce learning.
+
+Positive Feedback:
+- Different teaching styles from multiple instructors enriched the learning experience.
+- A good balance of theory and practical exercises was maintained.
+
+### **Git and GitHub Workshop:**
+Areas for Improvement:
+- Participants expressed a need for more advanced content.
+
+Positive Feedback:
+- The workshop was straightforward and easy to understand.
+- Participants gained a good baseline knowledge of Git and GitHub.
+
+### **Conda and Docker Workshop:**
+Areas for Improvement:
+- Include detailed examples and practical exercises.
+- Clarify the exact times and duration of the sessions beforehand.
+Positive Feedback:
+- The sessions provided valuable information on Conda and Docker.
+- Working along with the instructor made complex topics easier to grasp.
 
 ## Social events
 
@@ -71,8 +113,6 @@ On December 7, 2023, an election was held for new Carpentry@UiO leadership at th
 Board Members (4 positions)
 - Two members for 3-year terms
 - Two members for 2-year terms
-
-The new board and their roles are presented in the previous section. Due to scheduling conflicts we were unable to hold an election at the end of 2024. However, an election is planned during the community meeting in January 2025. 
 
 Rules for elections have been modified to require that elections be held every year at the annual community meeting (preferably in November or December) for at least two of the board positions.
 
@@ -117,3 +157,4 @@ Rules for elections have been modified to require that elections be held every y
     * The Board should host information meetings of some form for new Carpentry@UiO members
 
 * Work to revive Study Groups aiming for 4 meetings a semester
+
