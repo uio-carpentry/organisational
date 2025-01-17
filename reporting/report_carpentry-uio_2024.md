@@ -89,6 +89,9 @@ Positive Feedback:
 - Carpentry@UiO end of year party (December 18)
 - Carpentry@UiO dinner with the board (November 18)
 
+## Welcome new members 
+We held two Zoom meetings to introduce newcomers to the Carpentry Community.
+
 ## Organisation
 
 ### Board
