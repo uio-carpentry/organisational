@@ -66,6 +66,9 @@ Areas for Improvement:
 Positive Feedback:
 - Different teaching styles from multiple instructors enriched the learning experience.
 - A good balance of theory and practical exercises was maintained.
+  
+Note from the instructors:
+- We held for the first time a drop-in session before the event to help people get started. While we did not get many people at the said session, this possibly pushed people into verifying their setup beforehand. As a possible consequence of this, the start of the session was smoother than it has been in the last couple of years.
 
 ### **Git and GitHub Workshop:**
 Areas for Improvement:
@@ -75,6 +78,9 @@ Positive Feedback:
 - The workshop was straightforward and easy to understand.
 - Participants gained a good baseline knowledge of Git and GitHub.
 
+Note from the instructors:
+- The material does not cover some extremely relevant parts. We would like attendants to be able to create Pull Requests on GitHub, rather than push to each other's Main branches. This also means that we should plan for a longer second part of the workshop.
+
 ### **Conda and Docker Workshop:**
 Areas for Improvement:
 - Include detailed examples and practical exercises.
@@ -83,6 +89,9 @@ Areas for Improvement:
 Positive Feedback:
 - The sessions provided valuable information on Conda and Docker.
 - Working along with the instructor made complex topics easier to grasp.
+
+Note from the instructors:
+- Some of the materials from the reference main pages are outdated (or not necessarily relevant). It is sometimes tricky to explain to the audience that we are not following the web pages step by step. 
 
 ## Social events
 
