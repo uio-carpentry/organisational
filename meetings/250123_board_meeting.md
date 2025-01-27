@@ -64,7 +64,7 @@ TASK Group Collaboration: Address overlapping activities with TASK Group (R, Sta
 
 ## 5. Action Items
 
-EP to draft a collaboration proposal and share with the board.
+EP to draft a collaboration proposal and share with the board (dScience, IT etc.).
 
 Initiatives to more actively use the MatNat mailing list for promotion.
 
@@ -84,5 +84,5 @@ DT will be available for questions even if she is no longer part of the board.
 
 ## Meeting approved (sign your initials): 
 
-MLB, 
+MLB, EP
 
