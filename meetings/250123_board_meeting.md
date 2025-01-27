@@ -78,3 +78,7 @@ Next Meeting: Thursday 20th, 13:30 – 14:30.
 
 DT will be available for questions even if she is no longer part of the board.
 
+## Meeting approved (sign your initials): 
+
+MLB, 
+
