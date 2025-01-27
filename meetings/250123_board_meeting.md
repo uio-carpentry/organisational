@@ -3,7 +3,8 @@
 **Chair**: DT/FB
 **Minutes**: MLB
 
-**Attendees**: DT, FB, RS, LM, AL, MA From DSC and Library: MLB, EP. Absent: NF
+**Attendees**: DT, FB, RS, LM, AL, MA From DSC and Library: MLB, EP. 
+Absent: NF
     
 
 ## 1. Onboarding and New Member
