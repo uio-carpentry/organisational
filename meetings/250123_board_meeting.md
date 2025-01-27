@@ -13,9 +13,9 @@ Absent: NF
 
 Onboarding checklist reviewed (board/on-offboarding_board.md).
 
-Arturo is now an elected member of Carpentry@UiO, following a board vote.
+AL is now an elected member of Carpentry@UiO, following a board vote.
 
-Arturo's Details Needed:
+AL's Details Needed:
 
 GitHub account username
 
@@ -54,8 +54,12 @@ Social Events Officer: Coordinate responsibilities and events.
 
 ## 4. Discussion Points
 
-New Member NB: Intends to obtain instructor certification and will assist as SQL helper. Unanimous vote of YES for NB to receive a token.
+New Member: NB. 
+
+Intends to obtain instructor certification and will assist as SQL helper. Unanimous vote of YES for NB to receive a token.
+
 Collaboration with dScience: Discussed possibilities to collaborate. Federative involvement suggested between the board and key dScience personnel (LN, MG).
+
 TASK Group Collaboration: Address overlapping activities with TASK Group (R, Stata, SPSS, Python). Seek collaboration.
 
 ## 5. Action Items
