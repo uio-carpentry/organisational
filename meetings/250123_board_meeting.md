@@ -62,5 +62,5 @@ Board roles distributed as follows:
 
 ## Meeting approved (sign your initials): 
 
-MLB, EP, FB
+MLB, EP, FB, LM
 
