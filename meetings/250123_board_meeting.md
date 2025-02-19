@@ -1,4 +1,4 @@
-# Board Election and Transition Meeting Minutes, 23-02-2025
+# Board Election and Transition Meeting Minutes, 23-01-2025
 
 **Chair**: DT/FB
 
