@@ -71,6 +71,6 @@
 
 ## Next meeting: 
 
-When? 
+TBA
  
 ## Minutes approved (sign your initials): 
