@@ -14,8 +14,9 @@
 ## 1. Important
 
 * We probably need a strategy to get new instructors. It is my understanding that we have 5 tokens, 2 of which have been used (AVPDL, NDYB). We need to fill out the three spots before June, could we come up with some names? This also links with reaching out to other UiO parties.
-* We will try, and we have to think further. Maybe use the spots stretegically when we reqruit, for instance to dScience? Or open call - with deadline. A different approach, must be a little careful, but we must be a little aggressive to get more people. Not too dangerous. Everybody agreed on the approach. 4 new members/interest in 2025. Zoom - welcome call tomorrow. EP and MLB: Make event, nettskjema, send out with deadline and link to official Carpentry page with dates. 
-* Also; keeping new members interested longer. Try to not lose them. 
+* We will try, and we have to think further. Maybe use the spots stretegically when we reqruit, for instance to dScience? Or open call - with deadline. A different approach, must be a little careful, but we must be a little aggressive to get more people. Not too dangerous. Everybody agreed on the approach. 4 new members/interest in 2025. Zoom - welcome call tomorrow. Also; keeping new members interested longer. Try to not lose them. 
+* EP and MLB: Make event, nettskjema, send out with deadline and link to official Carpentry page with dates. 
+
   * Also, the [dedicated spreadsheet](https://docs.google.com/spreadsheets/d/1-ZWKY2Q2gTa3kRfcuniMMdaFyp6VrOz913eqCXDUCq8/edit?gid=1094759204#gid=1094759204) was not curated in the latest period. Do we still keep it? I feel taking care of this is part of the role of the communication officer (EP).
   * EP: This spreadsheet is now updated.
 
@@ -64,7 +65,7 @@
   * If we have this information and it looks useful, shall we try to have a meeting with the instructors to discuss it?
  * 0 of 2 Centrally-Organised workshop(s) organised this year. To schedule a workshop, please submit a workshop request form at least 2-3 months before your desired workshop date. Workshop benefits will be forfeited if they are not used before the end of the membership.
    * Can someone come up with more details here? Do we even want this? Could this be a way of getting more action? Or would it just be a repetition of what we provide already with more overhead? Opinions?
-   * It costs a little. We must provide board and travel for instructor. Maybe not so beneficial for us. Better to use our own reseources. 
+   * It costs a little. We must provide board and travel for instructor. Maybe not so beneficial for us. Better to use our own resources. 
    * Re-start Study group with a focus on AI
      * This is already happening at the library and RS is involved. We could come up with something else if necessary, but what? How did this work in the past? What did people find useful? (I feel our interests are a bit too fragmented, it is not straightforward to find something that would make everyone happy - FB) 
 
