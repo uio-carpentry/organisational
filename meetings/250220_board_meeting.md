@@ -4,7 +4,7 @@
 
 **Minutes**: MLB
 
-**Attendees**: RB, LM, MG, EP, MLB, AP
+**Attendees**: FB, LM, MG, EP, MLB, AP
 
 **Excused**: RS
 
