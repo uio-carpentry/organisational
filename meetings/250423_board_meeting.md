@@ -4,9 +4,9 @@
 
 **Minutes**: FB
 
-**Attendees**: FB, EP, MLB, RS
+**Attendees**: FB, EP, MLB, RS, AVPL
 
-**Excused**: AL, MG, LM
+**Excused**: MG, LM
 
 **Absent**: NF
 
