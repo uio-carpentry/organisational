@@ -44,6 +44,6 @@
   * Unix shell WS ongoing today.
    * Instructors should be made aware of the preparatory steps (e.g. talking to helpers)
     * Someone please fetch the link!  
-## Aproval by the board:
+## Approval by the board:
 >[!Important]
->Please aprove the minutes by writing your intials here:
+>Please approve the minutes by writing your initials here:
