@@ -47,4 +47,4 @@
 ## Approval by the board:
 >[!Important]
 >Please approve the minutes by writing your initials here:
-**AVPL**
+**AVPL** **MLB**
