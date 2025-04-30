@@ -6,7 +6,7 @@
 
 **Attendees**: FB, EP, MLB, RS, AVPL
 
-**Excused**: MG, LM
+**Excused**: MG, LEM
 
 **Absent**: NF
 
@@ -47,4 +47,4 @@
 ## Approval by the board:
 >[!Important]
 >Please approve the minutes by writing your initials here:
-**AVPL** **MLB** **EP**
+**AVPL** **MLB** **EP** **LEM**
