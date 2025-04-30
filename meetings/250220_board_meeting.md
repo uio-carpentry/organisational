@@ -74,3 +74,4 @@
 TBA
  
 ## Minutes approved (sign your initials): 
+**LEM**
