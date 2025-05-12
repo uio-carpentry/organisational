@@ -4,6 +4,12 @@ All board members (maybe anyone, actually?) can add points to the agenda below.
 
 
 ## Discussion points (not in any specific order):
+
+* CodeRefinery phase 4 launching mid-May
+  * (to my understanding) in-kind contributions from the partners (incl. UiO, probably), NeIC to cover travel expenses.
+  * (so this indicates that this continues, although no PMs are covered).   
+
+
 - instructor call via MN early-career newsletter, contact with Susann established, they are waiting for our input (see board meeting minutes of 2024)
   
 - update [list of active community members](https://www.ub.uio.no/english/libraries/dsc/carpentry-uio/)
