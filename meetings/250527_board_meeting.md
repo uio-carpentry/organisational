@@ -2,7 +2,7 @@
 
 **Chair**: FB
 
-**Minutes**: 
+**Minutes**: FB
 
 **Attendees**: FB, EP, RS, LM, MG, MLB
 
@@ -14,28 +14,35 @@
 * Call for new instructors (3 spots left)
   * Did we get a response from CK?
   * There was somebody who responded. How did this progress?
+  * No candidates emerged.
+    * Position to be possibly filled by library staff.
+    * RS to take contact.
+    * People can use the token before registering for the actual workshop. 
       
 * Collab. with dScience and USIT:
   * [Link to document](https://docs.google.com/document/d/1SBkhuruIoOAX_1vDArCfsKK76HXoaH5SiScpR41M-rc/edit?tab=t.0)
     * There was some momentum, but things suddenly stopped.
     * There is also a mail *FINAL REMINDER: dScience Support for Researchers at the University of Oslo - apply by May 30th*.
       * Do we want to go through that? Or not? Shall we try to work with the same deadline?
+    * Message is finalised and sent
         
 * NMBU
- * R-club: A former colleague of EP asked about Carpentries at NMBU
-  * We could have a meeting with them (group of 3-4 people)
-  * UiO has 2 central organised WS which could be given to NMBU
-   * Idea: 2 distinct WSs, one SC-oriented and the second (independent) more bioinformatics-oriented
-   * Actions: AL to create a poll, EP to follow up as well  
-
+  * EP and AV will be at NMBU in early June to discuss and present SC. 
+ 
 * Last workshop for the term ended.
   * Considerations? How was this term? What works fine? Do we have a procedure for assessing these things?
+    * All core WS were provided good attendance
+    * Try to implement 2-step registration to facilitate waiting list processes
 
 * AOB
   * CodeRefinery phase 4 launching mid-May
     * (to my understanding) in-kind contributions from the partners (incl. UiO, probably), NeIC to cover travel expenses.
     * (so this indicates that this continues, although no PMs are covered).
     * [Possible documentation](https://github.com/coderefinery/reports-and-proposals/tree/main/phase-4-proposal)
+ * Social gathering
+   * Not successful
+   * Idea: organise some WS-like event with a gathering (i.e. food) afterwards
+     * Format: discuss together WSs from the incubator.   
 
 ## Approval by the board:
 >[!Important]
