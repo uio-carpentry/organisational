@@ -4,11 +4,11 @@
 
 **Minutes**: 
 
-**Attendees**: FB
+**Attendees**: FB, EP, RS, LM, MG, MLB
 
-**Excused**:
+**Excused**: AV
 
-**Absent**:
+**Absent**: NF
 
 
 * Call for new instructors (3 spots left)
