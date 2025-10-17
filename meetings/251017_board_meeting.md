@@ -14,13 +14,21 @@
      * Potentially confusing, as people not involved are listed on the page, and people involved are not
      * Outdated installation setup, as the lesson moved away from Anaconda due to unclear policy for research and excessive pushing of commercial solutions
      * Q: Would it be possible to get rid of the repo and start from scratch? It would be cleaner and safer than starting to commit to the outdated template.
+     * Answer: It was done to avoid a situation where Elisa would have to build or fix the repository later on (as happened before with the Unix Shell workshop, when Elisa had to fix the repository content).
+               We can create a new one — that’s not a problem.
+               As for the confusion, I think it depends. For example, the SQL workshop has stayed mostly the same over the years; only the helper names changed. So it’s easier to copy the previous version and just update the helper names — less effort for everyone. The same was the case for Unix Shell (only the                 name and a few details needed updating), and it’s a similar situation for R (just some name changes and a few more small edits).
    * NMBU’s first Carpentry workshop
+     * do we have a page for the course?
+     * need to show collaboration between the two univeristy (website?)
+     * contact the NMBU library (Elisa)
    * Token and new instructors
      * AVP received a token from the new lot
      * I am assuming CHS received one from the old allocation, but let me know if I am wrong
        * In other words, we have 4 tokens left, is that right? 
      * BNW possibility of getting a token for instructor training
        * Q: Did she sign up for co-instructing/helping this term?
+      <img width="882" height="326" alt="image" src="https://github.com/user-attachments/assets/3c8736f3-ff70-42fc-86a8-abbcbc283cf4" />
+
    * Regarding following up with new instructors: nobody followed up with AVP before the summer, which resulted in a lost token. We should re-establish the practice of following up with new instructors regularly (like AB was doing at some point)
      * How do we ensure this is happening? 
    * CodeRefinery: report from the all-hands meeting (NeIC); collaboration; restructuring the UiO page into a collaboration page, etc.
