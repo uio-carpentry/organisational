@@ -10,6 +10,10 @@
 
 **Absent**:
 
+   *  [Repository for Python WS](https://uio-carpentry.github.io/2025-10-29/) initisalised as a copy of the previous iteration
+     * Potentially confusing, as people not involved are listed on the page, and people involved are not
+     * Outdated installation setup, as the lesson moved away from Anaconda due to unclear policy for research and excessive pushing of commercial solutions
+     * Q: Would it be possible to get rid of the repo and start from scratch? It would be cleaner and safer than starting to commit to the outdated template.
    * NMBU’s first Carpentry workshop
    * Token and new instructors
      * AVP received a token from the new lot
