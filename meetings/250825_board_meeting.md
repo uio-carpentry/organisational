@@ -40,5 +40,5 @@
 
 ## Approval by the board:
 >[!Important]
->Please approve the minutes by writing your initials here:
+>Please approve the minutes by writing your initials here: AVPL
 >
