@@ -27,10 +27,9 @@
        * In other words, we have 4 tokens left, is that right? 
      * BNW possibility of getting a token for instructor training
        * Q: Did she sign up for co-instructing/helping this term?
-      <img width="882" height="326" alt="image" src="https://github.com/user-attachments/assets/3c8736f3-ff70-42fc-86a8-abbcbc283cf4" />
-
    * Regarding following up with new instructors: nobody followed up with AVP before the summer, which resulted in a lost token. We should re-establish the practice of following up with new instructors regularly (like AB was doing at some point)
-     * How do we ensure this is happening? 
+     * How do we ensure this is happening?
+     <img width="882" height="326" alt="image" src="https://github.com/user-attachments/assets/3c8736f3-ff70-42fc-86a8-abbcbc283cf4" />
    * CodeRefinery: report from the all-hands meeting (NeIC); collaboration; restructuring the UiO page into a collaboration page, etc.
    * OsloMet: quick discussion
    * Community building & recruitment: how to promote and attract more instructors
