@@ -29,10 +29,8 @@
        * Q: Did she sign up for co-instructing/helping this term?
    * Regarding following up with new instructors: nobody followed up with AVP before the summer, which resulted in a lost token. We should re-establish the practice of following up with new instructors regularly (like AB was doing at some point)
      * How do we ensure this is happening?
-     Notes: AVP instructos token case was followed up to April from My. At that time the plan was that AVP would have taken the course on the following dates
+     Notes: AVP instructos token case was followed up to April from My. At that time the plan was that AVP would have taken the course on the following dates.  We normally follow up, but in this case, there was the start of a maternity leave, and AVP was probably not able to attend the course. The token was only valid before summer, so everything had to happen within a very short period of time.
      <img width="315" height="177" alt="image" src="https://github.com/user-attachments/assets/d75d326d-7bee-4a19-8a4d-2591752713c1" />
-     
-    We normally follow up, but in this case, there was the start of a maternity leave, and AVP was probably not able to attend the course. The token was only valid before summer, so everything had to happen within a very short period of time.
    * CodeRefinery: report from the all-hands meeting (NeIC); collaboration; restructuring the UiO page into a collaboration page, etc.
    * OsloMet: quick discussion
    * Community building & recruitment: how to promote and attract more instructors
