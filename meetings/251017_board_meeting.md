@@ -4,12 +4,13 @@
 
 **Minutes**: FB
 
-**Attendees**:
+**Attendees**: FB, EP, RS, LEM, MG
 
-**Excused**:
+**Excused**: 
 
-**Absent**:
+**Absent**: NF
 
+   * EP to contact NF about continuous absence 
    *  [Repository for Python WS](https://uio-carpentry.github.io/2025-10-29/) initisalised as a copy of the previous iteration
      * Potentially confusing, as people not involved are listed on the page, and people involved are not
      * Outdated installation setup, as the lesson moved away from Anaconda due to unclear policy for research and excessive pushing of commercial solutions
@@ -24,7 +25,8 @@
    * Token and new instructors
      * AVP received a token from the new lot
      * I am assuming CHS received one from the old allocation, but let me know if I am wrong
-       * In other words, we have 4 tokens left, is that right? 
+       * In other words, we have 4 tokens left, is that right?
+     * SF should be offered a token, as she co-instructed a WS. 
      * BNW possibility of getting a token for instructor training
        * Q: Did she sign up for co-instructing/helping this term?
    * Regarding following up with new instructors: nobody followed up with AVP before the summer, which resulted in a lost token. We should re-establish the practice of following up with new instructors regularly (like AB was doing at some point)
