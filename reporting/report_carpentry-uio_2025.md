@@ -13,8 +13,8 @@ date: "2025-12-22"
 
 - A total of 10 workshops
 - An Introduction to R course was run in collaboration with TASK group from the IT Department, especially with Luigi Maglanoc
+- The workshop "Fundamentals of Accelerated Computing with CUDA C/C++" run in collabroation with NAIC at UiO and the instructor Murilo Boratto from NVIDIA. 
 - 
-- One Databases and SQL-workshop (June 6) was cancelled
 - 4 2-day (R, Python)
 - 4 1 -day (Unix Shell, SQL, Conda and Docker, Git)
 - All workshops were held in-person
