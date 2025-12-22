@@ -13,7 +13,10 @@ date: "2025-12-22"
 
 - A total of 10 workshops
 - An Introduction to R course was run in collaboration with TASK group from the IT Department, especially with Luigi Maglanoc
-- The workshop "Fundamentals of Accelerated Computing with CUDA C/C++" run in collabroation with NAIC at UiO and the instructor Murilo Boratto from NVIDIA. 
+- The workshop "Fundamentals of Accelerated Computing with CUDA C/C++" run in collabroation with NAIC at UiO and the instructor Murilo Boratto from NVIDIA.
+- SQL and Databases run during the Research Data Management week (RDM week) and DSdays, and we plan to do the same in 2026.
+- In the Spring semester we run Version COntrol with GIT during the RDM Week while in the autumn semester DSC paired with dScience (Arash ) for Version control workshop (to vary and broaden the collaboration possibility).
+- Arash from Dscience was contacted for a meeting, but we need to follow up again with him in 2026.
 - 
 - 4 2-day (R, Python)
 - 4 1 -day (Unix Shell, SQL, Conda and Docker, Git)
