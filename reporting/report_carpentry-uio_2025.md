@@ -17,6 +17,11 @@ date: "2025-12-22"
 - SQL and Databases run during the Research Data Management week (RDM week) and DSdays, and we plan to do the same in 2026.
 - In the Spring semester we run Version COntrol with GIT during the RDM Week while in the autumn semester DSC paired with dScience (Arash ) for Version control workshop (to vary and broaden the collaboration possibility).
 - Arash from Dscience was contacted for a meeting, but we need to follow up again with him in 2026.
+- N of instructor training token given and new instructors ....
+- OsloMet ...
+- Call for instructors ...
+- Social gathering: we run 2 during hte spring semster and none in the autumn due to capacity;
+- CodeRefinery: ..... Collaboration with NeiC (Elisa Pierfederici in Estonia) and Sabry from IT department 
 - 
 - 4 2-day (R, Python)
 - 4 1 -day (Unix Shell, SQL, Conda and Docker, Git)
