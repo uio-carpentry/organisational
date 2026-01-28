@@ -4,7 +4,7 @@
 
 **Minutes**: FB
 
-**Attendees**: 
+**Attendees**: FB, AV, NF, RS
 
 **Excused**: 
 
