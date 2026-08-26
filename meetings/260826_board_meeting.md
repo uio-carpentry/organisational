@@ -4,13 +4,21 @@
 
 **Minutes**: FB
 
-**Attendees**:
+**Attendees**: FB, RS, AV, CHS, EP, VCR 
 
-**Excused**: 
+**Excused**: MLB
 
 **Absent**: 
 
-* We need to renew our partnership, but the available models have evolved and are now more flexible. During the meeting, we should discuss which partnership option makes the most sense for our community.
+* Round of the table
+* Status of board members:
+ * New members: VCR, CHS 
+ * HS?
+ * LM left
+  * Do not reduce number
+  * Define deputies based on overlapping tasks
+  * Eliminate roles if they are unecessary 
+* We need to renew our partnership, but the available models have evolved and are now more flexible. During the meeting, we should discuss which partnership option makes the most sense for our community. [link](https://carpentries.org/support/partnership/)
 * A key part of the discussion will be:
   * How many instructor training seats we expect to need in the coming year.
   * Whether we would like to support instructors who want to teach the new GenAI workshop: https://carpentries.org/genai/
