@@ -11,17 +11,17 @@
 **Absent**: 
 
 * Status of new instructors
- * Possible days:
-  * 2-5 June or 9-10 June
-  * 11-14 May 
- * SF received a token 
-  * last update: EP following, but it is difficult to find a spot for the instructor's training
-  * Anything new?
-   * Still did not find a suitable time slot for the instructor training
-   * Consider moving the token to somebody else and get back to her after the summer
- * BNW 
-   * Is a verified instructor
-   * Did she organise any workshops? 
+  * Possible days:
+    * 2-5 June or 9-10 June
+    * 11-14 May 
+  * SF received a token 
+    * last update: EP following, but it is difficult to find a spot for the instructor's training
+    * Anything new?
+     * Still did not find a suitable time slot for the instructor training
+     * Consider moving the token to somebody else and get back to her after the summer
+  * BNW 
+    * Is a verified instructor
+    * Did she organise any workshops? 
  * Count of tokens: AV, SF, BNW. We have two tokens left
    * We agreed last time that EP would follow up with the two Python helpers
      * Any updates
